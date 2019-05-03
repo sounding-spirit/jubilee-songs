@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://raw.githubusercontent.com/sounding-spirit/ocr-correction/master/alto-style.css"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>00000005.tif</fileName>
+      </sourceImageInformation>
+      <OCRProcessing ID="Processing">
+         <ocrProcessingStep>
+            <processingStepSettings>Image Resolution:300</processingStepSettings>
+            <processingSoftware>
+               <softwareCreator>I2S</softwareCreator>
+               <softwareName>Limb</softwareName>
+               <softwareVersion>1.0</softwareVersion>
+               <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Styles>
+      <TextStyle ID="StyleId-0" FONTSIZE="12" FONTFAMILY="Times New Roman"/>
+   </Styles>
+   <Layout>
+      <Page ID="P4"
+            PHYSICAL_IMG_NR="4"
+            HEIGHT="2400"
+            WIDTH="1725"
+            ACCURACY="0.659146845"
+            QUALITY_DETAIL="3 words, 18 chars, 13 with recognition greater than 50% (72.22%)">
+         <TopMargin ID="P4_TM00001"
+                    HPOS="0"
+                    VPOS="0"
+                    WIDTH="1725"
+                    HEIGHT="1092"/>
+         <LeftMargin ID="P4_LM00001"
+                     HPOS="0"
+                     VPOS="1092"
+                     WIDTH="417"
+                     HEIGHT="67"/>
+         <RightMargin ID="P4_RM00001"
+                      HPOS="1131"
+                      VPOS="1092"
+                      WIDTH="594"
+                      HEIGHT="67"/>
+         <BottomMargin ID="P4_BM00001"
+                       HPOS="0"
+                       VPOS="1159"
+                       WIDTH="1725"
+                       HEIGHT="1240"/>
+         <PrintSpace ID="P4_PS00001"
+                     HPOS="417"
+                     VPOS="1092"
+                     WIDTH="713"
+                     HEIGHT="67">
+            <TextBlock ID="P4_TB00001"
+                       HPOS="417"
+                       VPOS="1092"
+                       WIDTH="713"
+                       HEIGHT="67">
+               <TextLine ID="P4_TL00001"
+                         HPOS="423"
+                         VPOS="1103"
+                         WIDTH="701"
+                         HEIGHT="50">
+                  <String ID="P4_S00001"
+                          HPOS="423"
+                          VPOS="1103"
+                          WIDTH="118"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="THE"
+                          WC="0.6433333"
+                          CC="640">THE</String>
+                  <SP ID="P4_SP00001" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P4_S00002"
+                          HPOS="577"
+                          VPOS="1104"
+                          WIDTH="258"
+                          HEIGHT="45"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="JUBILEE"
+                          WC="0.612857163"
+                          CC="7160144">JUBILEE</String>
+                  <SP ID="P4_SP00002" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P4_S00003"
+                          HPOS="869"
+                          VPOS="1113"
+                          WIDTH="255"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="SINGERS."
+                          WC="0.72125"
+                          CC="30100637">SINGERS.</String>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://raw.githubusercontent.com/sounding-spirit/ocr-correction/master/alto-style.css"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>00000008.tif</fileName>
+      </sourceImageInformation>
+      <OCRProcessing ID="Processing">
+         <ocrProcessingStep>
+            <processingStepSettings>Image Resolution:300</processingStepSettings>
+            <processingSoftware>
+               <softwareCreator>I2S</softwareCreator>
+               <softwareName>Limb</softwareName>
+               <softwareVersion>1.0</softwareVersion>
+               <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Styles>
+      <TextStyle ID="StyleId-0" FONTSIZE="5" FONTFAMILY="Times New Roman"/>
+   </Styles>
+   <Layout>
+      <Page ID="P7"
+            PHYSICAL_IMG_NR="7"
+            HEIGHT="1737"
+            WIDTH="2409"
+            ACCURACY="0.628292441"
+            QUALITY_DETAIL="25 words, 137 chars, 75 with recognition greater than 50% (54.74%)">
+         <TopMargin ID="P7_TM00001"
+                    HPOS="0"
+                    VPOS="0"
+                    WIDTH="2409"
+                    HEIGHT="1985"/>
+         <LeftMargin ID="P7_LM00001"
+                     HPOS="0"
+                     VPOS="1985"
+                     WIDTH="330"
+                     HEIGHT="-1958"/>
+         <RightMargin ID="P7_RM00001"
+                      HPOS="1725"
+                      VPOS="1985"
+                      WIDTH="684"
+                      HEIGHT="-1958"/>
+         <BottomMargin ID="P7_BM00001"
+                       HPOS="0"
+                       VPOS="27"
+                       WIDTH="2409"
+                       HEIGHT="1710"/>
+         <PrintSpace ID="P7_PS00001"
+                     HPOS="330"
+                     VPOS="1985"
+                     WIDTH="1395"
+                     HEIGHT="-1958">
+            <Illustration ID="P7_ILL00001"
+                          HPOS="330"
+                          VPOS="1985"
+                          WIDTH="1049"
+                          HEIGHT="-1581"/>
+            <Illustration ID="P7_ILL00002"
+                          HPOS="1467"
+                          VPOS="163"
+                          WIDTH="257"
+                          HEIGHT="-136"/>
+            <TextBlock ID="P7_TB00001"
+                       HPOS="1378"
+                       VPOS="1859"
+                       WIDTH="126"
+                       HEIGHT="-1338">
+               <TextLine ID="P7_TL00001"
+                         HPOS="1384"
+                         VPOS="1852"
+                         WIDTH="35"
+                         HEIGHT="-1326">
+                  <String ID="P7_S00001"
+                          HPOS="1390"
+                          VPOS="1833"
+                          WIDTH="19"
+                          HEIGHT="3"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="B."
+                          WC="0.785"
+                          CC="40">B.</String>
+                  <SP ID="P7_SP00001" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00002"
+                          HPOS="1389"
+                          VPOS="1786"
+                          WIDTH="21"
+                          HEIGHT="50"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="W."
+                          WC="0.75"
+                          CC="50">W.</String>
+                  <SP ID="P7_SP00002" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00003"
+                          HPOS="1391"
+                          VPOS="1668"
+                          WIDTH="20"
+                          HEIGHT="168"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Thomas."
+                          WC="0.77"
+                          CC="3225002">Thomas.</String>
+                  <SP ID="P7_SP00003" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00004"
+                          HPOS="1390"
+                          VPOS="1400"
+                          WIDTH="19"
+                          HEIGHT="436"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="F."
+                          WC="1"
+                          CC="00">F.</String>
+                  <SP ID="P7_SP00004" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00005"
+                          HPOS="1390"
+                          VPOS="1364"
+                          WIDTH="19"
+                          HEIGHT="472"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="J."
+                          WC="0.85"
+                          CC="30">J.</String>
+                  <SP ID="P7_SP00005" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00006"
+                          HPOS="1390"
+                          VPOS="1251"
+                          WIDTH="19"
+                          HEIGHT="585"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Loudin."
+                          WC="0.54"
+                          CC="1366471">Loudin.</String>
+                  <SP ID="P7_SP00006" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00007"
+                          HPOS="1389"
+                          VPOS="1192"
+                          WIDTH="21"
+                          HEIGHT="644"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="H."
+                          WC="0.7"
+                          CC="23">H.</String>
+                  <SP ID="P7_SP00007" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00008"
+                          HPOS="1390"
+                          VPOS="1150"
+                          WIDTH="20"
+                          HEIGHT="686"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="D."
+                          WC="0.47"
+                          CC="82">D.</String>
+                  <SP ID="P7_SP00008" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00009"
+                          HPOS="1390"
+                          VPOS="984"
+                          WIDTH="21"
+                          HEIGHT="852"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Alexander."
+                          WC="0.657"
+                          CC="1640018570">Alexander.</String>
+                  <SP ID="P7_SP00009" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00010"
+                          HPOS="1391"
+                          VPOS="664"
+                          WIDTH="19"
+                          HEIGHT="1172"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Thomas"
+                          WC="0.558333337"
+                          CC="253690">Thomas</String>
+                  <SP ID="P7_SP00010" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00011"
+                          HPOS="1390"
+                          VPOS="531"
+                          WIDTH="19"
+                          HEIGHT="1305"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Rutling."
+                          WC="0.62625"
+                          CC="04084750">Rutling.</String>
+               </TextLine>
+               <TextLine ID="P7_TL00002"
+                         HPOS="1423"
+                         VPOS="1656"
+                         WIDTH="30"
+                         HEIGHT="-886">
+                  <String ID="P7_S00012"
+                          HPOS="1428"
+                          VPOS="1572"
+                          WIDTH="18"
+                          HEIGHT="60"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Maggie"
+                          WC="0.52"
+                          CC="656440">Maggie</String>
+                  <SP ID="P7_SP00011" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00013"
+                          HPOS="1428"
+                          VPOS="1527"
+                          WIDTH="20"
+                          HEIGHT="105"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="L."
+                          WC="0.555"
+                          CC="71">L.</String>
+                  <SP ID="P7_SP00012" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00014"
+                          HPOS="1428"
+                          VPOS="1410"
+                          WIDTH="20"
+                          HEIGHT="222"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Porter."
+                          WC="0.6"
+                          CC="6070580">Porter.</String>
+                  <SP ID="P7_SP00013" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00015"
+                          HPOS="1428"
+                          VPOS="909"
+                          WIDTH="20"
+                          HEIGHT="723"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Jennie"
+                          WC="0.5833333"
+                          CC="079323">Jennie</String>
+                  <SP ID="P7_SP00014" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00016"
+                          HPOS="1428"
+                          VPOS="774"
+                          WIDTH="24"
+                          HEIGHT="858"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Jackson,"
+                          WC="0.76125"
+                          CC="200600100">Jackson,</String>
+               </TextLine>
+               <TextLine ID="P7_TL00003"
+                         HPOS="1461"
+                         VPOS="1832"
+                         WIDTH="38"
+                         HEIGHT="-1272">
+                  <String ID="P7_S00017"
+                          HPOS="1465"
+                          VPOS="1776"
+                          WIDTH="21"
+                          HEIGHT="43"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Julia"
+                          WC="0.484"
+                          CC="067210">Julia</String>
+                  <SP ID="P7_SP00015" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00018"
+                          HPOS="1467"
+                          VPOS="1641"
+                          WIDTH="20"
+                          HEIGHT="177"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Jackson."
+                          WC="0.525"
+                          CC="05652790">Jackson.</String>
+                  <SP ID="P7_SP00016" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00019"
+                          HPOS="1466"
+                          VPOS="1472"
+                          WIDTH="20"
+                          HEIGHT="347"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Ella"
+                          WC="0.755"
+                          CC="6003">Ella</String>
+                  <SP ID="P7_SP00017" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00020"
+                          HPOS="1466"
+                          VPOS="1320"
+                          WIDTH="20"
+                          HEIGHT="499"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Sheppakd."
+                          WC="0.575555563"
+                          CC="050079880">Sheppakd.</String>
+                  <SP ID="P7_SP00018" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00021"
+                          HPOS="1467"
+                          VPOS="1096"
+                          WIDTH="19"
+                          HEIGHT="723"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Georgia"
+                          WC="0.341428578"
+                          CC="2778775">Georgia</String>
+                  <SP ID="P7_SP00019" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00022"
+                          HPOS="1467"
+                          VPOS="967"
+                          WIDTH="20"
+                          HEIGHT="852"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Gordon."
+                          WC="0.5657143"
+                          CC="05770100">Gordon.</String>
+                  <SP ID="P7_SP00020" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00023"
+                          HPOS="1467"
+                          VPOS="762"
+                          WIDTH="20"
+                          HEIGHT="1057"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="America"
+                          WC="0.46"
+                          CC="4708574">America</String>
+                  <SP ID="P7_SP00021" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00024"
+                          HPOS="1467"
+                          VPOS="705"
+                          WIDTH="22"
+                          HEIGHT="1113"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="W."
+                          WC="0.8"
+                          CC="03">W.</String>
+                  <SP ID="P7_SP00022" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P7_S00025"
+                          HPOS="1467"
+                          VPOS="564"
+                          WIDTH="19"
+                          HEIGHT="1254"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Robinson."
+                          WC="0.474444449"
+                          CC="976760270">Robinson.</String>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

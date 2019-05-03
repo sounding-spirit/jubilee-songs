@@ -1,0 +1,2616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://raw.githubusercontent.com/sounding-spirit/ocr-correction/master/alto-style.css"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>00000032.tif</fileName>
+      </sourceImageInformation>
+      <OCRProcessing ID="Processing">
+         <ocrProcessingStep>
+            <processingStepSettings>Image Resolution:300</processingStepSettings>
+            <processingSoftware>
+               <softwareCreator>I2S</softwareCreator>
+               <softwareName>Limb</softwareName>
+               <softwareVersion>1.0</softwareVersion>
+               <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Styles>
+      <TextStyle ID="StyleId-0" FONTSIZE="9" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-1" FONTSIZE="8" FONTFAMILY="Times New Roman"/>
+   </Styles>
+   <Layout>
+      <Page ID="P31"
+            PHYSICAL_IMG_NR="31"
+            HEIGHT="2400"
+            WIDTH="1725"
+            ACCURACY="0.8540147"
+            QUALITY_DETAIL="238 words, 1126 chars, 1002 with recognition greater than 50% (88.99%)">
+         <TopMargin ID="P31_TM00001"
+                    HPOS="0"
+                    VPOS="0"
+                    WIDTH="1725"
+                    HEIGHT="378"/>
+         <LeftMargin ID="P31_LM00001"
+                     HPOS="0"
+                     VPOS="378"
+                     WIDTH="456"
+                     HEIGHT="1542"/>
+         <RightMargin ID="P31_RM00001"
+                      HPOS="1492"
+                      VPOS="378"
+                      WIDTH="232"
+                      HEIGHT="1542"/>
+         <BottomMargin ID="P31_BM00001"
+                       HPOS="0"
+                       VPOS="1921"
+                       WIDTH="1725"
+                       HEIGHT="478"/>
+         <PrintSpace ID="P31_PS00001"
+                     HPOS="456"
+                     VPOS="378"
+                     WIDTH="1036"
+                     HEIGHT="1542">
+            <TextBlock ID="P31_TB00001"
+                       HPOS="456"
+                       VPOS="378"
+                       WIDTH="40"
+                       HEIGHT="37">
+               <TextLine ID="P31_TL00001"
+                         HPOS="462"
+                         VPOS="385"
+                         WIDTH="27"
+                         HEIGHT="24">
+                  <String ID="P31_S00001"
+                          HPOS="462"
+                          VPOS="385"
+                          WIDTH="27"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="i6"
+                          WC="0.8"
+                          CC="40">i6</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P31_TB00002"
+                       HPOS="690"
+                       VPOS="380"
+                       WIDTH="494"
+                       HEIGHT="45">
+               <TextLine ID="P31_TL00002"
+                         HPOS="696"
+                         VPOS="386"
+                         WIDTH="482"
+                         HEIGHT="33">
+                  <String ID="P31_S00002"
+                          HPOS="696"
+                          VPOS="387"
+                          WIDTH="83"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="THE"
+                          WC="0.83"
+                          CC="320">THE</String>
+                  <SP ID="P31_SP00001" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00003"
+                          HPOS="799"
+                          VPOS="386"
+                          WIDTH="179"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="JUBILEE"
+                          WC="0.774285734"
+                          CC="4352000">JUBILEE</String>
+                  <SP ID="P31_SP00002" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00004"
+                          HPOS="997"
+                          VPOS="387"
+                          WIDTH="181"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="SINGERS."
+                          WC="0.69875"
+                          CC="30009380">SINGERS.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P31_TB00003"
+                       HPOS="456"
+                       VPOS="455"
+                       WIDTH="1036"
+                       HEIGHT="1466">
+               <TextLine ID="P31_TL00003"
+                         HPOS="462"
+                         VPOS="461"
+                         WIDTH="978"
+                         HEIGHT="42">
+                  <String ID="P31_S00005"
+                          HPOS="462"
+                          VPOS="463"
+                          WIDTH="108"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="would"
+                          WC="0.794"
+                          CC="26010">would</String>
+                  <SP ID="P31_SP00003" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00006"
+                          HPOS="599"
+                          VPOS="463"
+                          WIDTH="161"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="certainly"
+                          WC="0.677777767"
+                          CC="073021266">certainly</String>
+                  <SP ID="P31_SP00004" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00007"
+                          HPOS="786"
+                          VPOS="462"
+                          WIDTH="128"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="involve"
+                          WC="0.8414286"
+                          CC="0015400">involve</String>
+                  <SP ID="P31_SP00005" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00008"
+                          HPOS="946"
+                          VPOS="462"
+                          WIDTH="89"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="large"
+                          WC="0.828"
+                          CC="30400">large</String>
+                  <SP ID="P31_SP00006" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00009"
+                          HPOS="1068"
+                          VPOS="472"
+                          WIDTH="169"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="expenses,"
+                          WC="0.8211111"
+                          CC="056000004">expenses,</String>
+                  <SP ID="P31_SP00007" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00010"
+                          HPOS="1266"
+                          VPOS="462"
+                          WIDTH="97"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="while"
+                          WC="0.53"
+                          CC="106060">while</String>
+                  <SP ID="P31_SP00008" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00011"
+                          HPOS="1397"
+                          VPOS="461"
+                          WIDTH="44"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="its"
+                          WC="0.696666658"
+                          CC="170">its</String>
+               </TextLine>
+               <TextLine ID="P31_TL00004"
+                         HPOS="464"
+                         VPOS="512"
+                         WIDTH="978"
+                         HEIGHT="40">
+                  <String ID="P31_S00012"
+                          HPOS="464"
+                          VPOS="516"
+                          WIDTH="129"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="returns"
+                          WC="0.8242857"
+                          CC="3005010">returns</String>
+                  <SP ID="P31_SP00009" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00013"
+                          HPOS="624"
+                          VPOS="513"
+                          WIDTH="105"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="might"
+                          WC="0.558"
+                          CC="05069">might</String>
+                  <SP ID="P31_SP00010" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00014"
+                          HPOS="759"
+                          VPOS="513"
+                          WIDTH="39"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="be"
+                          WC="0.605"
+                          CC="70">be</String>
+                  <SP ID="P31_SP00011" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00015"
+                          HPOS="830"
+                          VPOS="512"
+                          WIDTH="88"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="quite"
+                          WC="0.82"
+                          CC="00602">quite</String>
+                  <SP ID="P31_SP00012" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00016"
+                          HPOS="950"
+                          VPOS="512"
+                          WIDTH="197"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="inadequate"
+                          WC="0.829"
+                          CC="4080040000">inadequate</String>
+                  <SP ID="P31_SP00013" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00017"
+                          HPOS="1170"
+                          VPOS="516"
+                          WIDTH="33"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="to"
+                          WC="0.745"
+                          CC="05">to</String>
+                  <SP ID="P31_SP00014" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00018"
+                          HPOS="1229"
+                          VPOS="516"
+                          WIDTH="85"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="meet"
+                          WC="0.98"
+                          CC="0000">meet</String>
+                  <SP ID="P31_SP00015" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00019"
+                          HPOS="1338"
+                          VPOS="512"
+                          WIDTH="104"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="them."
+                          WC="0.744"
+                          CC="00084">them.</String>
+               </TextLine>
+               <TextLine ID="P31_TL00005"
+                         HPOS="466"
+                         VPOS="561"
+                         WIDTH="978"
+                         HEIGHT="41">
+                  <String ID="P31_S00020"
+                          HPOS="466"
+                          VPOS="564"
+                          WIDTH="106"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Large"
+                          WC="0.98"
+                          CC="10000">Large</String>
+                  <SP ID="P31_SP00016" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00021"
+                          HPOS="604"
+                          VPOS="563"
+                          WIDTH="230"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="expenditures"
+                          WC="0.865833342"
+                          CC="036000200300">expenditures</String>
+                  <SP ID="P31_SP00017" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00022"
+                          HPOS="865"
+                          VPOS="562"
+                          WIDTH="108"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="would"
+                          WC="0.872"
+                          CC="00060">would</String>
+                  <SP ID="P31_SP00018" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00023"
+                          HPOS="1004"
+                          VPOS="561"
+                          WIDTH="39"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="be"
+                          WC="0.7"
+                          CC="60">be</String>
+                  <SP ID="P31_SP00019" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00024"
+                          HPOS="1076"
+                          VPOS="561"
+                          WIDTH="216"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="unavoidable"
+                          WC="0.883636355"
+                          CC="01000006040">unavoidable</String>
+                  <SP ID="P31_SP00020" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00025"
+                          HPOS="1324"
+                          VPOS="566"
+                          WIDTH="33"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="at"
+                          WC="0.645"
+                          CC="70">at</String>
+                  <SP ID="P31_SP00021" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00026"
+                          HPOS="1389"
+                          VPOS="562"
+                          WIDTH="56"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.826666653"
+                          CC="050">the</String>
+               </TextLine>
+               <TextLine ID="P31_TL00006"
+                         HPOS="467"
+                         VPOS="611"
+                         WIDTH="981"
+                         HEIGHT="39">
+                  <String ID="P31_S00027"
+                          HPOS="467"
+                          VPOS="612"
+                          WIDTH="174"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="start—for"
+                          WC="0.7677778"
+                          CC="300009204">start—for</String>
+                  <SP ID="P31_SP00022" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00028"
+                          HPOS="684"
+                          VPOS="612"
+                          WIDTH="57"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="1"
+                          CC="000">the</String>
+                  <SP ID="P31_SP00023" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00029"
+                          HPOS="786"
+                          VPOS="612"
+                          WIDTH="95"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="outfit"
+                          WC="0.848333359"
+                          CC="250000">outfit</String>
+                  <SP ID="P31_SP00024" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00030"
+                          HPOS="918"
+                          VPOS="612"
+                          WIDTH="73"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="that"
+                          WC="0.945"
+                          CC="0200">that</String>
+                  <SP ID="P31_SP00025" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00031"
+                          HPOS="1032"
+                          VPOS="612"
+                          WIDTH="110"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="would"
+                          WC="0.856"
+                          CC="03040">would</String>
+                  <SP ID="P31_SP00026" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00032"
+                          HPOS="1181"
+                          VPOS="611"
+                          WIDTH="39"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="be"
+                          WC="1"
+                          CC="00">be</String>
+                  <SP ID="P31_SP00027" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00033"
+                          HPOS="1263"
+                          VPOS="611"
+                          WIDTH="185"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="absolutely"
+                          WC="0.869"
+                          CC="0000340040">absolutely</String>
+               </TextLine>
+               <TextLine ID="P31_TL00007"
+                         HPOS="467"
+                         VPOS="661"
+                         WIDTH="981"
+                         HEIGHT="41">
+                  <String ID="P31_S00034"
+                          HPOS="467"
+                          VPOS="672"
+                          WIDTH="174"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="necessary"
+                          WC="0.8422222"
+                          CC="500000340">necessary</String>
+                  <SP ID="P31_SP00028" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00035"
+                          HPOS="657"
+                          VPOS="661"
+                          WIDTH="48"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="for"
+                          WC="0.783333361"
+                          CC="303">for</String>
+                  <SP ID="P31_SP00029" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00036"
+                          HPOS="721"
+                          VPOS="662"
+                          WIDTH="93"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="these"
+                          WC="0.874"
+                          CC="06000">these</String>
+                  <SP ID="P31_SP00030" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00037"
+                          HPOS="831"
+                          VPOS="661"
+                          WIDTH="113"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="poorly"
+                          WC="0.8883333"
+                          CC="020040">poorly</String>
+                  <SP ID="P31_SP00031" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00038"
+                          HPOS="963"
+                          VPOS="661"
+                          WIDTH="73"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="clad"
+                          WC="0.8425"
+                          CC="0600">clad</String>
+                  <SP ID="P31_SP00032" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00039"
+                          HPOS="1054"
+                          VPOS="662"
+                          WIDTH="162"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="students,"
+                          WC="0.8411111"
+                          CC="206020003">students,</String>
+                  <SP ID="P31_SP00033" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00040"
+                          HPOS="1236"
+                          VPOS="662"
+                          WIDTH="63"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="and"
+                          WC="0.826666653"
+                          CC="500">and</String>
+                  <SP ID="P31_SP00034" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00041"
+                          HPOS="1323"
+                          VPOS="661"
+                          WIDTH="49"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="for"
+                          WC="0.9"
+                          CC="030">for</String>
+                  <SP ID="P31_SP00035" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00042"
+                          HPOS="1393"
+                          VPOS="661"
+                          WIDTH="55"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.836666644"
+                          CC="202">the</String>
+               </TextLine>
+               <TextLine ID="P31_TL00008"
+                         HPOS="471"
+                         VPOS="711"
+                         WIDTH="987"
+                         HEIGHT="42">
+                  <String ID="P31_S00043"
+                          HPOS="471"
+                          VPOS="713"
+                          WIDTH="162"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="purchase"
+                          WC="0.87625"
+                          CC="05400000">purchase</String>
+                  <SP ID="P31_SP00036" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00044"
+                          HPOS="663"
+                          VPOS="712"
+                          WIDTH="34"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.89"
+                          CC="20">of</String>
+                  <SP ID="P31_SP00037" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00045"
+                          HPOS="725"
+                          VPOS="711"
+                          WIDTH="86"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="their"
+                          WC="0.836"
+                          CC="00043">their</String>
+                  <SP ID="P31_SP00038" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00046"
+                          HPOS="841"
+                          VPOS="711"
+                          WIDTH="135"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="railway"
+                          WC="0.76"
+                          CC="4063020">railway</String>
+                  <SP ID="P31_SP00039" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00047"
+                          HPOS="1003"
+                          VPOS="712"
+                          WIDTH="123"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="tickets"
+                          WC="0.8914286"
+                          CC="0501000">tickets</String>
+                  <SP ID="P31_SP00040" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00048"
+                          HPOS="1164"
+                          VPOS="717"
+                          WIDTH="34"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="to"
+                          WC="0.905"
+                          CC="01">to</String>
+                  <SP ID="P31_SP00041" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00049"
+                          HPOS="1239"
+                          VPOS="714"
+                          WIDTH="97"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Ohio."
+                          WC="0.79"
+                          CC="00441">Ohio.</String>
+                  <SP ID="P31_SP00042" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00050"
+                          HPOS="1383"
+                          VPOS="714"
+                          WIDTH="74"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="The"
+                          WC="0.77"
+                          CC="600">The</String>
+               </TextLine>
+               <TextLine ID="P31_TL00009"
+                         HPOS="474"
+                         VPOS="762"
+                         WIDTH="984"
+                         HEIGHT="42">
+                  <String ID="P31_S00051"
+                          HPOS="474"
+                          VPOS="762"
+                          WIDTH="192"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="University"
+                          WC="0.848"
+                          CC="3430030000">University</String>
+                  <SP ID="P31_SP00043" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00052"
+                          HPOS="723"
+                          VPOS="766"
+                          WIDTH="151"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="treasury"
+                          WC="0.78"
+                          CC="05003540">treasury</String>
+                  <SP ID="P31_SP00044" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00053"
+                          HPOS="919"
+                          VPOS="774"
+                          WIDTH="69"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="was"
+                          WC="0.706666648"
+                          CC="080">was</String>
+                  <SP ID="P31_SP00045" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00054"
+                          HPOS="1050"
+                          VPOS="765"
+                          WIDTH="120"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="almost"
+                          WC="0.94"
+                          CC="010200">almost</String>
+                  <SP ID="P31_SP00046" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00055"
+                          HPOS="1219"
+                          VPOS="769"
+                          WIDTH="132"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="empty;"
+                          WC="0.966666639"
+                          CC="000002">empty;</String>
+                  <SP ID="P31_SP00047" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00056"
+                          HPOS="1402"
+                          VPOS="765"
+                          WIDTH="56"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="1"
+                          CC="000">the</String>
+               </TextLine>
+               <TextLine ID="P31_TL00010"
+                         HPOS="474"
+                         VPOS="813"
+                         WIDTH="986"
+                         HEIGHT="41">
+                  <String ID="P31_S00057"
+                          HPOS="474"
+                          VPOS="814"
+                          WIDTH="207"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Association"
+                          WC="0.91"
+                          CC="00120300030">Association</String>
+                  <SP ID="P31_SP00048" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00058"
+                          HPOS="710"
+                          VPOS="813"
+                          WIDTH="54"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="did"
+                          WC="0.946666658"
+                          CC="010">did</String>
+                  <SP ID="P31_SP00049" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00059"
+                          HPOS="795"
+                          VPOS="818"
+                          WIDTH="57"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="not"
+                          WC="0.896666646"
+                          CC="030">not</String>
+                  <SP ID="P31_SP00050" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00060"
+                          HPOS="882"
+                          VPOS="814"
+                          WIDTH="62"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="feel"
+                          WC="0.9375"
+                          CC="2000">feel</String>
+                  <SP ID="P31_SP00051" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00061"
+                          HPOS="976"
+                          VPOS="819"
+                          WIDTH="33"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="at"
+                          WC="1"
+                          CC="00">at</String>
+                  <SP ID="P31_SP00052" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00062"
+                          HPOS="1041"
+                          VPOS="815"
+                          WIDTH="118"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="liberty"
+                          WC="0.8314286"
+                          CC="0440200">liberty</String>
+                  <SP ID="P31_SP00053" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00063"
+                          HPOS="1192"
+                          VPOS="819"
+                          WIDTH="32"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="to"
+                          WC="1"
+                          CC="00">to</String>
+                  <SP ID="P31_SP00054" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00064"
+                          HPOS="1256"
+                          VPOS="816"
+                          WIDTH="68"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="risk"
+                          WC="0.835"
+                          CC="2400">risk</String>
+                  <SP ID="P31_SP00055" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00065"
+                          HPOS="1360"
+                          VPOS="816"
+                          WIDTH="99"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="funds"
+                          WC="0.92"
+                          CC="20001">funds</String>
+               </TextLine>
+               <TextLine ID="P31_TL00011"
+                         HPOS="475"
+                         VPOS="864"
+                         WIDTH="986"
+                         HEIGHT="41">
+                  <String ID="P31_S00066"
+                          HPOS="475"
+                          VPOS="864"
+                          WIDTH="207"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="contributed"
+                          WC="0.8372727"
+                          CC="00034406000">contributed</String>
+                  <SP ID="P31_SP00056" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00067"
+                          HPOS="699"
+                          VPOS="864"
+                          WIDTH="48"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="for"
+                          WC="0.7033333"
+                          CC="115">for</String>
+                  <SP ID="P31_SP00057" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00068"
+                          HPOS="764"
+                          VPOS="864"
+                          WIDTH="199"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="missionary"
+                          WC="0.866"
+                          CC="0200300070">missionary</String>
+                  <SP ID="P31_SP00058" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00069"
+                          HPOS="979"
+                          VPOS="866"
+                          WIDTH="90"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="work"
+                          WC="0.83"
+                          CC="0150">work</String>
+                  <SP ID="P31_SP00059" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00070"
+                          HPOS="1083"
+                          VPOS="866"
+                          WIDTH="32"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="in"
+                          WC="0.725"
+                          CC="50">in</String>
+                  <SP ID="P31_SP00060" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00071"
+                          HPOS="1129"
+                          VPOS="866"
+                          WIDTH="81"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="such"
+                          WC="0.86"
+                          CC="0005">such</String>
+                  <SP ID="P31_SP00061" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00072"
+                          HPOS="1226"
+                          VPOS="876"
+                          WIDTH="18"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="a"
+                          WC="1"
+                          CC="0">a</String>
+                  <SP ID="P31_SP00062" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00073"
+                          HPOS="1255"
+                          VPOS="866"
+                          WIDTH="206"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="speculative"
+                          WC="0.9381818"
+                          CC="00000400200">speculative</String>
+               </TextLine>
+               <TextLine ID="P31_TL00012"
+                         HPOS="475"
+                         VPOS="915"
+                         WIDTH="986"
+                         HEIGHT="41">
+                  <String ID="P31_S00074"
+                          HPOS="475"
+                          VPOS="920"
+                          WIDTH="147"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="venture."
+                          WC="0.8475"
+                          CC="00000613">venture.</String>
+                  <SP ID="P31_SP00063" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00075"
+                          HPOS="683"
+                          VPOS="915"
+                          WIDTH="73"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="And"
+                          WC="0.836666644"
+                          CC="130">And</String>
+                  <SP ID="P31_SP00064" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00076"
+                          HPOS="787"
+                          VPOS="915"
+                          WIDTH="24"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="it"
+                          WC="0.955"
+                          CC="00">it</String>
+                  <SP ID="P31_SP00065" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00077"
+                          HPOS="843"
+                          VPOS="927"
+                          WIDTH="69"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="was"
+                          WC="0.896666646"
+                          CC="003">was</String>
+                  <SP ID="P31_SP00066" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00078"
+                          HPOS="943"
+                          VPOS="920"
+                          WIDTH="57"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="not"
+                          WC="1"
+                          CC="000">not</String>
+                  <SP ID="P31_SP00067" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00079"
+                          HPOS="1032"
+                          VPOS="927"
+                          WIDTH="78"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="easy"
+                          WC="1"
+                          CC="0000">easy</String>
+                  <SP ID="P31_SP00068" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00080"
+                          HPOS="1141"
+                          VPOS="920"
+                          WIDTH="34"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="to"
+                          WC="1"
+                          CC="00">to</String>
+                  <SP ID="P31_SP00069" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00081"
+                          HPOS="1209"
+                          VPOS="917"
+                          WIDTH="162"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="persuade"
+                          WC="0.9725"
+                          CC="00002000">persuade</String>
+                  <SP ID="P31_SP00070" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00082"
+                          HPOS="1404"
+                          VPOS="917"
+                          WIDTH="57"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="1"
+                          CC="000">the</String>
+               </TextLine>
+               <TextLine ID="P31_TL00013"
+                         HPOS="477"
+                         VPOS="966"
+                         WIDTH="987"
+                         HEIGHT="40">
+                  <String ID="P31_S00083"
+                          HPOS="477"
+                          VPOS="966"
+                          WIDTH="206"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="untravelled"
+                          WC="0.856363654"
+                          CC="00040006400">untravelled</String>
+                  <SP ID="P31_SP00071" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00084"
+                          HPOS="700"
+                          VPOS="970"
+                          WIDTH="134"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="parents"
+                          WC="0.737142861"
+                          CC="0060506">parents</String>
+                  <SP ID="P31_SP00072" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00085"
+                          HPOS="852"
+                          VPOS="966"
+                          WIDTH="34"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.7"
+                          CC="23">of</String>
+                  <SP ID="P31_SP00073" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00086"
+                          HPOS="911"
+                          VPOS="977"
+                          WIDTH="90"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="some"
+                          WC="0.94"
+                          CC="0200">some</String>
+                  <SP ID="P31_SP00074" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00087"
+                          HPOS="1024"
+                          VPOS="966"
+                          WIDTH="33"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.67"
+                          CC="23">of</String>
+                  <SP ID="P31_SP00075" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00088"
+                          HPOS="1080"
+                          VPOS="966"
+                          WIDTH="56"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="1"
+                          CC="000">the</String>
+                  <SP ID="P31_SP00076" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00089"
+                          HPOS="1162"
+                          VPOS="966"
+                          WIDTH="153"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="students"
+                          WC="0.9075"
+                          CC="40000003">students</String>
+                  <SP ID="P31_SP00077" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00090"
+                          HPOS="1338"
+                          VPOS="971"
+                          WIDTH="34"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="to"
+                          WC="0.79"
+                          CC="04">to</String>
+                  <SP ID="P31_SP00078" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00091"
+                          HPOS="1397"
+                          VPOS="967"
+                          WIDTH="68"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="risk"
+                          WC="0.7675"
+                          CC="3500">risk</String>
+               </TextLine>
+               <TextLine ID="P31_TL00014"
+                         HPOS="478"
+                         VPOS="1017"
+                         WIDTH="987"
+                         HEIGHT="31">
+                  <String ID="P31_S00092"
+                          HPOS="478"
+                          VPOS="1017"
+                          WIDTH="86"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="their"
+                          WC="0.46"
+                          CC="106045">their</String>
+                  <SP ID="P31_SP00079" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00093"
+                          HPOS="606"
+                          VPOS="1017"
+                          WIDTH="147"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="children"
+                          WC="0.87875"
+                          CC="00030500">children</String>
+                  <SP ID="P31_SP00080" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00094"
+                          HPOS="795"
+                          VPOS="1017"
+                          WIDTH="33"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="in"
+                          WC="0.77"
+                          CC="40">in</String>
+                  <SP ID="P31_SP00081" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00095"
+                          HPOS="867"
+                          VPOS="1017"
+                          WIDTH="36"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="it."
+                          WC="0.766666651"
+                          CC="204">it.</String>
+                  <SP ID="P31_SP00082" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00096"
+                          HPOS="967"
+                          VPOS="1018"
+                          WIDTH="66"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="But"
+                          WC="0.783333361"
+                          CC="150">But</String>
+                  <SP ID="P31_SP00083" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00097"
+                          HPOS="1074"
+                          VPOS="1028"
+                          WIDTH="18"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="a"
+                          WC="1"
+                          CC="0">a</String>
+                  <SP ID="P31_SP00084" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00098"
+                          HPOS="1130"
+                          VPOS="1017"
+                          WIDTH="61"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="few"
+                          WC="1"
+                          CC="000">few</String>
+                  <SP ID="P31_SP00085" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00099"
+                          HPOS="1230"
+                          VPOS="1017"
+                          WIDTH="234"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="clear-headed"
+                          WC="0.889166653"
+                          CC="000042600000">clear-headed</String>
+               </TextLine>
+               <TextLine ID="P31_TL00015"
+                         HPOS="480"
+                         VPOS="1067"
+                         WIDTH="986"
+                         HEIGHT="40">
+                  <String ID="P31_S00100"
+                          HPOS="480"
+                          VPOS="1068"
+                          WIDTH="121"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="friends"
+                          WC="0.84"
+                          CC="0420300">friends</String>
+                  <SP ID="P31_SP00086" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00101"
+                          HPOS="632"
+                          VPOS="1068"
+                          WIDTH="66"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="had"
+                          WC="0.5833333"
+                          CC="650">had</String>
+                  <SP ID="P31_SP00087" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00102"
+                          HPOS="729"
+                          VPOS="1068"
+                          WIDTH="83"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="faith"
+                          WC="0.656"
+                          CC="03247">faith</String>
+                  <SP ID="P31_SP00088" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00103"
+                          HPOS="845"
+                          VPOS="1068"
+                          WIDTH="32"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="in"
+                          WC="0.895"
+                          CC="20">in</String>
+                  <SP ID="P31_SP00089" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00104"
+                          HPOS="908"
+                          VPOS="1068"
+                          WIDTH="57"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="1"
+                          CC="000">the</String>
+                  <SP ID="P31_SP00090" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00105"
+                          HPOS="1003"
+                          VPOS="1068"
+                          WIDTH="89"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="plan,"
+                          WC="0.75"
+                          CC="05042">plan,</String>
+                  <SP ID="P31_SP00091" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00106"
+                          HPOS="1130"
+                          VPOS="1068"
+                          WIDTH="75"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="and,"
+                          WC="0.9125"
+                          CC="0003">and,</String>
+                  <SP ID="P31_SP00092" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00107"
+                          HPOS="1244"
+                          VPOS="1067"
+                          WIDTH="82"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="after"
+                          WC="0.856"
+                          CC="04003">after</String>
+                  <SP ID="P31_SP00093" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00108"
+                          HPOS="1365"
+                          VPOS="1068"
+                          WIDTH="100"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="much"
+                          WC="0.73"
+                          CC="0406">much</String>
+               </TextLine>
+               <TextLine ID="P31_TL00016"
+                         HPOS="483"
+                         VPOS="1117"
+                         WIDTH="984"
+                         HEIGHT="41">
+                  <String ID="P31_S00109"
+                          HPOS="483"
+                          VPOS="1128"
+                          WIDTH="115"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="prayer"
+                          WC="0.925"
+                          CC="040000">prayer</String>
+                  <SP ID="P31_SP00094" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00110"
+                          HPOS="621"
+                          VPOS="1118"
+                          WIDTH="64"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="and"
+                          WC="0.89"
+                          CC="030">and</String>
+                  <SP ID="P31_SP00095" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00111"
+                          HPOS="717"
+                          VPOS="1117"
+                          WIDTH="183"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="perplexity"
+                          WC="0.956"
+                          CC="0000000400">perplexity</String>
+                  <SP ID="P31_SP00096" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00112"
+                          HPOS="924"
+                          VPOS="1118"
+                          WIDTH="33"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.71"
+                          CC="05">of</String>
+                  <SP ID="P31_SP00097" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00113"
+                          HPOS="992"
+                          VPOS="1128"
+                          WIDTH="152"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="purpose,"
+                          WC="0.9375"
+                          CC="05000000">purpose,</String>
+                  <SP ID="P31_SP00098" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00114"
+                          HPOS="1176"
+                          VPOS="1118"
+                          WIDTH="63"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Mr."
+                          WC="0.7733333"
+                          CC="024">Mr.</String>
+                  <SP ID="P31_SP00099" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00115"
+                          HPOS="1268"
+                          VPOS="1117"
+                          WIDTH="116"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="White"
+                          WC="0.832"
+                          CC="40400">White</String>
+                  <SP ID="P31_SP00100" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00116"
+                          HPOS="1409"
+                          VPOS="1118"
+                          WIDTH="57"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="felt"
+                          WC="0.8775"
+                          CC="0040">felt</String>
+               </TextLine>
+               <TextLine ID="P31_TL00017"
+                         HPOS="483"
+                         VPOS="1167"
+                         WIDTH="987"
+                         HEIGHT="40">
+                  <String ID="P31_S00117"
+                          HPOS="483"
+                          VPOS="1169"
+                          WIDTH="54"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="1"
+                          CC="000">the</String>
+                  <SP ID="P31_SP00101" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00118"
+                          HPOS="563"
+                          VPOS="1168"
+                          WIDTH="175"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="command"
+                          WC="0.8971428"
+                          CC="0200040">command</String>
+                  <SP ID="P31_SP00102" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00119"
+                          HPOS="770"
+                          VPOS="1167"
+                          WIDTH="66"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="laid"
+                          WC="0.885"
+                          CC="0040">laid</String>
+                  <SP ID="P31_SP00103" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00120"
+                          HPOS="868"
+                          VPOS="1179"
+                          WIDTH="42"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="on"
+                          WC="1"
+                          CC="00">on</String>
+                  <SP ID="P31_SP00104" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00121"
+                          HPOS="942"
+                          VPOS="1167"
+                          WIDTH="69"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="him"
+                          WC="0.83"
+                          CC="050">him</String>
+                  <SP ID="P31_SP00105" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00122"
+                          HPOS="1043"
+                          VPOS="1168"
+                          WIDTH="84"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="from"
+                          WC="0.72"
+                          CC="5500">from</String>
+                  <SP ID="P31_SP00106" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00123"
+                          HPOS="1158"
+                          VPOS="1167"
+                          WIDTH="57"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="1"
+                          CC="000">the</String>
+                  <SP ID="P31_SP00107" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00124"
+                          HPOS="1245"
+                          VPOS="1168"
+                          WIDTH="87"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Lord"
+                          WC="1"
+                          CC="0000">Lord</String>
+                  <SP ID="P31_SP00108" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00125"
+                          HPOS="1365"
+                          VPOS="1173"
+                          WIDTH="33"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="to"
+                          WC="0.875"
+                          CC="02">to</String>
+                  <SP ID="P31_SP00109" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00126"
+                          HPOS="1429"
+                          VPOS="1179"
+                          WIDTH="41"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="go"
+                          WC="0.82"
+                          CC="03">go</String>
+               </TextLine>
+               <TextLine ID="P31_TL00018"
+                         HPOS="483"
+                         VPOS="1219"
+                         WIDTH="150"
+                         HEIGHT="30">
+                  <String ID="P31_S00127"
+                          HPOS="483"
+                          VPOS="1219"
+                          WIDTH="150"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="forward."
+                          WC="0.70625"
+                          CC="83300304">forward.</String>
+               </TextLine>
+               <TextLine ID="P31_TL00019"
+                         HPOS="528"
+                         VPOS="1270"
+                         WIDTH="945"
+                         HEIGHT="41">
+                  <String ID="P31_S00128"
+                          HPOS="528"
+                          VPOS="1270"
+                          WIDTH="132"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Taking"
+                          WC="0.82"
+                          CC="702100">Taking</String>
+                  <SP ID="P31_SP00110" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00129"
+                          HPOS="690"
+                          VPOS="1271"
+                          WIDTH="57"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.6933333"
+                          CC="062">the</String>
+                  <SP ID="P31_SP00111" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00130"
+                          HPOS="779"
+                          VPOS="1271"
+                          WIDTH="85"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="little"
+                          WC="0.8516667"
+                          CC="320030">little</String>
+                  <SP ID="P31_SP00112" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00131"
+                          HPOS="898"
+                          VPOS="1281"
+                          WIDTH="118"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="money"
+                          WC="0.962"
+                          CC="00100">money</String>
+                  <SP ID="P31_SP00113" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00132"
+                          HPOS="1050"
+                          VPOS="1270"
+                          WIDTH="74"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="that"
+                          WC="1"
+                          CC="0000">that</String>
+                  <SP ID="P31_SP00114" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00133"
+                          HPOS="1155"
+                          VPOS="1281"
+                          WIDTH="69"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="was"
+                          WC="0.88"
+                          CC="003">was</String>
+                  <SP ID="P31_SP00115" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00134"
+                          HPOS="1260"
+                          VPOS="1270"
+                          WIDTH="57"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="left"
+                          WC="0.8"
+                          CC="3040">left</String>
+                  <SP ID="P31_SP00116" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00135"
+                          HPOS="1351"
+                          VPOS="1270"
+                          WIDTH="32"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="in"
+                          WC="0.755"
+                          CC="40">in</String>
+                  <SP ID="P31_SP00117" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00136"
+                          HPOS="1416"
+                          VPOS="1271"
+                          WIDTH="57"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="1"
+                          CC="000">the</String>
+               </TextLine>
+               <TextLine ID="P31_TL00020"
+                         HPOS="488"
+                         VPOS="1321"
+                         WIDTH="986"
+                         HEIGHT="41">
+                  <String ID="P31_S00137"
+                          HPOS="488"
+                          VPOS="1322"
+                          WIDTH="192"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="University"
+                          WC="0.905"
+                          CC="0000050400">University</String>
+                  <SP ID="P31_SP00118" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00138"
+                          HPOS="707"
+                          VPOS="1326"
+                          WIDTH="152"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="treasury"
+                          WC="0.86875"
+                          CC="05000040">treasury</String>
+                  <SP ID="P31_SP00119" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00139"
+                          HPOS="888"
+                          VPOS="1321"
+                          WIDTH="83"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="after"
+                          WC="0.828"
+                          CC="03005">after</String>
+                  <SP ID="P31_SP00120" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00140"
+                          HPOS="998"
+                          VPOS="1321"
+                          WIDTH="124"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="buying"
+                          WC="0.733333349"
+                          CC="600530">buying</String>
+                  <SP ID="P31_SP00121" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00141"
+                          HPOS="1144"
+                          VPOS="1321"
+                          WIDTH="186"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="provisions"
+                          WC="0.881"
+                          CC="0400042000">provisions</String>
+                  <SP ID="P31_SP00122" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00142"
+                          HPOS="1352"
+                          VPOS="1326"
+                          WIDTH="34"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="to"
+                          WC="1"
+                          CC="00">to</String>
+                  <SP ID="P31_SP00123" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00143"
+                          HPOS="1410"
+                          VPOS="1322"
+                          WIDTH="64"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="last"
+                          WC="0.8275"
+                          CC="6000">last</String>
+               </TextLine>
+               <TextLine ID="P31_TL00021"
+                         HPOS="488"
+                         VPOS="1371"
+                         WIDTH="987"
+                         HEIGHT="41">
+                  <String ID="P31_S00144"
+                          HPOS="488"
+                          VPOS="1372"
+                          WIDTH="56"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.783333361"
+                          CC="060">the</String>
+                  <SP ID="P31_SP00124" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00145"
+                          HPOS="570"
+                          VPOS="1371"
+                          WIDTH="113"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="school"
+                          WC="0.923333347"
+                          CC="000021">school</String>
+                  <SP ID="P31_SP00125" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00146"
+                          HPOS="710"
+                          VPOS="1372"
+                          WIDTH="48"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="for"
+                          WC="0.76"
+                          CC="105">for</String>
+                  <SP ID="P31_SP00126" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00147"
+                          HPOS="784"
+                          VPOS="1382"
+                          WIDTH="18"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="a"
+                          WC="1"
+                          CC="0">a</String>
+                  <SP ID="P31_SP00127" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00148"
+                          HPOS="829"
+                          VPOS="1371"
+                          WIDTH="61"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="few"
+                          WC="1"
+                          CC="000">few</String>
+                  <SP ID="P31_SP00128" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00149"
+                          HPOS="917"
+                          VPOS="1371"
+                          WIDTH="92"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="days,"
+                          WC="0.934"
+                          CC="00003">days,</String>
+                  <SP ID="P31_SP00129" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00150"
+                          HPOS="1038"
+                          VPOS="1371"
+                          WIDTH="134"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="putting"
+                          WC="0.878571451"
+                          CC="0600010">putting</String>
+                  <SP ID="P31_SP00130" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00151"
+                          HPOS="1198"
+                          VPOS="1371"
+                          WIDTH="81"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="with"
+                          WC="0.8825"
+                          CC="0400">with</String>
+                  <SP ID="P31_SP00131" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00152"
+                          HPOS="1305"
+                          VPOS="1371"
+                          WIDTH="24"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="it"
+                          WC="1"
+                          CC="00">it</String>
+                  <SP ID="P31_SP00132" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00153"
+                          HPOS="1356"
+                          VPOS="1371"
+                          WIDTH="43"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="all"
+                          WC="0.75666666"
+                          CC="034">all</String>
+                  <SP ID="P31_SP00133" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00154"
+                          HPOS="1423"
+                          VPOS="1371"
+                          WIDTH="51"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="his"
+                          WC="0.626666665"
+                          CC="056">his</String>
+               </TextLine>
+               <TextLine ID="P31_TL00022"
+                         HPOS="490"
+                         VPOS="1422"
+                         WIDTH="986"
+                         HEIGHT="40">
+                  <String ID="P31_S00155"
+                          HPOS="490"
+                          VPOS="1432"
+                          WIDTH="81"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="own,"
+                          WC="0.9025"
+                          CC="0003">own,</String>
+                  <SP ID="P31_SP00134" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00156"
+                          HPOS="591"
+                          VPOS="1422"
+                          WIDTH="64"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="and"
+                          WC="1"
+                          CC="000">and</String>
+                  <SP ID="P31_SP00135" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00157"
+                          HPOS="684"
+                          VPOS="1422"
+                          WIDTH="186"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="borrowing"
+                          WC="0.7488889"
+                          CC="675000300">borrowing</String>
+                  <SP ID="P31_SP00136" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00158"
+                          HPOS="897"
+                          VPOS="1432"
+                          WIDTH="42"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="on"
+                          WC="0.675"
+                          CC="14">on</String>
+                  <SP ID="P31_SP00137" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00159"
+                          HPOS="966"
+                          VPOS="1422"
+                          WIDTH="52"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="his"
+                          WC="0.65"
+                          CC="630">his</String>
+                  <SP ID="P31_SP00138" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00160"
+                          HPOS="1047"
+                          VPOS="1432"
+                          WIDTH="73"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="own"
+                          WC="0.82"
+                          CC="500">own</String>
+                  <SP ID="P31_SP00139" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00161"
+                          HPOS="1149"
+                          VPOS="1426"
+                          WIDTH="95"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="notes"
+                          WC="0.976"
+                          CC="01000">notes</String>
+                  <SP ID="P31_SP00140" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00162"
+                          HPOS="1274"
+                          VPOS="1433"
+                          WIDTH="41"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="an"
+                          WC="1"
+                          CC="00">an</String>
+                  <SP ID="P31_SP00141" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00163"
+                          HPOS="1339"
+                          VPOS="1427"
+                          WIDTH="137"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="amount"
+                          WC="0.941666663"
+                          CC="000300">amount</String>
+               </TextLine>
+               <TextLine ID="P31_TL00023"
+                         HPOS="490"
+                         VPOS="1473"
+                         WIDTH="987"
+                         HEIGHT="40">
+                  <String ID="P31_S00164"
+                          HPOS="490"
+                          VPOS="1473"
+                          WIDTH="111"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="whose"
+                          WC="0.806"
+                          CC="00531">whose</String>
+                  <SP ID="P31_SP00142" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00165"
+                          HPOS="618"
+                          VPOS="1477"
+                          WIDTH="168"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="payment,"
+                          WC="0.94625"
+                          CC="00000004">payment,</String>
+                  <SP ID="P31_SP00143" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00166"
+                          HPOS="806"
+                          VPOS="1473"
+                          WIDTH="25"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="if"
+                          WC="0.81"
+                          CC="03">if</String>
+                  <SP ID="P31_SP00144" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00167"
+                          HPOS="852"
+                          VPOS="1473"
+                          WIDTH="56"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.83"
+                          CC="050">the</String>
+                  <SP ID="P31_SP00145" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00168"
+                          HPOS="932"
+                          VPOS="1477"
+                          WIDTH="138"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="venture"
+                          WC="0.8657143"
+                          CC="0000530">venture</String>
+                  <SP ID="P31_SP00146" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00169"
+                          HPOS="1093"
+                          VPOS="1484"
+                          WIDTH="68"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="was"
+                          WC="0.9433333"
+                          CC="001">was</String>
+                  <SP ID="P31_SP00147" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00170"
+                          HPOS="1189"
+                          VPOS="1484"
+                          WIDTH="18"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="a"
+                          WC="1"
+                          CC="0">a</String>
+                  <SP ID="P31_SP00148" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00171"
+                          HPOS="1223"
+                          VPOS="1473"
+                          WIDTH="128"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="failure,"
+                          WC="0.80625"
+                          CC="00340403">failure,</String>
+                  <SP ID="P31_SP00149" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00172"
+                          HPOS="1369"
+                          VPOS="1474"
+                          WIDTH="108"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="would"
+                          WC="0.886"
+                          CC="00050">would</String>
+               </TextLine>
+               <TextLine ID="P31_TL00024"
+                         HPOS="492"
+                         VPOS="1527"
+                         WIDTH="986"
+                         HEIGHT="41">
+                  <String ID="P31_S00173"
+                          HPOS="492"
+                          VPOS="1528"
+                          WIDTH="79"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="strip"
+                          WC="0.842"
+                          CC="02050">strip</String>
+                  <SP ID="P31_SP00150" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00174"
+                          HPOS="590"
+                          VPOS="1528"
+                          WIDTH="68"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="him"
+                          WC="0.91"
+                          CC="020">him</String>
+                  <SP ID="P31_SP00151" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00175"
+                          HPOS="676"
+                          VPOS="1528"
+                          WIDTH="33"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.605"
+                          CC="34">of</String>
+                  <SP ID="P31_SP00152" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00176"
+                          HPOS="731"
+                          VPOS="1539"
+                          WIDTH="96"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="every"
+                          WC="0.948"
+                          CC="10010">every</String>
+                  <SP ID="P31_SP00153" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00177"
+                          HPOS="844"
+                          VPOS="1539"
+                          WIDTH="108"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="penny"
+                          WC="0.738"
+                          CC="03450">penny</String>
+                  <SP ID="P31_SP00154" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00178"
+                          HPOS="970"
+                          VPOS="1527"
+                          WIDTH="34"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.825"
+                          CC="03">of</String>
+                  <SP ID="P31_SP00155" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00179"
+                          HPOS="1025"
+                          VPOS="1528"
+                          WIDTH="52"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="his"
+                          WC="0.8833333"
+                          CC="030">his</String>
+                  <SP ID="P31_SP00156" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00180"
+                          HPOS="1100"
+                          VPOS="1533"
+                          WIDTH="164"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="property,"
+                          WC="0.8244445"
+                          CC="055002002">property,</String>
+                  <SP ID="P31_SP00157" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00181"
+                          HPOS="1284"
+                          VPOS="1528"
+                          WIDTH="40"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="he"
+                          WC="1"
+                          CC="00">he</String>
+                  <SP ID="P31_SP00158" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00182"
+                          HPOS="1350"
+                          VPOS="1528"
+                          WIDTH="128"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="started"
+                          WC="0.9057143"
+                          CC="2004000">started</String>
+               </TextLine>
+               <TextLine ID="P31_TL00025"
+                         HPOS="493"
+                         VPOS="1583"
+                         WIDTH="986"
+                         HEIGHT="39">
+                  <String ID="P31_S00183"
+                          HPOS="493"
+                          VPOS="1587"
+                          WIDTH="55"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="out"
+                          WC="0.663333356"
+                          CC="450">out</String>
+                  <SP ID="P31_SP00159" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00184"
+                          HPOS="573"
+                          VPOS="1584"
+                          WIDTH="81"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="with"
+                          WC="0.99"
+                          CC="0000">with</String>
+                  <SP ID="P31_SP00160" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00185"
+                          HPOS="678"
+                          VPOS="1583"
+                          WIDTH="111"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="barely"
+                          WC="0.7733333"
+                          CC="505020">barely</String>
+                  <SP ID="P31_SP00161" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00186"
+                          HPOS="814"
+                          VPOS="1583"
+                          WIDTH="132"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="enough"
+                          WC="0.776666641"
+                          CC="060007">enough</String>
+                  <SP ID="P31_SP00162" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00187"
+                          HPOS="971"
+                          VPOS="1593"
+                          WIDTH="120"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="money"
+                          WC="0.958"
+                          CC="00200">money</String>
+                  <SP ID="P31_SP00163" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00188"
+                          HPOS="1115"
+                          VPOS="1587"
+                          WIDTH="33"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="to"
+                          WC="1"
+                          CC="00">to</String>
+                  <SP ID="P31_SP00164" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00189"
+                          HPOS="1176"
+                          VPOS="1587"
+                          WIDTH="49"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="set"
+                          WC="1"
+                          CC="000">set</String>
+                  <SP ID="P31_SP00165" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00190"
+                          HPOS="1253"
+                          VPOS="1583"
+                          WIDTH="51"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="his"
+                          WC="0.836666644"
+                          CC="040">his</String>
+                  <SP ID="P31_SP00166" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00191"
+                          HPOS="1328"
+                          VPOS="1587"
+                          WIDTH="96"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="party"
+                          WC="0.92"
+                          CC="00400">party</String>
+                  <SP ID="P31_SP00167" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00192"
+                          HPOS="1447"
+                          VPOS="1583"
+                          WIDTH="32"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="in"
+                          WC="0.51"
+                          CC="36">in</String>
+               </TextLine>
+               <TextLine ID="P31_TL00026"
+                         HPOS="494"
+                         VPOS="1634"
+                         WIDTH="986"
+                         HEIGHT="40">
+                  <String ID="P31_S00193"
+                          HPOS="494"
+                          VPOS="1635"
+                          WIDTH="147"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="working"
+                          WC="1"
+                          CC="0000000">working</String>
+                  <SP ID="P31_SP00168" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00194"
+                          HPOS="665"
+                          VPOS="1635"
+                          WIDTH="93"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="order"
+                          WC="0.692"
+                          CC="17006">order</String>
+                  <SP ID="P31_SP00169" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00195"
+                          HPOS="783"
+                          VPOS="1644"
+                          WIDTH="42"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="on"
+                          WC="0.93"
+                          CC="10">on</String>
+                  <SP ID="P31_SP00170" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00196"
+                          HPOS="843"
+                          VPOS="1634"
+                          WIDTH="57"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.75"
+                          CC="070">the</String>
+                  <SP ID="P31_SP00171" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00197"
+                          HPOS="924"
+                          VPOS="1634"
+                          WIDTH="98"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="north"
+                          WC="0.692"
+                          CC="03506">north</String>
+                  <SP ID="P31_SP00172" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00198"
+                          HPOS="1044"
+                          VPOS="1634"
+                          WIDTH="69"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="side"
+                          WC="0.8125"
+                          CC="3300">side</String>
+                  <SP ID="P31_SP00173" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00199"
+                          HPOS="1137"
+                          VPOS="1634"
+                          WIDTH="110"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of'the"
+                          WC="0.811666667"
+                          CC="433000">of'the</String>
+                  <SP ID="P31_SP00174" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00200"
+                          HPOS="1274"
+                          VPOS="1634"
+                          WIDTH="85"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Ohio"
+                          WC="0.86"
+                          CC="0041">Ohio</String>
+                  <SP ID="P31_SP00175" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00201"
+                          HPOS="1384"
+                          VPOS="1634"
+                          WIDTH="96"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="river."
+                          WC="0.8433333"
+                          CC="400004">river.</String>
+               </TextLine>
+               <TextLine ID="P31_TL00027"
+                         HPOS="539"
+                         VPOS="1684"
+                         WIDTH="942"
+                         HEIGHT="40">
+                  <String ID="P31_S00202"
+                          HPOS="539"
+                          VPOS="1686"
+                          WIDTH="82"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Like"
+                          WC="0.9525"
+                          CC="1000">Like</String>
+                  <SP ID="P31_SP00176" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00203"
+                          HPOS="639"
+                          VPOS="1686"
+                          WIDTH="129"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Cortes,"
+                          WC="0.862857163"
+                          CC="0160020">Cortes,</String>
+                  <SP ID="P31_SP00177" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00204"
+                          HPOS="786"
+                          VPOS="1685"
+                          WIDTH="41"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="he"
+                          WC="0.705"
+                          CC="50">he</String>
+                  <SP ID="P31_SP00178" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00205"
+                          HPOS="845"
+                          VPOS="1685"
+                          WIDTH="65"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="had"
+                          WC="1"
+                          CC="000">had</String>
+                  <SP ID="P31_SP00179" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00206"
+                          HPOS="928"
+                          VPOS="1685"
+                          WIDTH="126"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="burned"
+                          WC="0.87833333"
+                          CC="002040">burned</String>
+                  <SP ID="P31_SP00180" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00207"
+                          HPOS="1071"
+                          VPOS="1684"
+                          WIDTH="52"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="his"
+                          WC="0.696666658"
+                          CC="530">his</String>
+                  <SP ID="P31_SP00181" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00208"
+                          HPOS="1143"
+                          VPOS="1684"
+                          WIDTH="91"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="ships"
+                          WC="0.852"
+                          CC="00700">ships</String>
+                  <SP ID="P31_SP00182" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00209"
+                          HPOS="1257"
+                          VPOS="1684"
+                          WIDTH="121"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="behind"
+                          WC="0.966666639"
+                          CC="000010">behind</String>
+                  <SP ID="P31_SP00183" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00210"
+                          HPOS="1400"
+                          VPOS="1684"
+                          WIDTH="81"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="him."
+                          WC="0.835"
+                          CC="0203">him.</String>
+               </TextLine>
+               <TextLine ID="P31_TL00028"
+                         HPOS="498"
+                         VPOS="1735"
+                         WIDTH="985"
+                         HEIGHT="39">
+                  <String ID="P31_S00211"
+                          HPOS="498"
+                          VPOS="1736"
+                          WIDTH="66"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="But"
+                          WC="0.72"
+                          CC="710">But</String>
+                  <SP ID="P31_SP00184" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00212"
+                          HPOS="591"
+                          VPOS="1735"
+                          WIDTH="25"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="it"
+                          WC="0.745"
+                          CC="40">it</String>
+                  <SP ID="P31_SP00185" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00213"
+                          HPOS="641"
+                          VPOS="1745"
+                          WIDTH="69"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="was"
+                          WC="1"
+                          CC="000">was</String>
+                  <SP ID="P31_SP00186" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00214"
+                          HPOS="737"
+                          VPOS="1735"
+                          WIDTH="33"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="in"
+                          WC="0.815"
+                          CC="30">in</String>
+                  <SP ID="P31_SP00187" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00215"
+                          HPOS="788"
+                          VPOS="1736"
+                          WIDTH="57"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="1"
+                          CC="000">the</String>
+                  <SP ID="P31_SP00188" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00216"
+                          HPOS="872"
+                          VPOS="1735"
+                          WIDTH="70"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="face"
+                          WC="1"
+                          CC="0000">face</String>
+                  <SP ID="P31_SP00189" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00217"
+                          HPOS="972"
+                          VPOS="1735"
+                          WIDTH="33"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.705"
+                          CC="32">of</String>
+                  <SP ID="P31_SP00190" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00218"
+                          HPOS="1033"
+                          VPOS="1740"
+                          WIDTH="131"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="greater"
+                          WC="0.861428559"
+                          CC="0300005">greater</String>
+                  <SP ID="P31_SP00191" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00219"
+                          HPOS="1191"
+                          VPOS="1735"
+                          WIDTH="188"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="difficulties"
+                          WC="0.920833349"
+                          CC="040000010300">difficulties</String>
+                  <SP ID="P31_SP00192" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00220"
+                          HPOS="1402"
+                          VPOS="1735"
+                          WIDTH="81"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="than"
+                          WC="0.945"
+                          CC="0002">than</String>
+               </TextLine>
+               <TextLine ID="P31_TL00029"
+                         HPOS="498"
+                         VPOS="1785"
+                         WIDTH="987"
+                         HEIGHT="41">
+                  <String ID="P31_S00221"
+                          HPOS="498"
+                          VPOS="1785"
+                          WIDTH="191"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="confronted"
+                          WC="0.892"
+                          CC="0201600000">confronted</String>
+                  <SP ID="P31_SP00193" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00222"
+                          HPOS="709"
+                          VPOS="1785"
+                          WIDTH="129"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Cortes,"
+                          WC="0.808571458"
+                          CC="0450003">Cortes,</String>
+                  <SP ID="P31_SP00194" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00223"
+                          HPOS="857"
+                          VPOS="1786"
+                          WIDTH="65"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="and"
+                          WC="1"
+                          CC="000">and</String>
+                  <SP ID="P31_SP00195" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00224"
+                          HPOS="939"
+                          VPOS="1785"
+                          WIDTH="109"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="which"
+                          WC="0.992"
+                          CC="00000">which</String>
+                  <SP ID="P31_SP00196" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00225"
+                          HPOS="1072"
+                          VPOS="1785"
+                          WIDTH="106"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="might"
+                          WC="1"
+                          CC="00000">might</String>
+                  <SP ID="P31_SP00197" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00226"
+                          HPOS="1203"
+                          VPOS="1787"
+                          WIDTH="83"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="have"
+                          WC="1"
+                          CC="0000">have</String>
+                  <SP ID="P31_SP00198" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00227"
+                          HPOS="1309"
+                          VPOS="1785"
+                          WIDTH="176"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="staggered"
+                          WC="0.942222238"
+                          CC="000000500">staggered</String>
+               </TextLine>
+               <TextLine ID="P31_TL00030"
+                         HPOS="500"
+                         VPOS="1833"
+                         WIDTH="985"
+                         HEIGHT="39">
+                  <String ID="P31_S00228"
+                          HPOS="500"
+                          VPOS="1845"
+                          WIDTH="80"
+                          HEIGHT="19"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="even"
+                          WC="0.8025"
+                          CC="1060">even</String>
+                  <SP ID="P31_SP00199" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00229"
+                          HPOS="606"
+                          VPOS="1833"
+                          WIDTH="51"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="his"
+                          WC="0.863333344"
+                          CC="040">his</String>
+                  <SP ID="P31_SP00200" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00230"
+                          HPOS="681"
+                          VPOS="1833"
+                          WIDTH="188"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="abounding"
+                          WC="0.813333333"
+                          CC="075300000">abounding</String>
+                  <SP ID="P31_SP00201" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00231"
+                          HPOS="888"
+                          VPOS="1844"
+                          WIDTH="141"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="courage"
+                          WC="0.6785714"
+                          CC="00541003">courage</String>
+                  <SP ID="P31_SP00202" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00232"
+                          HPOS="1053"
+                          VPOS="1834"
+                          WIDTH="64"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="and"
+                          WC="0.8833333"
+                          CC="030">and</String>
+                  <SP ID="P31_SP00203" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00233"
+                          HPOS="1140"
+                          VPOS="1833"
+                          WIDTH="95"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="faith,"
+                          WC="0.9483333"
+                          CC="200000">faith,</String>
+                  <SP ID="P31_SP00204" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00234"
+                          HPOS="1254"
+                          VPOS="1835"
+                          WIDTH="66"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="had"
+                          WC="1"
+                          CC="000">had</String>
+                  <SP ID="P31_SP00205" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00235"
+                          HPOS="1342"
+                          VPOS="1835"
+                          WIDTH="40"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="he"
+                          WC="1"
+                          CC="00">he</String>
+                  <SP ID="P31_SP00206" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00236"
+                          HPOS="1404"
+                          VPOS="1835"
+                          WIDTH="81"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="fore¬"
+                          WC="0.814"
+                          CC="10403">fore¬</String>
+               </TextLine>
+               <TextLine ID="P31_TL00031"
+                         HPOS="501"
+                         VPOS="1884"
+                         WIDTH="196"
+                         HEIGHT="31">
+                  <String ID="P31_S00237"
+                          HPOS="501"
+                          VPOS="1895"
+                          WIDTH="76"
+                          HEIGHT="19"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="seen"
+                          WC="1"
+                          CC="0000">seen</String>
+                  <SP ID="P31_SP00207" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P31_S00238"
+                          HPOS="594"
+                          VPOS="1884"
+                          WIDTH="103"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="them."
+                          WC="0.726"
+                          CC="000103">them.</String>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

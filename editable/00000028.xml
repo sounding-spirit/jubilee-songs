@@ -1,0 +1,2901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://raw.githubusercontent.com/sounding-spirit/ocr-correction/master/alto-style.css"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>00000028.tif</fileName>
+      </sourceImageInformation>
+      <OCRProcessing ID="Processing">
+         <ocrProcessingStep>
+            <processingStepSettings>Image Resolution:300</processingStepSettings>
+            <processingSoftware>
+               <softwareCreator>I2S</softwareCreator>
+               <softwareName>Limb</softwareName>
+               <softwareVersion>1.0</softwareVersion>
+               <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Styles>
+      <TextStyle ID="StyleId-0" FONTSIZE="9" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-1" FONTSIZE="8" FONTFAMILY="Times New Roman"/>
+   </Styles>
+   <Layout>
+      <Page ID="P27"
+            PHYSICAL_IMG_NR="27"
+            HEIGHT="2400"
+            WIDTH="1725"
+            ACCURACY="0.844614744"
+            QUALITY_DETAIL="265 words, 1311 chars, 1148 with recognition greater than 50% (87.57%)">
+         <TopMargin ID="P27_TM00001"
+                    HPOS="0"
+                    VPOS="0"
+                    WIDTH="1725"
+                    HEIGHT="356"/>
+         <LeftMargin ID="P27_LM00001"
+                     HPOS="0"
+                     VPOS="356"
+                     WIDTH="441"
+                     HEIGHT="1692"/>
+         <RightMargin ID="P27_RM00001"
+                      HPOS="1452"
+                      VPOS="356"
+                      WIDTH="272"
+                      HEIGHT="1692"/>
+         <BottomMargin ID="P27_BM00001"
+                       HPOS="0"
+                       VPOS="2048"
+                       WIDTH="1725"
+                       HEIGHT="351"/>
+         <PrintSpace ID="P27_PS00001"
+                     HPOS="441"
+                     VPOS="356"
+                     WIDTH="1011"
+                     HEIGHT="1692">
+            <TextBlock ID="P27_TB00001"
+                       HPOS="451"
+                       VPOS="369"
+                       WIDTH="41"
+                       HEIGHT="29">
+               <TextLine ID="P27_TL00001"
+                         HPOS="457"
+                         VPOS="375"
+                         WIDTH="28"
+                         HEIGHT="17">
+                  <String ID="P27_S00001"
+                          HPOS="457"
+                          VPOS="375"
+                          WIDTH="28"
+                          HEIGHT="17"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="12"
+                          WC="0.625"
+                          CC="34">12</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P27_TB00002"
+                       HPOS="702"
+                       VPOS="356"
+                       WIDTH="497"
+                       HEIGHT="48">
+               <TextLine ID="P27_TL00002"
+                         HPOS="708"
+                         VPOS="363"
+                         WIDTH="485"
+                         HEIGHT="36">
+                  <String ID="P27_S00002"
+                          HPOS="708"
+                          VPOS="366"
+                          WIDTH="84"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="THE"
+                          WC="0.91"
+                          CC="200">THE</String>
+                  <SP ID="P27_SP00001" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00003"
+                          HPOS="811"
+                          VPOS="364"
+                          WIDTH="179"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="JUBILEE"
+                          WC="0.8314286"
+                          CC="4060000">JUBILEE</String>
+                  <SP ID="P27_SP00002" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00004"
+                          HPOS="1009"
+                          VPOS="363"
+                          WIDTH="184"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="SINGERS."
+                          WC="0.83375"
+                          CC="10100036">SINGERS.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P27_TB00003"
+                       HPOS="441"
+                       VPOS="437"
+                       WIDTH="1011"
+                       HEIGHT="1611">
+               <TextLine ID="P27_TL00003"
+                         HPOS="496"
+                         VPOS="443"
+                         WIDTH="942"
+                         HEIGHT="43">
+                  <String ID="P27_S00005"
+                          HPOS="496"
+                          VPOS="449"
+                          WIDTH="72"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="The"
+                          WC="0.6066667"
+                          CC="640">The</String>
+                  <SP ID="P27_SP00003" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00006"
+                          HPOS="600"
+                          VPOS="449"
+                          WIDTH="135"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="officers'"
+                          WC="0.664444447"
+                          CC="177700203">officers'</String>
+                  <SP ID="P27_SP00004" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00007"
+                          HPOS="770"
+                          VPOS="451"
+                          WIDTH="148"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="quarters"
+                          WC="0.875"
+                          CC="02201030">quarters</String>
+                  <SP ID="P27_SP00005" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00008"
+                          HPOS="950"
+                          VPOS="446"
+                          WIDTH="135"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="became"
+                          WC="0.88"
+                          CC="100500">became</String>
+                  <SP ID="P27_SP00006" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00009"
+                          HPOS="1116"
+                          VPOS="444"
+                          WIDTH="56"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.733333349"
+                          CC="080">the</String>
+                  <SP ID="P27_SP00007" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00010"
+                          HPOS="1203"
+                          VPOS="444"
+                          WIDTH="97"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="home"
+                          WC="0.7125"
+                          CC="6040">home</String>
+                  <SP ID="P27_SP00008" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00011"
+                          HPOS="1334"
+                          VPOS="443"
+                          WIDTH="33"
+                          HEIGHT="43"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.645"
+                          CC="15">of</String>
+                  <SP ID="P27_SP00009" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00012"
+                          HPOS="1397"
+                          VPOS="453"
+                          WIDTH="41"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="an"
+                          WC="0.69"
+                          CC="06">an</String>
+               </TextLine>
+               <TextLine ID="P27_TL00004"
+                         HPOS="454"
+                         VPOS="492"
+                         WIDTH="985"
+                         HEIGHT="39">
+                  <String ID="P27_S00013"
+                          HPOS="454"
+                          VPOS="503"
+                          WIDTH="129"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="earnest"
+                          WC="0.9285714"
+                          CC="0012000">earnest</String>
+                  <SP ID="P27_SP00010" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00014"
+                          HPOS="603"
+                          VPOS="498"
+                          WIDTH="86"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="band"
+                          WC="0.8225"
+                          CC="7000">band</String>
+                  <SP ID="P27_SP00011" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00015"
+                          HPOS="706"
+                          VPOS="498"
+                          WIDTH="33"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="1"
+                          CC="00">of</String>
+                  <SP ID="P27_SP00012" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00016"
+                          HPOS="761"
+                          VPOS="497"
+                          WIDTH="169"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="teachers;"
+                          WC="0.8388889"
+                          CC="000160104">teachers;</String>
+                  <SP ID="P27_SP00013" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00017"
+                          HPOS="955"
+                          VPOS="495"
+                          WIDTH="57"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.836666644"
+                          CC="040">the</String>
+                  <SP ID="P27_SP00014" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00018"
+                          HPOS="1033"
+                          VPOS="494"
+                          WIDTH="193"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="sick-wards"
+                          WC="0.714"
+                          CC="05000610050">sick-wards</String>
+                  <SP ID="P27_SP00015" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00019"
+                          HPOS="1242"
+                          VPOS="504"
+                          WIDTH="84"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="were"
+                          WC="0.83"
+                          CC="0060">were</String>
+                  <SP ID="P27_SP00016" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00020"
+                          HPOS="1344"
+                          VPOS="492"
+                          WIDTH="95"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="fitted"
+                          WC="0.695"
+                          CC="360044">fitted</String>
+               </TextLine>
+               <TextLine ID="P27_TL00005"
+                         HPOS="455"
+                         VPOS="542"
+                         WIDTH="985"
+                         HEIGHT="47">
+                  <String ID="P27_S00021"
+                          HPOS="455"
+                          VPOS="561"
+                          WIDTH="41"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="up"
+                          WC="0.94"
+                          CC="10">up</String>
+                  <SP ID="P27_SP00017" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00022"
+                          HPOS="513"
+                          VPOS="560"
+                          WIDTH="36"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="as"
+                          WC="0.885"
+                          CC="02">as</String>
+                  <SP ID="P27_SP00018" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00023"
+                          HPOS="567"
+                          VPOS="549"
+                          WIDTH="235"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="schoolrooms,"
+                          WC="0.858333349"
+                          CC="007001500002">schoolrooms,</String>
+                  <SP ID="P27_SP00019" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00024"
+                          HPOS="822"
+                          VPOS="546"
+                          WIDTH="62"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="and"
+                          WC="1"
+                          CC="000">and</String>
+                  <SP ID="P27_SP00020" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00025"
+                          HPOS="903"
+                          VPOS="545"
+                          WIDTH="88"
+                          HEIGHT="44"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="filled"
+                          WC="0.9166667"
+                          CC="111000">filled</String>
+                  <SP ID="P27_SP00021" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00026"
+                          HPOS="1008"
+                          VPOS="544"
+                          WIDTH="81"
+                          HEIGHT="45"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="with"
+                          WC="0.8525"
+                          CC="0104">with</String>
+                  <SP ID="P27_SP00022" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00027"
+                          HPOS="1107"
+                          VPOS="543"
+                          WIDTH="169"
+                          HEIGHT="46"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="hundreds"
+                          WC="0.8675"
+                          CC="40303000">hundreds</String>
+                  <SP ID="P27_SP00023" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00028"
+                          HPOS="1293"
+                          VPOS="542"
+                          WIDTH="34"
+                          HEIGHT="47"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.92"
+                          CC="10">of</String>
+                  <SP ID="P27_SP00024" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00029"
+                          HPOS="1343"
+                          VPOS="552"
+                          WIDTH="97"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="eager"
+                          WC="0.782"
+                          CC="00703">eager</String>
+               </TextLine>
+               <TextLine ID="P27_TL00006"
+                         HPOS="455"
+                         VPOS="593"
+                         WIDTH="984"
+                         HEIGHT="42">
+                  <String ID="P27_S00030"
+                          HPOS="455"
+                          VPOS="600"
+                          WIDTH="166"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="children;"
+                          WC="0.802222252"
+                          CC="051200006">children;</String>
+                  <SP ID="P27_SP00025" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00031"
+                          HPOS="654"
+                          VPOS="598"
+                          WIDTH="56"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.78"
+                          CC="060">the</String>
+                  <SP ID="P27_SP00026" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00032"
+                          HPOS="737"
+                          VPOS="597"
+                          WIDTH="201"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="dead-house"
+                          WC="0.888"
+                          CC="0000140500">dead-house</String>
+                  <SP ID="P27_SP00027" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00033"
+                          HPOS="963"
+                          VPOS="605"
+                          WIDTH="67"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="was"
+                          WC="1"
+                          CC="000">was</String>
+                  <SP ID="P27_SP00028" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00034"
+                          HPOS="1054"
+                          VPOS="593"
+                          WIDTH="120"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="turned"
+                          WC="0.841666639"
+                          CC="203300">turned</String>
+                  <SP ID="P27_SP00029" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00035"
+                          HPOS="1200"
+                          VPOS="593"
+                          WIDTH="69"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="into"
+                          WC="0.84"
+                          CC="4010">into</String>
+                  <SP ID="P27_SP00030" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00036"
+                          HPOS="1295"
+                          VPOS="603"
+                          WIDTH="18"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="a"
+                          WC="1"
+                          CC="0">a</String>
+                  <SP ID="P27_SP00031" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00037"
+                          HPOS="1338"
+                          VPOS="596"
+                          WIDTH="101"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="store¬"
+                          WC="0.82"
+                          CC="600003">store¬</String>
+               </TextLine>
+               <TextLine ID="P27_TL00007"
+                         HPOS="455"
+                         VPOS="642"
+                         WIDTH="986"
+                         HEIGHT="45">
+                  <String ID="P27_S00038"
+                          HPOS="455"
+                          VPOS="660"
+                          WIDTH="88"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="room"
+                          WC="0.86"
+                          CC="0230">room</String>
+                  <SP ID="P27_SP00032" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00039"
+                          HPOS="568"
+                          VPOS="649"
+                          WIDTH="34"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.965"
+                          CC="00">of</String>
+                  <SP ID="P27_SP00033" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00040"
+                          HPOS="630"
+                          VPOS="648"
+                          WIDTH="146"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="supplies"
+                          WC="0.795"
+                          CC="00653000">supplies</String>
+                  <SP ID="P27_SP00034" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00041"
+                          HPOS="804"
+                          VPOS="647"
+                          WIDTH="49"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="for"
+                          WC="0.983333349"
+                          CC="000">for</String>
+                  <SP ID="P27_SP00035" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00042"
+                          HPOS="876"
+                          VPOS="646"
+                          WIDTH="56"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.75666666"
+                          CC="070">the</String>
+                  <SP ID="P27_SP00036" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00043"
+                          HPOS="957"
+                          VPOS="645"
+                          WIDTH="109"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="naked"
+                          WC="0.856"
+                          CC="70000">naked</String>
+                  <SP ID="P27_SP00037" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00044"
+                          HPOS="1090"
+                          VPOS="645"
+                          WIDTH="64"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="and"
+                          WC="0.77"
+                          CC="060">and</String>
+                  <SP ID="P27_SP00038" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00045"
+                          HPOS="1179"
+                          VPOS="643"
+                          WIDTH="141"
+                          HEIGHT="44"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="hungry."
+                          WC="0.4942857"
+                          CC="66310044">hungry.</String>
+                  <SP ID="P27_SP00039" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00046"
+                          HPOS="1367"
+                          VPOS="642"
+                          WIDTH="74"
+                          HEIGHT="45"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="And"
+                          WC="1"
+                          CC="000">And</String>
+               </TextLine>
+               <TextLine ID="P27_TL00008"
+                         HPOS="455"
+                         VPOS="693"
+                         WIDTH="986"
+                         HEIGHT="43">
+                  <String ID="P27_S00047"
+                          HPOS="455"
+                          VPOS="700"
+                          WIDTH="89"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="there"
+                          WC="0.698"
+                          CC="65030">there</String>
+                  <SP ID="P27_SP00040" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00048"
+                          HPOS="569"
+                          VPOS="709"
+                          WIDTH="68"
+                          HEIGHT="21"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="was"
+                          WC="0.86"
+                          CC="004">was</String>
+                  <SP ID="P27_SP00041" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00049"
+                          HPOS="660"
+                          VPOS="709"
+                          WIDTH="41"
+                          HEIGHT="21"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="an"
+                          WC="1"
+                          CC="00">an</String>
+                  <SP ID="P27_SP00042" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00050"
+                          HPOS="724"
+                          VPOS="698"
+                          WIDTH="119"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="almost"
+                          WC="0.771666646"
+                          CC="940000">almost</String>
+                  <SP ID="P27_SP00043" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00051"
+                          HPOS="867"
+                          VPOS="696"
+                          WIDTH="145"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="pathetic"
+                          WC="0.96125"
+                          CC="00030000">pathetic</String>
+                  <SP ID="P27_SP00044" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00052"
+                          HPOS="1033"
+                          VPOS="706"
+                          WIDTH="153"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="romance"
+                          WC="0.872857153"
+                          CC="3000400">romance</String>
+                  <SP ID="P27_SP00045" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00053"
+                          HPOS="1212"
+                          VPOS="694"
+                          WIDTH="33"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="in"
+                          WC="0.76"
+                          CC="40">in</String>
+                  <SP ID="P27_SP00046" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00054"
+                          HPOS="1269"
+                          VPOS="694"
+                          WIDTH="57"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.77"
+                          CC="150">the</String>
+                  <SP ID="P27_SP00047" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00055"
+                          HPOS="1350"
+                          VPOS="693"
+                          WIDTH="91"
+                          HEIGHT="43"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="work"
+                          WC="0.935"
+                          CC="0020">work</String>
+               </TextLine>
+               <TextLine ID="P27_TL00009"
+                         HPOS="455"
+                         VPOS="744"
+                         WIDTH="986"
+                         HEIGHT="44">
+                  <String ID="P27_S00056"
+                          HPOS="455"
+                          VPOS="750"
+                          WIDTH="93"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="when"
+                          WC="0.87"
+                          CC="0400">when</String>
+                  <SP ID="P27_SP00048" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00057"
+                          HPOS="567"
+                          VPOS="760"
+                          WIDTH="18"
+                          HEIGHT="21"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="a"
+                          WC="1"
+                          CC="0">a</String>
+                  <SP ID="P27_SP00049" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00058"
+                          HPOS="609"
+                          VPOS="749"
+                          WIDTH="63"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="pile"
+                          WC="1"
+                          CC="0000">pile</String>
+                  <SP ID="P27_SP00050" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00059"
+                          HPOS="693"
+                          VPOS="748"
+                          WIDTH="33"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.84"
+                          CC="30">of</String>
+                  <SP ID="P27_SP00051" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00060"
+                          HPOS="749"
+                          VPOS="753"
+                          WIDTH="91"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="rusty"
+                          WC="0.718"
+                          CC="63004">rusty</String>
+                  <SP ID="P27_SP00052" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00061"
+                          HPOS="857"
+                          VPOS="747"
+                          WIDTH="172"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="handcuffs"
+                          WC="0.7511111"
+                          CC="503000660">handcuffs</String>
+                  <SP ID="P27_SP00053" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00062"
+                          HPOS="1053"
+                          VPOS="747"
+                          WIDTH="64"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="and"
+                          WC="0.836666644"
+                          CC="040">and</String>
+                  <SP ID="P27_SP00054" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00063"
+                          HPOS="1137"
+                          VPOS="746"
+                          WIDTH="114"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="fetters"
+                          WC="0.985714257"
+                          CC="0000010">fetters</String>
+                  <SP ID="P27_SP00055" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00064"
+                          HPOS="1275"
+                          VPOS="745"
+                          WIDTH="83"
+                          HEIGHT="43"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="from"
+                          WC="0.7625"
+                          CC="3330">from</String>
+                  <SP ID="P27_SP00056" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00065"
+                          HPOS="1383"
+                          VPOS="744"
+                          WIDTH="57"
+                          HEIGHT="44"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.82"
+                          CC="050">the</String>
+               </TextLine>
+               <TextLine ID="P27_TL00010"
+                         HPOS="456"
+                         VPOS="795"
+                         WIDTH="984"
+                         HEIGHT="43">
+                  <String ID="P27_S00066"
+                          HPOS="456"
+                          VPOS="800"
+                          WIDTH="192"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="abandoned"
+                          WC="0.9288889"
+                          CC="060000000">abandoned</String>
+                  <SP ID="P27_SP00057" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00067"
+                          HPOS="669"
+                          VPOS="800"
+                          WIDTH="167"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="slave-pen"
+                          WC="0.9444444"
+                          CC="040000000">slave-pen</String>
+                  <SP ID="P27_SP00058" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00068"
+                          HPOS="860"
+                          VPOS="799"
+                          WIDTH="33"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.865"
+                          CC="02">of</String>
+                  <SP ID="P27_SP00059" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00069"
+                          HPOS="913"
+                          VPOS="799"
+                          WIDTH="56"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.76"
+                          CC="070">the</String>
+                  <SP ID="P27_SP00060" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00070"
+                          HPOS="991"
+                          VPOS="798"
+                          WIDTH="67"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="city"
+                          WC="0.88"
+                          CC="0400">city</String>
+                  <SP ID="P27_SP00061" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00071"
+                          HPOS="1076"
+                          VPOS="807"
+                          WIDTH="93"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="came"
+                          WC="1"
+                          CC="0000">came</String>
+                  <SP ID="P27_SP00062" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00072"
+                          HPOS="1192"
+                          VPOS="797"
+                          WIDTH="69"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="into"
+                          WC="0.945"
+                          CC="1000">into</String>
+                  <SP ID="P27_SP00063" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00073"
+                          HPOS="1286"
+                          VPOS="795"
+                          WIDTH="57"
+                          HEIGHT="43"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.78"
+                          CC="060">the</String>
+                  <SP ID="P27_SP00064" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00074"
+                          HPOS="1365"
+                          VPOS="806"
+                          WIDTH="75"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="pos¬"
+                          WC="0.4625"
+                          CC="9353">pos¬</String>
+               </TextLine>
+               <TextLine ID="P27_TL00011"
+                         HPOS="456"
+                         VPOS="846"
+                         WIDTH="984"
+                         HEIGHT="40">
+                  <String ID="P27_S00075"
+                          HPOS="456"
+                          VPOS="851"
+                          WIDTH="124"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="session"
+                          WC="0.964285731"
+                          CC="0000100">session</String>
+                  <SP ID="P27_SP00065" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00076"
+                          HPOS="598"
+                          VPOS="851"
+                          WIDTH="33"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.79"
+                          CC="04">of</String>
+                  <SP ID="P27_SP00066" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00077"
+                          HPOS="651"
+                          VPOS="850"
+                          WIDTH="55"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="1"
+                          CC="000">the</String>
+                  <SP ID="P27_SP00067" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00078"
+                          HPOS="726"
+                          VPOS="850"
+                          WIDTH="123"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="school,"
+                          WC="0.6785714"
+                          CC="9033032">school,</String>
+                  <SP ID="P27_SP00068" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00079"
+                          HPOS="869"
+                          VPOS="850"
+                          WIDTH="64"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="and"
+                          WC="1"
+                          CC="000">and</String>
+                  <SP ID="P27_SP00069" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00080"
+                          HPOS="949"
+                          VPOS="859"
+                          WIDTH="84"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="were"
+                          WC="0.9075"
+                          CC="0030">were</String>
+                  <SP ID="P27_SP00070" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00081"
+                          HPOS="1052"
+                          VPOS="849"
+                          WIDTH="70"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="sold"
+                          WC="0.9475"
+                          CC="2000">sold</String>
+                  <SP ID="P27_SP00071" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00082"
+                          HPOS="1144"
+                          VPOS="858"
+                          WIDTH="36"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="as"
+                          WC="0.61"
+                          CC="70">as</String>
+                  <SP ID="P27_SP00072" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00083"
+                          HPOS="1203"
+                          VPOS="848"
+                          WIDTH="53"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="old"
+                          WC="1"
+                          CC="000">old</String>
+                  <SP ID="P27_SP00073" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00084"
+                          HPOS="1275"
+                          VPOS="846"
+                          WIDTH="81"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="iron,"
+                          WC="0.588"
+                          CC="53361">iron,</String>
+                  <SP ID="P27_SP00074" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00085"
+                          HPOS="1375"
+                          VPOS="846"
+                          WIDTH="65"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="and"
+                          WC="1"
+                          CC="000">and</String>
+               </TextLine>
+               <TextLine ID="P27_TL00012"
+                         HPOS="456"
+                         VPOS="897"
+                         WIDTH="984"
+                         HEIGHT="43">
+                  <String ID="P27_S00086"
+                          HPOS="456"
+                          VPOS="903"
+                          WIDTH="55"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.836666644"
+                          CC="040">the</String>
+                  <SP ID="P27_SP00075" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00087"
+                          HPOS="537"
+                          VPOS="912"
+                          WIDTH="117"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="money"
+                          WC="0.856"
+                          CC="00700">money</String>
+                  <SP ID="P27_SP00076" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00088"
+                          HPOS="677"
+                          VPOS="901"
+                          WIDTH="148"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="invested"
+                          WC="0.97375"
+                          CC="20000000">invested</String>
+                  <SP ID="P27_SP00077" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00089"
+                          HPOS="851"
+                          VPOS="900"
+                          WIDTH="33"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="in"
+                          WC="0.89"
+                          CC="20">in</String>
+                  <SP ID="P27_SP00078" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00090"
+                          HPOS="903"
+                          VPOS="900"
+                          WIDTH="55"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.873333335"
+                          CC="030">the</String>
+                  <SP ID="P27_SP00079" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00091"
+                          HPOS="984"
+                          VPOS="899"
+                          WIDTH="162"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="purchase"
+                          WC="0.8775"
+                          CC="05003000">purchase</String>
+                  <SP ID="P27_SP00080" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00092"
+                          HPOS="1170"
+                          VPOS="898"
+                          WIDTH="33"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.825"
+                          CC="30">of</String>
+                  <SP ID="P27_SP00081" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00093"
+                          HPOS="1224"
+                          VPOS="897"
+                          WIDTH="216"
+                          HEIGHT="43"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Testaments"
+                          WC="0.829"
+                          CC="6000505000">Testaments</String>
+               </TextLine>
+               <TextLine ID="P27_TL00013"
+                         HPOS="456"
+                         VPOS="951"
+                         WIDTH="358"
+                         HEIGHT="39">
+                  <String ID="P27_S00094"
+                          HPOS="456"
+                          VPOS="952"
+                          WIDTH="63"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="and"
+                          WC="1"
+                          CC="000">and</String>
+                  <SP ID="P27_SP00082" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00095"
+                          HPOS="543"
+                          VPOS="951"
+                          WIDTH="272"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="spelling-books!"
+                          WC="0.8886667"
+                          CC="000064000022000">spelling-books!</String>
+               </TextLine>
+               <TextLine ID="P27_TL00014"
+                         HPOS="498"
+                         VPOS="999"
+                         WIDTH="942"
+                         HEIGHT="42">
+                  <String ID="P27_S00096"
+                          HPOS="498"
+                          VPOS="1002"
+                          WIDTH="72"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="The"
+                          WC="0.75333333"
+                          CC="070">The</String>
+                  <SP ID="P27_SP00083" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00097"
+                          HPOS="587"
+                          VPOS="1003"
+                          WIDTH="138"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="number"
+                          WC="0.8333333"
+                          CC="050004">number</String>
+                  <SP ID="P27_SP00084" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00098"
+                          HPOS="743"
+                          VPOS="1002"
+                          WIDTH="33"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.785"
+                          CC="40">of</String>
+                  <SP ID="P27_SP00085" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00099"
+                          HPOS="789"
+                          VPOS="1002"
+                          WIDTH="109"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="pupils"
+                          WC="0.8616667"
+                          CC="000260">pupils</String>
+                  <SP ID="P27_SP00086" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00100"
+                          HPOS="917"
+                          VPOS="1002"
+                          WIDTH="33"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="in"
+                          WC="0.8"
+                          CC="40">in</String>
+                  <SP ID="P27_SP00087" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00101"
+                          HPOS="967"
+                          VPOS="1001"
+                          WIDTH="87"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="daily"
+                          WC="0.846"
+                          CC="00430">daily</String>
+                  <SP ID="P27_SP00088" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00102"
+                          HPOS="1073"
+                          VPOS="1001"
+                          WIDTH="197"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="attendance"
+                          WC="0.934"
+                          CC="0000000600">attendance</String>
+                  <SP ID="P27_SP00089" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00103"
+                          HPOS="1290"
+                          VPOS="1000"
+                          WIDTH="57"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.81"
+                          CC="050">the</String>
+                  <SP ID="P27_SP00090" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00104"
+                          HPOS="1368"
+                          VPOS="999"
+                          WIDTH="71"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="first"
+                          WC="0.844"
+                          CC="00600">first</String>
+               </TextLine>
+               <TextLine ID="P27_TL00015"
+                         HPOS="455"
+                         VPOS="1050"
+                         WIDTH="984"
+                         HEIGHT="42">
+                  <String ID="P27_S00105"
+                          HPOS="455"
+                          VPOS="1063"
+                          WIDTH="78"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="year"
+                          WC="0.835"
+                          CC="3003">year</String>
+                  <SP ID="P27_SP00091" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00106"
+                          HPOS="549"
+                          VPOS="1052"
+                          WIDTH="159"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="averaged"
+                          WC="0.94875"
+                          CC="00040000">averaged</String>
+                  <SP ID="P27_SP00092" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00107"
+                          HPOS="726"
+                          VPOS="1062"
+                          WIDTH="75"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="over"
+                          WC="0.875"
+                          CC="0004">over</String>
+                  <SP ID="P27_SP00093" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00108"
+                          HPOS="817"
+                          VPOS="1062"
+                          WIDTH="60"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="one"
+                          WC="0.826666653"
+                          CC="410">one</String>
+                  <SP ID="P27_SP00094" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00109"
+                          HPOS="894"
+                          VPOS="1052"
+                          WIDTH="177"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="thousand."
+                          WC="0.87"
+                          CC="050300003">thousand.</String>
+                  <SP ID="P27_SP00095" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00110"
+                          HPOS="1119"
+                          VPOS="1051"
+                          WIDTH="98"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Some"
+                          WC="1"
+                          CC="0000">Some</String>
+                  <SP ID="P27_SP00096" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00111"
+                          HPOS="1233"
+                          VPOS="1051"
+                          WIDTH="75"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="who"
+                          WC="0.7266667"
+                          CC="061">who</String>
+                  <SP ID="P27_SP00097" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00112"
+                          HPOS="1332"
+                          VPOS="1050"
+                          WIDTH="107"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="began"
+                          WC="0.72"
+                          CC="70006">began</String>
+               </TextLine>
+               <TextLine ID="P27_TL00016"
+                         HPOS="456"
+                         VPOS="1101"
+                         WIDTH="984"
+                         HEIGHT="40">
+                  <String ID="P27_S00113"
+                          HPOS="456"
+                          VPOS="1103"
+                          WIDTH="55"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.7366667"
+                          CC="340">the</String>
+                  <SP ID="P27_SP00098" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00114"
+                          HPOS="528"
+                          VPOS="1104"
+                          WIDTH="69"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="first"
+                          WC="0.9"
+                          CC="22000">first</String>
+                  <SP ID="P27_SP00099" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00115"
+                          HPOS="615"
+                          VPOS="1107"
+                          WIDTH="84"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="term"
+                          WC="0.88"
+                          CC="0040">term</String>
+                  <SP ID="P27_SP00100" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00116"
+                          HPOS="715"
+                          VPOS="1113"
+                          WIDTH="99"
+                          HEIGHT="21"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="never"
+                          WC="0.948"
+                          CC="00002">never</String>
+                  <SP ID="P27_SP00101" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00117"
+                          HPOS="830"
+                          VPOS="1102"
+                          WIDTH="117"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="ceased"
+                          WC="1"
+                          CC="000000">ceased</String>
+                  <SP ID="P27_SP00102" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00118"
+                          HPOS="964"
+                          VPOS="1101"
+                          WIDTH="197"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="attendance"
+                          WC="0.981"
+                          CC="0001000000">attendance</String>
+                  <SP ID="P27_SP00103" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00119"
+                          HPOS="1178"
+                          VPOS="1101"
+                          WIDTH="85"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="until"
+                          WC="0.8"
+                          CC="50005">until</String>
+                  <SP ID="P27_SP00104" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00120"
+                          HPOS="1280"
+                          VPOS="1101"
+                          WIDTH="78"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="they"
+                          WC="0.8375"
+                          CC="0600">they</String>
+                  <SP ID="P27_SP00105" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00121"
+                          HPOS="1376"
+                          VPOS="1101"
+                          WIDTH="65"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="had"
+                          WC="0.83"
+                          CC="500">had</String>
+               </TextLine>
+               <TextLine ID="P27_TL00017"
+                         HPOS="456"
+                         VPOS="1152"
+                         WIDTH="984"
+                         HEIGHT="40">
+                  <String ID="P27_S00122"
+                          HPOS="456"
+                          VPOS="1152"
+                          WIDTH="192"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="graduated,"
+                          WC="0.94"
+                          CC="0300000002">graduated,</String>
+                  <SP ID="P27_SP00106" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00123"
+                          HPOS="663"
+                          VPOS="1157"
+                          WIDTH="54"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="ten"
+                          WC="1"
+                          CC="000">ten</String>
+                  <SP ID="P27_SP00107" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00124"
+                          HPOS="731"
+                          VPOS="1163"
+                          WIDTH="94"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="years"
+                          WC="1"
+                          CC="00000">years</String>
+                  <SP ID="P27_SP00108" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00125"
+                          HPOS="843"
+                          VPOS="1152"
+                          WIDTH="201"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="afterwards,"
+                          WC="0.8909091"
+                          CC="00001005004">afterwards,</String>
+                  <SP ID="P27_SP00109" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00126"
+                          HPOS="1065"
+                          VPOS="1152"
+                          WIDTH="81"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="from"
+                          WC="0.905"
+                          CC="0300">from</String>
+                  <SP ID="P27_SP00110" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00127"
+                          HPOS="1162"
+                          VPOS="1162"
+                          WIDTH="18"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="a"
+                          WC="0.24"
+                          CC="7">a</String>
+                  <SP ID="P27_SP00111" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00128"
+                          HPOS="1193"
+                          VPOS="1152"
+                          WIDTH="59"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="full"
+                          WC="0.85"
+                          CC="0303">full</String>
+                  <SP ID="P27_SP00112" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00129"
+                          HPOS="1266"
+                          VPOS="1152"
+                          WIDTH="174"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="collegiate"
+                          WC="0.888"
+                          CC="0044001000">collegiate</String>
+               </TextLine>
+               <TextLine ID="P27_TL00018"
+                         HPOS="457"
+                         VPOS="1202"
+                         WIDTH="987"
+                         HEIGHT="40">
+                  <String ID="P27_S00130"
+                          HPOS="457"
+                          VPOS="1214"
+                          WIDTH="125"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="course."
+                          WC="0.857142866"
+                          CC="0304002">course.</String>
+                  <SP ID="P27_SP00113" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00131"
+                          HPOS="628"
+                          VPOS="1203"
+                          WIDTH="42"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="At"
+                          WC="1"
+                          CC="00">At</String>
+                  <SP ID="P27_SP00114" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00132"
+                          HPOS="687"
+                          VPOS="1203"
+                          WIDTH="70"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="first"
+                          WC="0.908"
+                          CC="22000">first</String>
+                  <SP ID="P27_SP00115" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00133"
+                          HPOS="775"
+                          VPOS="1203"
+                          WIDTH="55"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.8433333"
+                          CC="040">the</String>
+                  <SP ID="P27_SP00116" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00134"
+                          HPOS="848"
+                          VPOS="1202"
+                          WIDTH="197"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="instruction"
+                          WC="0.843636334"
+                          CC="40003000035">instruction</String>
+                  <SP ID="P27_SP00117" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00135"
+                          HPOS="1066"
+                          VPOS="1213"
+                          WIDTH="78"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="was,"
+                          WC="0.7225"
+                          CC="0064">was,</String>
+                  <SP ID="P27_SP00118" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00136"
+                          HPOS="1158"
+                          VPOS="1202"
+                          WIDTH="34"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.855"
+                          CC="20">of</String>
+                  <SP ID="P27_SP00119" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00137"
+                          HPOS="1213"
+                          VPOS="1202"
+                          WIDTH="177"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="necessity,"
+                          WC="0.84"
+                          CC="6002005000">necessity,</String>
+                  <SP ID="P27_SP00120" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00138"
+                          HPOS="1410"
+                          VPOS="1202"
+                          WIDTH="35"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.755"
+                          CC="13">of</String>
+               </TextLine>
+               <TextLine ID="P27_TL00019"
+                         HPOS="458"
+                         VPOS="1252"
+                         WIDTH="983"
+                         HEIGHT="39">
+                  <String ID="P27_S00139"
+                          HPOS="458"
+                          VPOS="1263"
+                          WIDTH="41"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="an"
+                          WC="1"
+                          CC="00">an</String>
+                  <SP ID="P27_SP00121" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00140"
+                          HPOS="524"
+                          VPOS="1254"
+                          WIDTH="201"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="elementary"
+                          WC="0.922"
+                          CC="0300000040">elementary</String>
+                  <SP ID="P27_SP00122" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00141"
+                          HPOS="747"
+                          VPOS="1257"
+                          WIDTH="78"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="sort."
+                          WC="0.912"
+                          CC="00003">sort.</String>
+                  <SP ID="P27_SP00123" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00142"
+                          HPOS="873"
+                          VPOS="1253"
+                          WIDTH="67"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="But"
+                          WC="0.553333342"
+                          CC="670">But</String>
+                  <SP ID="P27_SP00124" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00143"
+                          HPOS="966"
+                          VPOS="1253"
+                          WIDTH="57"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.82"
+                          CC="050">the</String>
+                  <SP ID="P27_SP00125" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00144"
+                          HPOS="1045"
+                          VPOS="1252"
+                          WIDTH="73"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="idea"
+                          WC="0.875"
+                          CC="5000">idea</String>
+                  <SP ID="P27_SP00126" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00145"
+                          HPOS="1143"
+                          VPOS="1263"
+                          WIDTH="87"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="upon"
+                          WC="1"
+                          CC="0000">upon</String>
+                  <SP ID="P27_SP00127" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00146"
+                          HPOS="1253"
+                          VPOS="1252"
+                          WIDTH="109"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="which"
+                          WC="0.668"
+                          CC="06603">which</String>
+                  <SP ID="P27_SP00128" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00147"
+                          HPOS="1385"
+                          VPOS="1252"
+                          WIDTH="56"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="1"
+                          CC="000">the</String>
+               </TextLine>
+               <TextLine ID="P27_TL00020"
+                         HPOS="458"
+                         VPOS="1302"
+                         WIDTH="983"
+                         HEIGHT="40">
+                  <String ID="P27_S00148"
+                          HPOS="458"
+                          VPOS="1303"
+                          WIDTH="111"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="school"
+                          WC="0.81"
+                          CC="025003">school</String>
+                  <SP ID="P27_SP00129" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00149"
+                          HPOS="606"
+                          VPOS="1314"
+                          WIDTH="68"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="was"
+                          WC="1"
+                          CC="000">was</String>
+                  <SP ID="P27_SP00130" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00150"
+                          HPOS="711"
+                          VPOS="1303"
+                          WIDTH="169"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="avowedly"
+                          WC="1"
+                          CC="00000000">avowedly</String>
+                  <SP ID="P27_SP00131" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00151"
+                          HPOS="911"
+                          VPOS="1303"
+                          WIDTH="152"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="founded,"
+                          WC="0.95375"
+                          CC="00000003">founded,</String>
+                  <SP ID="P27_SP00132" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00152"
+                          HPOS="1102"
+                          VPOS="1303"
+                          WIDTH="35"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.725"
+                          CC="50">of</String>
+                  <SP ID="P27_SP00133" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00153"
+                          HPOS="1172"
+                          VPOS="1303"
+                          WIDTH="172"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="providing"
+                          WC="0.75"
+                          CC="002070660">providing</String>
+                  <SP ID="P27_SP00134" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00154"
+                          HPOS="1383"
+                          VPOS="1302"
+                          WIDTH="57"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.8433333"
+                          CC="040">the</String>
+               </TextLine>
+               <TextLine ID="P27_TL00021"
+                         HPOS="458"
+                         VPOS="1353"
+                         WIDTH="984"
+                         HEIGHT="41">
+                  <String ID="P27_S00155"
+                          HPOS="458"
+                          VPOS="1353"
+                          WIDTH="131"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="highest"
+                          WC="0.7385714"
+                          CC="4607000">highest</String>
+                  <SP ID="P27_SP00135" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00156"
+                          HPOS="606"
+                          VPOS="1353"
+                          WIDTH="171"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="collegiate"
+                          WC="0.873"
+                          CC="0550002000">collegiate</String>
+                  <SP ID="P27_SP00136" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00157"
+                          HPOS="803"
+                          VPOS="1353"
+                          WIDTH="212"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="advantages,"
+                          WC="0.9745455"
+                          CC="00000000002">advantages,</String>
+                  <SP ID="P27_SP00137" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00158"
+                          HPOS="1033"
+                          VPOS="1364"
+                          WIDTH="69"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="was"
+                          WC="1"
+                          CC="000">was</String>
+                  <SP ID="P27_SP00138" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00159"
+                          HPOS="1124"
+                          VPOS="1354"
+                          WIDTH="77"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="kept"
+                          WC="0.8425"
+                          CC="4100">kept</String>
+                  <SP ID="P27_SP00139" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00160"
+                          HPOS="1218"
+                          VPOS="1353"
+                          WIDTH="224"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="prominently"
+                          WC="0.9109091"
+                          CC="04300000020">prominently</String>
+               </TextLine>
+               <TextLine ID="P27_TL00022"
+                         HPOS="459"
+                         VPOS="1403"
+                         WIDTH="982"
+                         HEIGHT="40">
+                  <String ID="P27_S00161"
+                          HPOS="459"
+                          VPOS="1404"
+                          WIDTH="30"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="in"
+                          WC="0.65"
+                          CC="24">in</String>
+                  <SP ID="P27_SP00140" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00162"
+                          HPOS="504"
+                          VPOS="1403"
+                          WIDTH="94"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="view."
+                          WC="0.83"
+                          CC="05003">view.</String>
+                  <SP ID="P27_SP00141" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00163"
+                          HPOS="647"
+                          VPOS="1404"
+                          WIDTH="39"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="In"
+                          WC="0.905"
+                          CC="10">In</String>
+                  <SP ID="P27_SP00142" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00164"
+                          HPOS="705"
+                          VPOS="1403"
+                          WIDTH="80"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="1867"
+                          WC="0.52"
+                          CC="4553">1867</String>
+                  <SP ID="P27_SP00143" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00165"
+                          HPOS="803"
+                          VPOS="1404"
+                          WIDTH="55"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.67"
+                          CC="063">the</String>
+                  <SP ID="P27_SP00144" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00166"
+                          HPOS="876"
+                          VPOS="1404"
+                          WIDTH="109"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="action"
+                          WC="0.855"
+                          CC="000430">action</String>
+                  <SP ID="P27_SP00145" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00167"
+                          HPOS="1004"
+                          VPOS="1404"
+                          WIDTH="34"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.635"
+                          CC="70">of</String>
+                  <SP ID="P27_SP00146" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00168"
+                          HPOS="1051"
+                          VPOS="1404"
+                          WIDTH="56"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.76"
+                          CC="070">the</String>
+                  <SP ID="P27_SP00147" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00169"
+                          HPOS="1125"
+                          VPOS="1404"
+                          WIDTH="66"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="city"
+                          WC="1"
+                          CC="0000">city</String>
+                  <SP ID="P27_SP00148" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00170"
+                          HPOS="1206"
+                          VPOS="1404"
+                          WIDTH="34"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.58"
+                          CC="44">of</String>
+                  <SP ID="P27_SP00149" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00171"
+                          HPOS="1255"
+                          VPOS="1404"
+                          WIDTH="186"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Nashville,"
+                          WC="0.871"
+                          CC="0004003003">Nashville,</String>
+               </TextLine>
+               <TextLine ID="P27_TL00023"
+                         HPOS="459"
+                         VPOS="1452"
+                         WIDTH="983"
+                         HEIGHT="42">
+                  <String ID="P27_S00172"
+                          HPOS="459"
+                          VPOS="1454"
+                          WIDTH="31"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="in"
+                          WC="0.97"
+                          CC="00">in</String>
+                  <SP ID="P27_SP00150" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00173"
+                          HPOS="522"
+                          VPOS="1452"
+                          WIDTH="134"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="making"
+                          WC="0.8566667"
+                          CC="000440">making</String>
+                  <SP ID="P27_SP00151" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00174"
+                          HPOS="693"
+                          VPOS="1463"
+                          WIDTH="90"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="some"
+                          WC="1"
+                          CC="0000">some</String>
+                  <SP ID="P27_SP00152" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00175"
+                          HPOS="816"
+                          VPOS="1454"
+                          WIDTH="164"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="provision"
+                          WC="0.9211111"
+                          CC="000000700">provision</String>
+                  <SP ID="P27_SP00153" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00176"
+                          HPOS="1017"
+                          VPOS="1454"
+                          WIDTH="48"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="for"
+                          WC="1"
+                          CC="000">for</String>
+                  <SP ID="P27_SP00154" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00177"
+                          HPOS="1097"
+                          VPOS="1455"
+                          WIDTH="109"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="public"
+                          WC="0.74666667"
+                          CC="004550">public</String>
+                  <SP ID="P27_SP00155" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00178"
+                          HPOS="1240"
+                          VPOS="1455"
+                          WIDTH="130"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="schools"
+                          WC="0.7871429"
+                          CC="6051100">schools</String>
+                  <SP ID="P27_SP00156" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00179"
+                          HPOS="1407"
+                          VPOS="1460"
+                          WIDTH="34"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="at"
+                          WC="1"
+                          CC="00">at</String>
+               </TextLine>
+               <TextLine ID="P27_TL00024"
+                         HPOS="459"
+                         VPOS="1503"
+                         WIDTH="983"
+                         HEIGHT="39">
+                  <String ID="P27_S00180"
+                          HPOS="459"
+                          VPOS="1503"
+                          WIDTH="105"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="which"
+                          WC="0.702"
+                          CC="05304">which</String>
+                  <SP ID="P27_SP00157" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00181"
+                          HPOS="582"
+                          VPOS="1503"
+                          WIDTH="153"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="coloured"
+                          WC="0.9025"
+                          CC="00200500">coloured</String>
+                  <SP ID="P27_SP00158" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00182"
+                          HPOS="760"
+                          VPOS="1504"
+                          WIDTH="146"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="children"
+                          WC="0.86875"
+                          CC="06200100">children</String>
+                  <SP ID="P27_SP00159" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00183"
+                          HPOS="926"
+                          VPOS="1505"
+                          WIDTH="96"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="could"
+                          WC="0.954"
+                          CC="00020">could</String>
+                  <SP ID="P27_SP00160" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00184"
+                          HPOS="1045"
+                          VPOS="1505"
+                          WIDTH="39"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="be"
+                          WC="0.665"
+                          CC="60">be</String>
+                  <SP ID="P27_SP00161" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00185"
+                          HPOS="1108"
+                          VPOS="1505"
+                          WIDTH="171"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="educated,"
+                          WC="0.954444468"
+                          CC="000000004">educated,</String>
+                  <SP ID="P27_SP00162" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00186"
+                          HPOS="1299"
+                          VPOS="1505"
+                          WIDTH="142"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="relieved"
+                          WC="0.82375"
+                          CC="40450000">relieved</String>
+               </TextLine>
+               <TextLine ID="P27_TL00025"
+                         HPOS="460"
+                         VPOS="1554"
+                         WIDTH="982"
+                         HEIGHT="43">
+                  <String ID="P27_S00187"
+                          HPOS="460"
+                          VPOS="1554"
+                          WIDTH="55"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.8"
+                          CC="060">the</String>
+                  <SP ID="P27_SP00163" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00188"
+                          HPOS="555"
+                          VPOS="1554"
+                          WIDTH="111"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="school"
+                          WC="0.808333337"
+                          CC="204004">school</String>
+                  <SP ID="P27_SP00164" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00189"
+                          HPOS="698"
+                          VPOS="1554"
+                          WIDTH="34"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.955"
+                          CC="00">of</String>
+                  <SP ID="P27_SP00165" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00190"
+                          HPOS="767"
+                          VPOS="1565"
+                          WIDTH="98"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="many"
+                          WC="0.8175"
+                          CC="0070">many</String>
+                  <SP ID="P27_SP00166" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00191"
+                          HPOS="883"
+                          VPOS="1555"
+                          WIDTH="33"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="1"
+                          CC="00">of</String>
+                  <SP ID="P27_SP00167" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00192"
+                          HPOS="968"
+                          VPOS="1556"
+                          WIDTH="42"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="its"
+                          WC="0.966666639"
+                          CC="100">its</String>
+                  <SP ID="P27_SP00168" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00193"
+                          HPOS="1049"
+                          VPOS="1556"
+                          WIDTH="145"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="primary"
+                          WC="0.832857132"
+                          CC="0360010">primary</String>
+                  <SP ID="P27_SP00169" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00194"
+                          HPOS="1228"
+                          VPOS="1557"
+                          WIDTH="111"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="pupils"
+                          WC="0.688333333"
+                          CC="050542">pupils</String>
+                  <SP ID="P27_SP00170" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00195"
+                          HPOS="1378"
+                          VPOS="1557"
+                          WIDTH="64"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="and"
+                          WC="0.803333342"
+                          CC="050">and</String>
+               </TextLine>
+               <TextLine ID="P27_TL00026"
+                         HPOS="460"
+                         VPOS="1605"
+                         WIDTH="984"
+                         HEIGHT="42">
+                  <String ID="P27_S00196"
+                          HPOS="460"
+                          VPOS="1605"
+                          WIDTH="125"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="opened"
+                          WC="0.825"
+                          CC="500500">opened</String>
+                  <SP ID="P27_SP00171" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00197"
+                          HPOS="607"
+                          VPOS="1605"
+                          WIDTH="55"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.84"
+                          CC="040">the</String>
+                  <SP ID="P27_SP00172" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00198"
+                          HPOS="682"
+                          VPOS="1615"
+                          WIDTH="72"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="way"
+                          WC="1"
+                          CC="000">way</String>
+                  <SP ID="P27_SP00173" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00199"
+                          HPOS="771"
+                          VPOS="1605"
+                          WIDTH="48"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="for"
+                          WC="0.83"
+                          CC="005">for</String>
+                  <SP ID="P27_SP00174" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00200"
+                          HPOS="840"
+                          VPOS="1616"
+                          WIDTH="90"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="more"
+                          WC="0.945"
+                          CC="0020">more</String>
+                  <SP ID="P27_SP00175" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00201"
+                          HPOS="953"
+                          VPOS="1607"
+                          WIDTH="157"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="perfectly"
+                          WC="0.918888867"
+                          CC="003000030">perfectly</String>
+                  <SP ID="P27_SP00176" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00202"
+                          HPOS="1133"
+                          VPOS="1607"
+                          WIDTH="151"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="carrying"
+                          WC="0.92"
+                          CC="00320000">carrying</String>
+                  <SP ID="P27_SP00177" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00203"
+                          HPOS="1306"
+                          VPOS="1611"
+                          WIDTH="57"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="out"
+                          WC="0.776666641"
+                          CC="150">out</String>
+                  <SP ID="P27_SP00178" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00204"
+                          HPOS="1386"
+                          VPOS="1608"
+                          WIDTH="58"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.803333342"
+                          CC="050">the</String>
+               </TextLine>
+               <TextLine ID="P27_TL00027"
+                         HPOS="459"
+                         VPOS="1655"
+                         WIDTH="984"
+                         HEIGHT="42">
+                  <String ID="P27_S00205"
+                          HPOS="459"
+                          VPOS="1655"
+                          WIDTH="136"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="original"
+                          WC="0.8175"
+                          CC="10105202">original</String>
+                  <SP ID="P27_SP00179" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00206"
+                          HPOS="613"
+                          VPOS="1665"
+                          WIDTH="150"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="purpose."
+                          WC="0.93125"
+                          CC="00001003">purpose.</String>
+                  <SP ID="P27_SP00180" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00207"
+                          HPOS="796"
+                          VPOS="1656"
+                          WIDTH="27"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="A"
+                          WC="1"
+                          CC="0">A</String>
+                  <SP ID="P27_SP00181" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00208"
+                          HPOS="841"
+                          VPOS="1656"
+                          WIDTH="183"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="university"
+                          WC="0.918"
+                          CC="0200000500">university</String>
+                  <SP ID="P27_SP00182" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00209"
+                          HPOS="1041"
+                          VPOS="1657"
+                          WIDTH="131"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="charter"
+                          WC="0.8428571"
+                          CC="0703000">charter</String>
+                  <SP ID="P27_SP00183" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00210"
+                          HPOS="1188"
+                          VPOS="1668"
+                          WIDTH="68"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="was"
+                          WC="1"
+                          CC="000">was</String>
+                  <SP ID="P27_SP00184" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00211"
+                          HPOS="1274"
+                          VPOS="1658"
+                          WIDTH="168"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="obtained."
+                          WC="0.723333359"
+                          CC="400043704">obtained.</String>
+               </TextLine>
+               <TextLine ID="P27_TL00028"
+                         HPOS="460"
+                         VPOS="1705"
+                         WIDTH="986"
+                         HEIGHT="41">
+                  <String ID="P27_S00212"
+                          HPOS="460"
+                          VPOS="1706"
+                          WIDTH="97"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="Some"
+                          WC="0.8625"
+                          CC="2200">Some</String>
+                  <SP ID="P27_SP00185" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00213"
+                          HPOS="591"
+                          VPOS="1705"
+                          WIDTH="33"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.805"
+                          CC="12">of</String>
+                  <SP ID="P27_SP00186" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00214"
+                          HPOS="656"
+                          VPOS="1706"
+                          WIDTH="55"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.8233333"
+                          CC="050">the</String>
+                  <SP ID="P27_SP00187" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00215"
+                          HPOS="743"
+                          VPOS="1706"
+                          WIDTH="166"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="buildings"
+                          WC="0.8788889"
+                          CC="003005002">buildings</String>
+                  <SP ID="P27_SP00188" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00216"
+                          HPOS="942"
+                          VPOS="1707"
+                          WIDTH="108"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="which"
+                          WC="0.774"
+                          CC="06004">which</String>
+                  <SP ID="P27_SP00189" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00217"
+                          HPOS="1082"
+                          VPOS="1708"
+                          WIDTH="66"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="had"
+                          WC="0.88"
+                          CC="300">had</String>
+                  <SP ID="P27_SP00190" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00218"
+                          HPOS="1179"
+                          VPOS="1708"
+                          WIDTH="81"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="been"
+                          WC="1"
+                          CC="0000">been</String>
+                  <SP ID="P27_SP00191" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00219"
+                          HPOS="1294"
+                          VPOS="1710"
+                          WIDTH="81"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="used"
+                          WC="0.855"
+                          CC="5000">used</String>
+                  <SP ID="P27_SP00192" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00220"
+                          HPOS="1408"
+                          VPOS="1719"
+                          WIDTH="38"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="as"
+                          WC="0.31"
+                          CC="76">as</String>
+               </TextLine>
+               <TextLine ID="P27_TL00029"
+                         HPOS="461"
+                         VPOS="1755"
+                         WIDTH="983"
+                         HEIGHT="41">
+                  <String ID="P27_S00221"
+                          HPOS="461"
+                          VPOS="1755"
+                          WIDTH="223"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="schoolrooms"
+                          WC="0.7772727"
+                          CC="00723540000">schoolrooms</String>
+                  <SP ID="P27_SP00193" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00222"
+                          HPOS="701"
+                          VPOS="1766"
+                          WIDTH="83"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="were"
+                          WC="1"
+                          CC="0000">were</String>
+                  <SP ID="P27_SP00194" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00223"
+                          HPOS="801"
+                          VPOS="1757"
+                          WIDTH="130"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="refitted"
+                          WC="0.9475"
+                          CC="40000000">refitted</String>
+                  <SP ID="P27_SP00195" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00224"
+                          HPOS="951"
+                          VPOS="1768"
+                          WIDTH="36"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="as"
+                          WC="1"
+                          CC="00">as</String>
+                  <SP ID="P27_SP00196" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00225"
+                          HPOS="1004"
+                          VPOS="1758"
+                          WIDTH="221"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="dormitories,"
+                          WC="0.7558333"
+                          CC="803000164013">dormitories,</String>
+                  <SP ID="P27_SP00197" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00226"
+                          HPOS="1245"
+                          VPOS="1759"
+                          WIDTH="69"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="into"
+                          WC="0.7025"
+                          CC="6104">into</String>
+                  <SP ID="P27_SP00198" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00227"
+                          HPOS="1332"
+                          VPOS="1759"
+                          WIDTH="111"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="which"
+                          WC="0.546"
+                          CC="107203">which</String>
+               </TextLine>
+               <TextLine ID="P27_TL00030"
+                         HPOS="461"
+                         VPOS="1806"
+                         WIDTH="982"
+                         HEIGHT="43">
+                  <String ID="P27_S00228"
+                          HPOS="461"
+                          VPOS="1806"
+                          WIDTH="150"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="students"
+                          WC="0.95875"
+                          CC="30000000">students</String>
+                  <SP ID="P27_SP00199" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00229"
+                          HPOS="632"
+                          VPOS="1806"
+                          WIDTH="81"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="from"
+                          WC="0.87"
+                          CC="0040">from</String>
+                  <SP ID="P27_SP00200" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00230"
+                          HPOS="737"
+                          VPOS="1807"
+                          WIDTH="131"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="abroad,"
+                          WC="0.862857163"
+                          CC="0050004">abroad,</String>
+                  <SP ID="P27_SP00201" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00231"
+                          HPOS="887"
+                          VPOS="1818"
+                          WIDTH="97"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="eager"
+                          WC="0.908"
+                          CC="00004">eager</String>
+                  <SP ID="P27_SP00202" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00232"
+                          HPOS="1005"
+                          VPOS="1809"
+                          WIDTH="48"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="for"
+                          WC="0.723333359"
+                          CC="305">for</String>
+                  <SP ID="P27_SP00203" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00233"
+                          HPOS="1075"
+                          VPOS="1820"
+                          WIDTH="19"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="a"
+                          WC="1"
+                          CC="0">a</String>
+                  <SP ID="P27_SP00204" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00234"
+                          HPOS="1115"
+                          VPOS="1809"
+                          WIDTH="118"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="higher"
+                          WC="0.69"
+                          CC="530503">higher</String>
+                  <SP ID="P27_SP00205" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00235"
+                          HPOS="1256"
+                          VPOS="1811"
+                          WIDTH="187"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="education,"
+                          WC="0.851"
+                          CC="0050002204">education,</String>
+               </TextLine>
+               <TextLine ID="P27_TL00031"
+                         HPOS="461"
+                         VPOS="1856"
+                         WIDTH="983"
+                         HEIGHT="42">
+                  <String ID="P27_S00236"
+                          HPOS="461"
+                          VPOS="1860"
+                          WIDTH="33"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="at"
+                          WC="1"
+                          CC="00">at</String>
+                  <SP ID="P27_SP00206" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00237"
+                          HPOS="521"
+                          VPOS="1866"
+                          WIDTH="80"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="once"
+                          WC="1"
+                          CC="0000">once</String>
+                  <SP ID="P27_SP00207" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00238"
+                          HPOS="629"
+                          VPOS="1856"
+                          WIDTH="104"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="began"
+                          WC="1"
+                          CC="00000">began</String>
+                  <SP ID="P27_SP00208" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00239"
+                          HPOS="759"
+                          VPOS="1861"
+                          WIDTH="34"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="to"
+                          WC="0.725"
+                          CC="05">to</String>
+                  <SP ID="P27_SP00209" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00240"
+                          HPOS="817"
+                          VPOS="1857"
+                          WIDTH="128"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="gather."
+                          WC="0.69"
+                          CC="10004034">gather.</String>
+                  <SP ID="P27_SP00210" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00241"
+                          HPOS="993"
+                          VPOS="1859"
+                          WIDTH="30"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="It"
+                          WC="0.91"
+                          CC="10">It</String>
+                  <SP ID="P27_SP00211" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00242"
+                          HPOS="1051"
+                          VPOS="1869"
+                          WIDTH="68"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="was"
+                          WC="1"
+                          CC="000">was</String>
+                  <SP ID="P27_SP00212" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00243"
+                          HPOS="1145"
+                          VPOS="1864"
+                          WIDTH="57"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="not"
+                          WC="0.7866667"
+                          CC="500">not</String>
+                  <SP ID="P27_SP00213" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00244"
+                          HPOS="1232"
+                          VPOS="1860"
+                          WIDTH="78"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="long"
+                          WC="0.8425"
+                          CC="0060">long</String>
+                  <SP ID="P27_SP00214" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00245"
+                          HPOS="1335"
+                          VPOS="1861"
+                          WIDTH="109"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="before"
+                          WC="0.785"
+                          CC="400350">before</String>
+               </TextLine>
+               <TextLine ID="P27_TL00032"
+                         HPOS="460"
+                         VPOS="1906"
+                         WIDTH="984"
+                         HEIGHT="42">
+                  <String ID="P27_S00246"
+                          HPOS="460"
+                          VPOS="1906"
+                          WIDTH="54"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="the"
+                          WC="0.8433333"
+                          CC="040">the</String>
+                  <SP ID="P27_SP00215" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00247"
+                          HPOS="532"
+                          VPOS="1907"
+                          WIDTH="138"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="number"
+                          WC="0.685"
+                          CC="440504">number</String>
+                  <SP ID="P27_SP00216" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00248"
+                          HPOS="687"
+                          VPOS="1906"
+                          WIDTH="156"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="applying"
+                          WC="0.875"
+                          CC="00040500">applying</String>
+                  <SP ID="P27_SP00217" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00249"
+                          HPOS="867"
+                          VPOS="1908"
+                          WIDTH="48"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="for"
+                          WC="0.8833333"
+                          CC="003">for</String>
+                  <SP ID="P27_SP00218" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00250"
+                          HPOS="933"
+                          VPOS="1908"
+                          WIDTH="180"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="admission"
+                          WC="0.817777753"
+                          CC="000600072">admission</String>
+                  <SP ID="P27_SP00219" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00251"
+                          HPOS="1130"
+                          VPOS="1919"
+                          WIDTH="68"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="was"
+                          WC="0.543333352"
+                          CC="760">was</String>
+                  <SP ID="P27_SP00220" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00252"
+                          HPOS="1216"
+                          VPOS="1914"
+                          WIDTH="130"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="greater"
+                          WC="0.8685714"
+                          CC="0320003">greater</String>
+                  <SP ID="P27_SP00221" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00253"
+                          HPOS="1362"
+                          VPOS="1910"
+                          WIDTH="81"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="than"
+                          WC="0.7025"
+                          CC="0470">than</String>
+               </TextLine>
+               <TextLine ID="P27_TL00033"
+                         HPOS="461"
+                         VPOS="1957"
+                         WIDTH="449"
+                         HEIGHT="30">
+                  <String ID="P27_S00254"
+                          HPOS="461"
+                          VPOS="1957"
+                          WIDTH="95"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="could"
+                          WC="0.872"
+                          CC="02400">could</String>
+                  <SP ID="P27_SP00222" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00255"
+                          HPOS="572"
+                          VPOS="1957"
+                          WIDTH="38"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="be"
+                          WC="0.925"
+                          CC="01">be</String>
+                  <SP ID="P27_SP00223" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00256"
+                          HPOS="628"
+                          VPOS="1958"
+                          WIDTH="282"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="accommodated."
+                          WC="0.9238461"
+                          CC="0001005000002">accommodated.</String>
+               </TextLine>
+               <TextLine ID="P27_TL00034"
+                         HPOS="502"
+                         VPOS="2007"
+                         WIDTH="943"
+                         HEIGHT="34">
+                  <String ID="P27_S00257"
+                          HPOS="502"
+                          VPOS="2007"
+                          WIDTH="106"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="There"
+                          WC="0.938"
+                          CC="01010">There</String>
+                  <SP ID="P27_SP00224" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00258"
+                          HPOS="633"
+                          VPOS="2018"
+                          WIDTH="98"
+                          HEIGHT="21"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="never"
+                          WC="0.846"
+                          CC="60001">never</String>
+                  <SP ID="P27_SP00225" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00259"
+                          HPOS="754"
+                          VPOS="2019"
+                          WIDTH="69"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="was"
+                          WC="0.66"
+                          CC="063">was</String>
+                  <SP ID="P27_SP00226" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00260"
+                          HPOS="852"
+                          VPOS="2019"
+                          WIDTH="18"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="a"
+                          WC="0.96"
+                          CC="0">a</String>
+                  <SP ID="P27_SP00227" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00261"
+                          HPOS="896"
+                          VPOS="2007"
+                          WIDTH="74"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="hive"
+                          WC="0.75"
+                          CC="2700">hive</String>
+                  <SP ID="P27_SP00228" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00262"
+                          HPOS="996"
+                          VPOS="2009"
+                          WIDTH="33"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="of"
+                          WC="0.58"
+                          CC="34">of</String>
+                  <SP ID="P27_SP00229" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00263"
+                          HPOS="1062"
+                          VPOS="2009"
+                          WIDTH="111"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="busier"
+                          WC="0.738333344"
+                          CC="030605">busier</String>
+                  <SP ID="P27_SP00230" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00264"
+                          HPOS="1196"
+                          VPOS="2010"
+                          WIDTH="155"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="workers."
+                          WC="0.74375"
+                          CC="051010003">workers.</String>
+                  <SP ID="P27_SP00231" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P27_S00265"
+                          HPOS="1399"
+                          VPOS="2011"
+                          WIDTH="46"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="As"
+                          WC="1"
+                          CC="00">As</String>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

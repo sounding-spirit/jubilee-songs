@@ -1,0 +1,2016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://raw.githubusercontent.com/sounding-spirit/ocr-correction/master/alto-style.css"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>00000242.tif</fileName>
+      </sourceImageInformation>
+      <OCRProcessing ID="Processing">
+         <ocrProcessingStep>
+            <processingStepSettings>Image Resolution:300</processingStepSettings>
+            <processingSoftware>
+               <softwareCreator>I2S</softwareCreator>
+               <softwareName>Limb</softwareName>
+               <softwareVersion>1.0</softwareVersion>
+               <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Styles>
+      <TextStyle ID="StyleId-0" FONTSIZE="11" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-1" FONTSIZE="7" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-2" FONTSIZE="10" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-3" FONTSIZE="4" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-4" FONTSIZE="6" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-5" FONTSIZE="12" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-6" FONTSIZE="13" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-7" FONTSIZE="8" FONTFAMILY="Times New Roman"/>
+   </Styles>
+   <Layout>
+      <Page ID="P241"
+            PHYSICAL_IMG_NR="241"
+            HEIGHT="2399"
+            WIDTH="1724"
+            ACCURACY="0.524710357"
+            QUALITY_DETAIL="156 words, 600 chars, 286 with recognition greater than 50% (47.67%)">
+         <TopMargin ID="P241_TM00001"
+                    HPOS="0"
+                    VPOS="0"
+                    WIDTH="1724"
+                    HEIGHT="228"/>
+         <LeftMargin ID="P241_LM00001"
+                     HPOS="0"
+                     VPOS="228"
+                     WIDTH="399"
+                     HEIGHT="1947"/>
+         <RightMargin ID="P241_RM00001"
+                      HPOS="1509"
+                      VPOS="228"
+                      WIDTH="214"
+                      HEIGHT="1947"/>
+         <BottomMargin ID="P241_BM00001"
+                       HPOS="0"
+                       VPOS="2175"
+                       WIDTH="1724"
+                       HEIGHT="223"/>
+         <PrintSpace ID="P241_PS00001"
+                     HPOS="399"
+                     VPOS="228"
+                     WIDTH="1110"
+                     HEIGHT="1947">
+            <TextBlock ID="P241_TB00001"
+                       HPOS="411"
+                       VPOS="235"
+                       WIDTH="202"
+                       HEIGHT="45">
+               <TextLine ID="P241_TL00001"
+                         HPOS="423"
+                         VPOS="244"
+                         WIDTH="189"
+                         HEIGHT="33">
+                  <String ID="P241_S00001"
+                          HPOS="423"
+                          VPOS="244"
+                          WIDTH="72"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="No."
+                          WC="0.456666678"
+                          CC="627">No.</String>
+                  <SP ID="P241_SP00001" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00002"
+                          HPOS="525"
+                          VPOS="243"
+                          WIDTH="87"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="103."
+                          WC="0.2225"
+                          CC="8679">103.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00002"
+                       HPOS="783"
+                       VPOS="221"
+                       WIDTH="312"
+                       HEIGHT="54">
+               <TextLine ID="P241_TL00002"
+                         HPOS="794"
+                         VPOS="231"
+                         WIDTH="286"
+                         HEIGHT="40">
+                  <String ID="P241_S00003"
+                          HPOS="794"
+                          VPOS="230"
+                          WIDTH="129"
+                          HEIGHT="45"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="iHobt"
+                          WC="0.218"
+                          CC="710777">iHobt</String>
+                  <SP ID="P241_SP00002" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00004"
+                          HPOS="949"
+                          VPOS="228"
+                          WIDTH="131"
+                          HEIGHT="47"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="aloncy."
+                          WC="0.252857149"
+                          CC="7778777">aloncy.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00003"
+                       HPOS="417"
+                       VPOS="315"
+                       WIDTH="76"
+                       HEIGHT="73">
+               <TextLine ID="P241_TL00003"
+                         HPOS="426"
+                         VPOS="354"
+                         WIDTH="19"
+                         HEIGHT="34">
+                  <String ID="P241_S00005"
+                          HPOS="426"
+                          VPOS="354"
+                          WIDTH="19"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="(("
+                          WC="0.385"
+                          CC="47">((</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00004"
+                       HPOS="465"
+                       VPOS="309"
+                       WIDTH="994"
+                       HEIGHT="78"/>
+            <TextBlock ID="P241_TB00005"
+                       HPOS="501"
+                       VPOS="438"
+                       WIDTH="548"
+                       HEIGHT="30">
+               <TextLine ID="P241_TL00004"
+                         HPOS="514"
+                         VPOS="444"
+                         WIDTH="535"
+                         HEIGHT="24">
+                  <String ID="P241_S00006"
+                          HPOS="514"
+                          VPOS="449"
+                          WIDTH="45"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="Let"
+                          WC="0.75"
+                          CC="700">Let</String>
+                  <SP ID="P241_SP00003" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00007"
+                          HPOS="591"
+                          VPOS="456"
+                          WIDTH="28"
+                          HEIGHT="17"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="us"
+                          WC="0.24"
+                          CC="86">us</String>
+                  <SP ID="P241_SP00004" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00008"
+                          HPOS="679"
+                          VPOS="453"
+                          WIDTH="72"
+                          HEIGHT="21"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="move"
+                          WC="0.58"
+                          CC="4560">move</String>
+                  <SP ID="P241_SP00005" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00009"
+                          HPOS="767"
+                          VPOS="442"
+                          WIDTH="81"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="along,"
+                          WC="0.591666639"
+                          CC="0157100">along,</String>
+                  <SP ID="P241_SP00006" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00010"
+                          HPOS="894"
+                          VPOS="446"
+                          WIDTH="74"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="move"
+                          WC="0.535"
+                          CC="8730">move</String>
+                  <SP ID="P241_SP00007" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00011"
+                          HPOS="983"
+                          VPOS="435"
+                          WIDTH="66"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="alonr"
+                          WC="0.344"
+                          CC="07888">alonr</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00006"
+                       HPOS="413"
+                       VPOS="504"
+                       WIDTH="105"
+                       HEIGHT="38">
+               <TextLine ID="P241_TL00005"
+                         HPOS="425"
+                         VPOS="507"
+                         WIDTH="93"
+                         HEIGHT="31">
+                  <String ID="P241_S00012"
+                          HPOS="425"
+                          VPOS="507"
+                          WIDTH="93"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="as"
+                          WC="0.385"
+                          CC="74">as</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00007"
+                       HPOS="665"
+                       VPOS="433"
+                       WIDTH="814"
+                       HEIGHT="141">
+               <TextLine ID="P241_TL00006"
+                         HPOS="1112"
+                         VPOS="428"
+                         WIDTH="321"
+                         HEIGHT="29">
+                  <String ID="P241_S00013"
+                          HPOS="1113"
+                          VPOS="439"
+                          WIDTH="74"
+                          HEIGHT="17"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="move"
+                          WC="0.7925"
+                          CC="1240">move</String>
+                  <SP ID="P241_SP00008" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00014"
+                          HPOS="1202"
+                          VPOS="429"
+                          WIDTH="76"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="along"
+                          WC="0.654"
+                          CC="03507">along</String>
+                  <SP ID="P241_SP00009" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00015"
+                          HPOS="1314"
+                          VPOS="429"
+                          WIDTH="27"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="to"
+                          WC="0.505"
+                          CC="09">to</String>
+                  <SP ID="P241_SP00010" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00016"
+                          HPOS="1389"
+                          VPOS="422"
+                          WIDTH="44"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="the"
+                          WC="0.56"
+                          CC="480">the</String>
+               </TextLine>
+               <TextLine ID="P241_TL00007"
+                         HPOS="798"
+                         VPOS="465"
+                         WIDTH="653"
+                         HEIGHT="16">
+                  <String ID="P241_S00017"
+                          HPOS="799"
+                          VPOS="464"
+                          WIDTH="49"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="-#°'"
+                          WC="0.49"
+                          CC="0893">-#°'</String>
+                  <SP ID="P241_SP00011" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00018"
+                          HPOS="886"
+                          VPOS="473"
+                          WIDTH="32"
+                          HEIGHT="17"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="-©-"
+                          WC="0.57"
+                          CC="371">-©-</String>
+                  <SP ID="P241_SP00012" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00019"
+                          HPOS="933"
+                          VPOS="483"
+                          WIDTH="6"
+                          HEIGHT="6"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="."
+                          WC="0.55"
+                          CC="4">.</String>
+                  <SP ID="P241_SP00013" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00020"
+                          HPOS="1014"
+                          VPOS="460"
+                          WIDTH="40"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="-o-J"
+                          WC="0.5275"
+                          CC="3626">-o-J</String>
+                  <SP ID="P241_SP00014" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00021"
+                          HPOS="1314"
+                          VPOS="459"
+                          WIDTH="32"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="-f-"
+                          WC="0.863333344"
+                          CC="210">-f-</String>
+                  <SP ID="P241_SP00015" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+               </TextLine>
+            </TextBlock>
+            <Illustration ID="P241_ILL00001"
+                          HPOS="429"
+                          VPOS="580"
+                          WIDTH="1041"
+                          HEIGHT="166"/>
+            <TextBlock ID="P241_TB00008"
+                       HPOS="417"
+                       VPOS="828"
+                       WIDTH="92"
+                       HEIGHT="46">
+               <TextLine ID="P241_TL00008"
+                         HPOS="430"
+                         VPOS="832"
+                         WIDTH="79"
+                         HEIGHT="42">
+                  <String ID="P241_S00022"
+                          HPOS="430"
+                          VPOS="831"
+                          WIDTH="79"
+                          HEIGHT="43"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="atE!"
+                          WC="0.2525"
+                          CC="77105">atE!</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00009"
+                       HPOS="504"
+                       VPOS="771"
+                       WIDTH="980"
+                       HEIGHT="138">
+               <TextLine ID="P241_TL00009"
+                         HPOS="515"
+                         VPOS="773"
+                         WIDTH="937"
+                         HEIGHT="16">
+                  <String ID="P241_S00023"
+                          HPOS="515"
+                          VPOS="776"
+                          WIDTH="126"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="heavenly"
+                          WC="0.44"
+                          CC="100380977">heavenly</String>
+                  <SP ID="P241_SP00016" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00024"
+                          HPOS="695"
+                          VPOS="774"
+                          WIDTH="84"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="home,"
+                          WC="0.462"
+                          CC="710071">home,</String>
+                  <SP ID="P241_SP00017" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00025"
+                          HPOS="799"
+                          VPOS="771"
+                          WIDTH="46"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="Let"
+                          WC="0.5"
+                          CC="770">Let</String>
+                  <SP ID="P241_SP00018" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00026"
+                          HPOS="870"
+                          VPOS="777"
+                          WIDTH="29"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="us"
+                          WC="0.42"
+                          CC="46">us</String>
+                  <SP ID="P241_SP00019" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00027"
+                          HPOS="945"
+                          VPOS="773"
+                          WIDTH="73"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="move"
+                          WC="0.865"
+                          CC="0050">move</String>
+                  <SP ID="P241_SP00020" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00028"
+                          HPOS="1040"
+                          VPOS="763"
+                          WIDTH="84"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="along,"
+                          WC="0.295"
+                          CC="6677104">along,</String>
+                  <SP ID="P241_SP00021" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00029"
+                          HPOS="1154"
+                          VPOS="769"
+                          WIDTH="74"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="move"
+                          WC="1"
+                          CC="0000">move</String>
+                  <SP ID="P241_SP00022" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00030"
+                          HPOS="1248"
+                          VPOS="759"
+                          WIDTH="76"
+                          HEIGHT="45"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="along"
+                          WC="0.58"
+                          CC="66080">along</String>
+                  <SP ID="P241_SP00023" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00031"
+                          HPOS="1365"
+                          VPOS="757"
+                          WIDTH="8"
+                          HEIGHT="47"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="I"
+                          WC="0.53"
+                          CC="4">I</String>
+                  <SP ID="P241_SP00024" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00032"
+                          HPOS="1412"
+                          VPOS="766"
+                          WIDTH="40"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="am"
+                          WC="0.42"
+                          CC="56">am</String>
+               </TextLine>
+               <TextLine ID="P241_TL00010"
+                         HPOS="513"
+                         VPOS="804"
+                         WIDTH="935"
+                         HEIGHT="14">
+                  <String ID="P241_S00033"
+                          HPOS="513"
+                          VPOS="813"
+                          WIDTH="18"
+                          HEIGHT="14"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="»-"
+                          WC="0.355"
+                          CC="66">»-</String>
+                  <SP ID="P241_SP00025" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00034"
+                          HPOS="572"
+                          VPOS="811"
+                          WIDTH="15"
+                          HEIGHT="16"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="o"
+                          WC="0.24"
+                          CC="7">o</String>
+                  <SP ID="P241_SP00026" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00035"
+                          HPOS="714"
+                          VPOS="801"
+                          WIDTH="50"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="^"
+                          WC="0.1"
+                          CC="9">^</String>
+                  <SP ID="P241_SP00027" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00036"
+                          HPOS="1143"
+                          VPOS="796"
+                          WIDTH="33"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="-f-"
+                          WC="0.68"
+                          CC="602">-f-</String>
+                  <SP ID="P241_SP00028" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00037"
+                          HPOS="1188"
+                          VPOS="808"
+                          WIDTH="6"
+                          HEIGHT="19"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="•"
+                          WC="0.27"
+                          CC="7">•</String>
+                  <SP ID="P241_SP00029" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00038"
+                          HPOS="1272"
+                          VPOS="795"
+                          WIDTH="31"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="f"
+                          WC="0.49"
+                          CC="5">f</String>
+                  <SP ID="P241_SP00030" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00039"
+                          HPOS="1353"
+                          VPOS="792"
+                          WIDTH="32"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="f-"
+                          WC="0.465"
+                          CC="100">f-</String>
+                  <SP ID="P241_SP00031" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00040"
+                          HPOS="1417"
+                          VPOS="792"
+                          WIDTH="31"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="-f-"
+                          WC="0.74666667"
+                          CC="070">-f-</String>
+               </TextLine>
+               <TextLine ID="P241_TL00011"
+                         HPOS="504"
+                         VPOS="828"
+                         WIDTH="966"
+                         HEIGHT="58">
+                  <String ID="P241_S00041"
+                          HPOS="504"
+                          VPOS="810"
+                          WIDTH="966"
+                          HEIGHT="80"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="Ek=E=i^=k=E|z5EEE=^=j=^a=Eie=^=^"
+                          WC="0.210625"
+                          CC="43979899791010371077999599793669999">Ek=E=i^=k=E|z5EEE=^=j=^a=Eie=^=^</String>
+               </TextLine>
+               <TextLine ID="P241_TL00012"
+                         HPOS="508"
+                         VPOS="885"
+                         WIDTH="933"
+                         HEIGHT="23">
+                  <String ID="P241_S00042"
+                          HPOS="508"
+                          VPOS="885"
+                          WIDTH="128"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="0—0—"
+                          WC="0.0825"
+                          CC="89109">0—0—</String>
+                  <SP ID="P241_SP00032" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00043"
+                          HPOS="942"
+                          VPOS="881"
+                          WIDTH="291"
+                          HEIGHT="43"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="b—?—~V~~V"
+                          WC="0.182222217"
+                          CC="1098978678">b—?—~V~~V</String>
+                  <SP ID="P241_SP00033" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00044"
+                          HPOS="1281"
+                          VPOS="887"
+                          WIDTH="16"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="/"
+                          WC="0.25"
+                          CC="7">/</String>
+                  <SP ID="P241_SP00034" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00045"
+                          HPOS="1359"
+                          VPOS="869"
+                          WIDTH="81"
+                          HEIGHT="55"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="b—?"
+                          WC="0.396666676"
+                          CC="494">b—?</String>
+               </TextLine>
+            </TextBlock>
+            <Illustration ID="P241_ILL00002"
+                          HPOS="435"
+                          VPOS="963"
+                          WIDTH="115"
+                          HEIGHT="98"/>
+            <TextBlock ID="P241_TB00010"
+                       HPOS="835"
+                       VPOS="927"
+                       WIDTH="93"
+                       HEIGHT="27">
+               <TextLine ID="P241_TL00013"
+                         HPOS="847"
+                         VPOS="929"
+                         WIDTH="75"
+                         HEIGHT="22">
+                  <String ID="P241_S00046"
+                          HPOS="847"
+                          VPOS="929"
+                          WIDTH="75"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-4"
+                          CONTENT="Fine."
+                          WC="0.614"
+                          CC="53710">Fine.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00011"
+                       HPOS="618"
+                       VPOS="1002"
+                       WIDTH="66"
+                       HEIGHT="61"/>
+            <TextBlock ID="P241_TB00012"
+                       HPOS="708"
+                       VPOS="1026"
+                       WIDTH="120"
+                       HEIGHT="42">
+               <TextLine ID="P241_TL00014"
+                         HPOS="718"
+                         VPOS="1032"
+                         WIDTH="98"
+                         HEIGHT="33">
+                  <String ID="P241_S00047"
+                          HPOS="718"
+                          VPOS="1034"
+                          WIDTH="17"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="i"
+                          WC="0.31"
+                          CC="6">i</String>
+                  <SP ID="P241_SP00035" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00048"
+                          HPOS="799"
+                          VPOS="1031"
+                          WIDTH="17"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="&lt;"
+                          WC="0.31"
+                          CC="6">&lt;</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00013"
+                       HPOS="975"
+                       VPOS="963"
+                       WIDTH="510"
+                       HEIGHT="69"/>
+            <TextBlock ID="P241_TB00014"
+                       HPOS="490"
+                       VPOS="1110"
+                       WIDTH="972"
+                       HEIGHT="126">
+               <TextLine ID="P241_TL00015"
+                         HPOS="960"
+                         VPOS="1104"
+                         WIDTH="479"
+                         HEIGHT="93">
+                  <String ID="P241_S00049"
+                          HPOS="960"
+                          VPOS="1103"
+                          WIDTH="54"
+                          HEIGHT="102"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="{1."
+                          WC="0.74333334"
+                          CC="304">{1.</String>
+                  <SP ID="P241_SP00036" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00050"
+                          HPOS="1026"
+                          VPOS="1102"
+                          WIDTH="45"
+                          HEIGHT="103"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="We"
+                          WC="0.695"
+                          CC="60">We</String>
+                  <SP ID="P241_SP00037" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00051"
+                          HPOS="1110"
+                          VPOS="1108"
+                          WIDTH="42"
+                          HEIGHT="97"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="are"
+                          WC="0.74666667"
+                          CC="070">are</String>
+                  <SP ID="P241_SP00038" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00052"
+                          HPOS="1179"
+                          VPOS="1107"
+                          WIDTH="32"
+                          HEIGHT="98"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="on"
+                          WC="0.57"
+                          CC="08">on</String>
+                  <SP ID="P241_SP00039" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00053"
+                          HPOS="1254"
+                          VPOS="1098"
+                          WIDTH="43"
+                          HEIGHT="108"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="tlie"
+                          WC="0.505"
+                          CC="6750">tlie</String>
+                  <SP ID="P241_SP00040" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00054"
+                          HPOS="1360"
+                          VPOS="1105"
+                          WIDTH="78"
+                          HEIGHT="100"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="ocean"
+                          WC="0.626"
+                          CC="50903">ocean</String>
+               </TextLine>
+               <TextLine ID="P241_TL00016"
+                         HPOS="991"
+                         VPOS="1137"
+                         WIDTH="457"
+                         HEIGHT="26">
+                  <String ID="P241_S00055"
+                          HPOS="991"
+                          VPOS="1140"
+                          WIDTH="22"
+                          HEIGHT="23"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="2."
+                          WC="0.91"
+                          CC="01">2.</String>
+                  <SP ID="P241_SP00041" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00056"
+                          HPOS="1035"
+                          VPOS="1135"
+                          WIDTH="118"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="Yon-der"
+                          WC="0.637142837"
+                          CC="0480705">Yon-der</String>
+                  <SP ID="P241_SP00042" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00057"
+                          HPOS="1173"
+                          VPOS="1143"
+                          WIDTH="41"
+                          HEIGHT="21"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="see"
+                          WC="0.5566667"
+                          CC="750">see</String>
+                  <SP ID="P241_SP00043" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00058"
+                          HPOS="1259"
+                          VPOS="1133"
+                          WIDTH="42"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="the"
+                          WC="0.803333342"
+                          CC="500">the</String>
+                  <SP ID="P241_SP00044" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00059"
+                          HPOS="1355"
+                          VPOS="1132"
+                          WIDTH="93"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="golden"
+                          WC="0.498333335"
+                          CC="635608">golden</String>
+               </TextLine>
+               <TextLine ID="P241_TL00017"
+                         HPOS="992"
+                         VPOS="1172"
+                         WIDTH="456"
+                         HEIGHT="19">
+                  <String ID="P241_S00060"
+                          HPOS="992"
+                          VPOS="1172"
+                          WIDTH="108"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="S.There"
+                          WC="0.5557143"
+                          CC="8076080">S.There</String>
+                  <SP ID="P241_SP00045" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00061"
+                          HPOS="1109"
+                          VPOS="1169"
+                          WIDTH="64"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="we'll"
+                          WC="0.848"
+                          CC="00330">we'll</String>
+                  <SP ID="P241_SP00046" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00062"
+                          HPOS="1181"
+                          VPOS="1173"
+                          WIDTH="66"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="meet"
+                          WC="0.9025"
+                          CC="0003">meet</String>
+                  <SP ID="P241_SP00047" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00063"
+                          HPOS="1254"
+                          VPOS="1176"
+                          WIDTH="45"
+                          HEIGHT="22"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="our"
+                          WC="0.6066667"
+                          CC="065">our</String>
+                  <SP ID="P241_SP00048" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00064"
+                          HPOS="1308"
+                          VPOS="1167"
+                          WIDTH="94"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="friends"
+                          WC="0.75"
+                          CC="5400800">friends</String>
+                  <SP ID="P241_SP00049" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00065"
+                          HPOS="1422"
+                          VPOS="1167"
+                          WIDTH="26"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="in"
+                          WC="0.465"
+                          CC="73">in</String>
+               </TextLine>
+               <TextLine ID="P241_TL00018"
+                         HPOS="514"
+                         VPOS="1227"
+                         WIDTH="63"
+                         HEIGHT="24">
+                  <String ID="P241_S00066"
+                          HPOS="514"
+                          VPOS="1227"
+                          WIDTH="30"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="J*i"
+                          WC="0.27"
+                          CC="677">J*i</String>
+                  <SP ID="P241_SP00050" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00067"
+                          HPOS="574"
+                          VPOS="1237"
+                          WIDTH="3"
+                          HEIGHT="15"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="i"
+                          WC="0.37"
+                          CC="6">i</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00015"
+                       HPOS="424"
+                       VPOS="1272"
+                       WIDTH="65"
+                       HEIGHT="39">
+               <TextLine ID="P241_TL00019"
+                         HPOS="435"
+                         VPOS="1274"
+                         WIDTH="54"
+                         HEIGHT="33">
+                  <String ID="P241_S00068"
+                          HPOS="435"
+                          VPOS="1273"
+                          WIDTH="54"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="BE"
+                          WC="0.24"
+                          CC="77">BE</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00016"
+                       HPOS="637"
+                       VPOS="1260"
+                       WIDTH="313"
+                       HEIGHT="73"/>
+            <TextBlock ID="P241_TB00017"
+                       HPOS="885"
+                       VPOS="1318"
+                       WIDTH="41"
+                       HEIGHT="38">
+               <TextLine ID="P241_TL00020"
+                         HPOS="886"
+                         VPOS="1321"
+                         WIDTH="40"
+                         HEIGHT="32">
+                  <String ID="P241_S00069"
+                          HPOS="886"
+                          VPOS="1321"
+                          WIDTH="40"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="t&#34;"
+                          WC="0.42"
+                          CC="65">t"</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00018"
+                       HPOS="492"
+                       VPOS="1404"
+                       WIDTH="615"
+                       HEIGHT="75">
+               <TextLine ID="P241_TL00021"
+                         HPOS="515"
+                         VPOS="1466"
+                         WIDTH="591"
+                         HEIGHT="10">
+                  <String ID="P241_S00070"
+                          HPOS="515"
+                          VPOS="1466"
+                          WIDTH="108"
+                          HEIGHT="21"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="/—©-•"
+                          WC="0.446"
+                          CC="109340">/—©-•</String>
+                  <SP ID="P241_SP00051" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00071"
+                          HPOS="791"
+                          VPOS="1472"
+                          WIDTH="54"
+                          HEIGHT="15"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="—"
+                          WC="0.1"
+                          CC="9">—</String>
+                  <SP ID="P241_SP00052" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00072"
+                          HPOS="1046"
+                          VPOS="1467"
+                          WIDTH="60"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="——"
+                          WC="0.1"
+                          CC="99">——</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00019"
+                       HPOS="1275"
+                       VPOS="1398"
+                       WIDTH="206"
+                       HEIGHT="69">
+               <TextLine ID="P241_TL00022"
+                         HPOS="1275"
+                         VPOS="1401"
+                         WIDTH="33"
+                         HEIGHT="65">
+                  <String ID="P241_S00073"
+                          HPOS="1275"
+                          VPOS="1401"
+                          WIDTH="33"
+                          HEIGHT="65"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="1"
+                          WC="0.13"
+                          CC="8">1</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00020"
+                       HPOS="495"
+                       VPOS="1497"
+                       WIDTH="985"
+                       HEIGHT="96">
+               <TextLine ID="P241_TL00023"
+                         HPOS="507"
+                         VPOS="1503"
+                         WIDTH="943"
+                         HEIGHT="16">
+                  <String ID="P241_S00074"
+                          HPOS="507"
+                          VPOS="1503"
+                          WIDTH="101"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="sailing,"
+                          WC="0.60375"
+                          CC="073050104">sailing,</String>
+                  <SP ID="P241_SP00053" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00075"
+                          HPOS="629"
+                          VPOS="1501"
+                          WIDTH="60"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="And"
+                          WC="0.516666651"
+                          CC="580">And</String>
+                  <SP ID="P241_SP00054" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00076"
+                          HPOS="738"
+                          VPOS="1497"
+                          WIDTH="123"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="a-while"
+                          WC="0.851428568"
+                          CC="0070020">a-while</String>
+                  <SP ID="P241_SP00055" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00077"
+                          HPOS="870"
+                          VPOS="1499"
+                          WIDTH="67"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="must"
+                          WC="0.965"
+                          CC="0010">must</String>
+                  <SP ID="P241_SP00056" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00078"
+                          HPOS="961"
+                          VPOS="1496"
+                          WIDTH="54"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="face"
+                          WC="0.665"
+                          CC="4800">face</String>
+                  <SP ID="P241_SP00057" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00079"
+                          HPOS="1048"
+                          VPOS="1493"
+                          WIDTH="42"
+                          HEIGHT="43"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="the"
+                          WC="0.8233333"
+                          CC="500">the</String>
+                  <SP ID="P241_SP00058" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00080"
+                          HPOS="1149"
+                          VPOS="1496"
+                          WIDTH="96"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="stormy"
+                          WC="0.581666648"
+                          CC="620806">stormy</String>
+                  <SP ID="P241_SP00059" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00081"
+                          HPOS="1259"
+                          VPOS="1490"
+                          WIDTH="73"
+                          HEIGHT="46"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="blast,"
+                          WC="0.505"
+                          CC="871174">blast,</String>
+                  <SP ID="P241_SP00060" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00082"
+                          HPOS="1351"
+                          VPOS="1489"
+                          WIDTH="51"
+                          HEIGHT="47"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="But"
+                          WC="0.553333342"
+                          CC="642">But</String>
+                  <SP ID="P241_SP00061" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00083"
+                          HPOS="1428"
+                          VPOS="1489"
+                          WIDTH="21"
+                          HEIGHT="47"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="if"
+                          WC="0.36"
+                          CC="29">if</String>
+               </TextLine>
+               <TextLine ID="P241_TL00024"
+                         HPOS="525"
+                         VPOS="1538"
+                         WIDTH="942"
+                         HEIGHT="17">
+                  <String ID="P241_S00084"
+                          HPOS="525"
+                          VPOS="1539"
+                          WIDTH="61"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="city,"
+                          WC="0.678"
+                          CC="05073">city,</String>
+                  <SP ID="P241_SP00062" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00085"
+                          HPOS="623"
+                          VPOS="1536"
+                          WIDTH="60"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="And"
+                          WC="0.8233333"
+                          CC="050">And</String>
+                  <SP ID="P241_SP00063" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00086"
+                          HPOS="722"
+                          VPOS="1535"
+                          WIDTH="40"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="the"
+                          WC="0.74666667"
+                          CC="070">the</String>
+                  <SP ID="P241_SP00064" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00087"
+                          HPOS="786"
+                          VPOS="1532"
+                          WIDTH="156"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="light-house"
+                          WC="0.6372727"
+                          CC="60775071202">light-house</String>
+                  <SP ID="P241_SP00065" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00088"
+                          HPOS="963"
+                          VPOS="1528"
+                          WIDTH="132"
+                          HEIGHT="43"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="gleaming"
+                          WC="0.49"
+                          CC="00745689">gleaming</String>
+                  <SP ID="P241_SP00066" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00089"
+                          HPOS="1150"
+                          VPOS="1535"
+                          WIDTH="32"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="on"
+                          WC="0.735"
+                          CC="50">on</String>
+                  <SP ID="P241_SP00067" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00090"
+                          HPOS="1203"
+                          VPOS="1525"
+                          WIDTH="42"
+                          HEIGHT="46"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="the"
+                          WC="0.586666644"
+                          CC="470">the</String>
+                  <SP ID="P241_SP00068" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00091"
+                          HPOS="1259"
+                          VPOS="1524"
+                          WIDTH="81"
+                          HEIGHT="47"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="shore,"
+                          WC="0.565"
+                          CC="071664">shore,</String>
+                  <SP ID="P241_SP00069" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00092"
+                          HPOS="1347"
+                          VPOS="1524"
+                          WIDTH="69"
+                          HEIGHT="47"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="Hear"
+                          WC="0.6725"
+                          CC="8004">Hear</String>
+                  <SP ID="P241_SP00070" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00093"
+                          HPOS="1425"
+                          VPOS="1524"
+                          WIDTH="42"
+                          HEIGHT="48"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="the"
+                          WC="0.6766667"
+                          CC="170">the</String>
+               </TextLine>
+               <TextLine ID="P241_TL00025"
+                         HPOS="518"
+                         VPOS="1572"
+                         WIDTH="929"
+                         HEIGHT="18">
+                  <String ID="P241_S00094"
+                          HPOS="518"
+                          VPOS="1575"
+                          WIDTH="84"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="Jesus,"
+                          WC="0.605"
+                          CC="443073">Jesus,</String>
+                  <SP ID="P241_SP00071" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00095"
+                          HPOS="621"
+                          VPOS="1572"
+                          WIDTH="69"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="Who"
+                          WC="0.6066667"
+                          CC="560">Who</String>
+                  <SP ID="P241_SP00072" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00096"
+                          HPOS="727"
+                          VPOS="1579"
+                          WIDTH="42"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="are"
+                          WC="0.8333333"
+                          CC="310">are</String>
+                  <SP ID="P241_SP00073" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00097"
+                          HPOS="795"
+                          VPOS="1567"
+                          WIDTH="133"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="wait-ing"
+                          WC="0.53125"
+                          CC="107700280">wait-ing</String>
+                  <SP ID="P241_SP00074" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00098"
+                          HPOS="974"
+                          VPOS="1573"
+                          WIDTH="32"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="on"
+                          WC="0.585"
+                          CC="16">on</String>
+                  <SP ID="P241_SP00075" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00099"
+                          HPOS="1044"
+                          VPOS="1562"
+                          WIDTH="42"
+                          HEIGHT="43"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="the"
+                          WC="0.75666666"
+                          CC="070">the</String>
+                  <SP ID="P241_SP00076" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00100"
+                          HPOS="1149"
+                          VPOS="1560"
+                          WIDTH="94"
+                          HEIGHT="45"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="golden"
+                          WC="0.585"
+                          CC="806035">golden</String>
+                  <SP ID="P241_SP00077" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00101"
+                          HPOS="1257"
+                          VPOS="1559"
+                          WIDTH="158"
+                          HEIGHT="46"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="shore,With"
+                          WC="0.639"
+                          CC="4710034067">shore,With</String>
+                  <SP ID="P241_SP00078" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00102"
+                          HPOS="1432"
+                          VPOS="1567"
+                          WIDTH="15"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="a"
+                          WC="1"
+                          CC="0">a</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00021"
+                       HPOS="428"
+                       VPOS="1621"
+                       WIDTH="66"
+                       HEIGHT="42">
+               <TextLine ID="P241_TL00026"
+                         HPOS="440"
+                         VPOS="1629"
+                         WIDTH="54"
+                         HEIGHT="33">
+                  <String ID="P241_S00103"
+                          HPOS="440"
+                          VPOS="1629"
+                          WIDTH="54"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="BE"
+                          WC="0.235"
+                          CC="77">BE</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00022"
+                       HPOS="438"
+                       VPOS="1737"
+                       WIDTH="112"
+                       HEIGHT="93">
+               <TextLine ID="P241_TL00027"
+                         HPOS="441"
+                         VPOS="1740"
+                         WIDTH="109"
+                         HEIGHT="74">
+                  <String ID="P241_S00104"
+                          HPOS="441"
+                          VPOS="1740"
+                          WIDTH="109"
+                          HEIGHT="74"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="fa"
+                          WC="0.21"
+                          CC="77">fa</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00023"
+                       HPOS="573"
+                       VPOS="1791"
+                       WIDTH="168"
+                       HEIGHT="36">
+               <TextLine ID="P241_TL00028"
+                         HPOS="573"
+                         VPOS="1794"
+                         WIDTH="168"
+                         HEIGHT="28">
+                  <String ID="P241_S00105"
+                          HPOS="574"
+                          VPOS="1793"
+                          WIDTH="168"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="-?—b—b-"
+                          WC="0.5314286"
+                          CC="3791910">-?—b—b-</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00024"
+                       HPOS="790"
+                       VPOS="1724"
+                       WIDTH="711"
+                       HEIGHT="112"/>
+            <TextBlock ID="P241_TB00025"
+                       HPOS="1409"
+                       VPOS="1694"
+                       WIDTH="84"
+                       HEIGHT="31">
+               <TextLine ID="P241_TL00029"
+                         HPOS="1421"
+                         VPOS="1700"
+                         WIDTH="60"
+                         HEIGHT="22">
+                  <String ID="P241_S00106"
+                          HPOS="1421"
+                          VPOS="1699"
+                          WIDTH="60"
+                          HEIGHT="23"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="B.C."
+                          WC="0.57"
+                          CC="10070">B.C.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00026"
+                       HPOS="477"
+                       VPOS="1853"
+                       WIDTH="999"
+                       HEIGHT="131">
+               <TextLine ID="P241_TL00030"
+                         HPOS="1197"
+                         VPOS="1842"
+                         WIDTH="17"
+                         HEIGHT="36">
+                  <String ID="P241_S00107"
+                          HPOS="1197"
+                          VPOS="1842"
+                          WIDTH="17"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-5"
+                          CONTENT="*"
+                          WC="0.27"
+                          CC="7">*</String>
+               </TextLine>
+               <TextLine ID="P241_TL00031"
+                         HPOS="527"
+                         VPOS="1892"
+                         WIDTH="934"
+                         HEIGHT="18">
+                  <String ID="P241_S00108"
+                          HPOS="527"
+                          VPOS="1894"
+                          WIDTH="73"
+                          HEIGHT="23"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="Jesus"
+                          WC="0.832"
+                          CC="00070">Jesus</String>
+                  <SP ID="P241_SP00079" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00109"
+                          HPOS="644"
+                          VPOS="1890"
+                          WIDTH="20"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="is"
+                          WC="0.725"
+                          CC="50">is</String>
+                  <SP ID="P241_SP00080" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00110"
+                          HPOS="695"
+                          VPOS="1898"
+                          WIDTH="46"
+                          HEIGHT="19"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="our"
+                          WC="0.7266667"
+                          CC="080">our</String>
+                  <SP ID="P241_SP00081" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00111"
+                          HPOS="785"
+                          VPOS="1887"
+                          WIDTH="110"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="captain,"
+                          WC="0.66625"
+                          CC="401040070">captain,</String>
+                  <SP ID="P241_SP00082" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00112"
+                          HPOS="924"
+                          VPOS="1886"
+                          WIDTH="45"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="We"
+                          WC="0.465"
+                          CC="82">We</String>
+                  <SP ID="P241_SP00083" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00113"
+                          HPOS="985"
+                          VPOS="1883"
+                          WIDTH="50"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="will"
+                          WC="0.415"
+                          CC="10534">will</String>
+                  <SP ID="P241_SP00084" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00114"
+                          HPOS="1081"
+                          VPOS="1881"
+                          WIDTH="76"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="make"
+                          WC="0.49"
+                          CC="6580">make</String>
+                  <SP ID="P241_SP00085" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00115"
+                          HPOS="1191"
+                          VPOS="1883"
+                          WIDTH="41"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="the"
+                          WC="0.5566667"
+                          CC="570">the</String>
+                  <SP ID="P241_SP00086" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00116"
+                          HPOS="1244"
+                          VPOS="1883"
+                          WIDTH="56"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="port"
+                          WC="0.46"
+                          CC="7805">port</String>
+                  <SP ID="P241_SP00087" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00117"
+                          HPOS="1325"
+                          VPOS="1881"
+                          WIDTH="26"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="at"
+                          WC="1"
+                          CC="00">at</String>
+                  <SP ID="P241_SP00088" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00118"
+                          HPOS="1404"
+                          VPOS="1877"
+                          WIDTH="57"
+                          HEIGHT="44"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="last,"
+                          WC="0.582"
+                          CC="71173">last,</String>
+               </TextLine>
+               <TextLine ID="P241_TL00032"
+                         HPOS="514"
+                         VPOS="1928"
+                         WIDTH="949"
+                         HEIGHT="16">
+                  <String ID="P241_S00119"
+                          HPOS="514"
+                          VPOS="1926"
+                          WIDTH="87"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="angels"
+                          WC="0.52"
+                          CC="565047">angels</String>
+                  <SP ID="P241_SP00089" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00120"
+                          HPOS="639"
+                          VPOS="1925"
+                          WIDTH="103"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="sweetly"
+                          WC="0.621428549"
+                          CC="71000440">sweetly</String>
+                  <SP ID="P241_SP00090" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00121"
+                          HPOS="786"
+                          VPOS="1923"
+                          WIDTH="109"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="singing,"
+                          WC="0.47875"
+                          CC="36840684">singing,</String>
+                  <SP ID="P241_SP00091" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00122"
+                          HPOS="909"
+                          VPOS="1922"
+                          WIDTH="64"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="Soon"
+                          WC="0.7675"
+                          CC="0027">Soon</String>
+                  <SP ID="P241_SP00092" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00123"
+                          HPOS="987"
+                          VPOS="1928"
+                          WIDTH="45"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="our"
+                          WC="0.283333331"
+                          CC="587">our</String>
+                  <SP ID="P241_SP00093" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00124"
+                          HPOS="1091"
+                          VPOS="1918"
+                          WIDTH="111"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="journey"
+                          WC="0.6557143"
+                          CC="20506010">journey</String>
+                  <SP ID="P241_SP00094" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00125"
+                          HPOS="1249"
+                          VPOS="1914"
+                          WIDTH="48"
+                          HEIGHT="46"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="will"
+                          WC="0.6375"
+                          CC="10400">will</String>
+                  <SP ID="P241_SP00095" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00126"
+                          HPOS="1317"
+                          VPOS="1914"
+                          WIDTH="32"
+                          HEIGHT="47"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="be"
+                          WC="0.585"
+                          CC="80">be</String>
+                  <SP ID="P241_SP00096" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00127"
+                          HPOS="1404"
+                          VPOS="1913"
+                          WIDTH="59"
+                          HEIGHT="48"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="o'er,"
+                          WC="0.684"
+                          CC="70503">o'er,</String>
+               </TextLine>
+               <TextLine ID="P241_TL00033"
+                         HPOS="491"
+                         VPOS="1962"
+                         WIDTH="981"
+                         HEIGHT="18">
+                  <String ID="P241_S00128"
+                          HPOS="492"
+                          VPOS="1963"
+                          WIDTH="73"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="shout"
+                          WC="0.552"
+                          CC="67080">shout</String>
+                  <SP ID="P241_SP00097" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00129"
+                          HPOS="585"
+                          VPOS="1962"
+                          WIDTH="27"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="of"
+                          WC="0.555"
+                          CC="08">of</String>
+                  <SP ID="P241_SP00098" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00130"
+                          HPOS="631"
+                          VPOS="1960"
+                          WIDTH="45"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="joy"
+                          WC="0.6566667"
+                          CC="630">joy</String>
+                  <SP ID="P241_SP00099" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00131"
+                          HPOS="687"
+                          VPOS="1958"
+                          WIDTH="87"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="they'll"
+                          WC="0.6785714"
+                          CC="4700234">they'll</String>
+                  <SP ID="P241_SP00100" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00132"
+                          HPOS="784"
+                          VPOS="1962"
+                          WIDTH="70"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="greet"
+                          WC="0.882"
+                          CC="10004">greet</String>
+                  <SP ID="P241_SP00101" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00133"
+                          HPOS="864"
+                          VPOS="1956"
+                          WIDTH="126"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="us,When"
+                          WC="0.5285714"
+                          CC="31000738">us,When</String>
+                  <SP ID="P241_SP00102" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00134"
+                          HPOS="1002"
+                          VPOS="1963"
+                          WIDTH="35"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="we"
+                          WC="0.57"
+                          CC="80">we</String>
+                  <SP ID="P241_SP00103" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00135"
+                          HPOS="1084"
+                          VPOS="1956"
+                          WIDTH="67"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="meet"
+                          WC="0.8625"
+                          CC="0050">meet</String>
+                  <SP ID="P241_SP00104" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00136"
+                          HPOS="1195"
+                          VPOS="1956"
+                          WIDTH="26"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="to"
+                          WC="0.91"
+                          CC="01">to</String>
+                  <SP ID="P241_SP00105" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00137"
+                          HPOS="1242"
+                          VPOS="1955"
+                          WIDTH="55"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="part"
+                          WC="0.5875"
+                          CC="10600">part</String>
+                  <SP ID="P241_SP00106" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00138"
+                          HPOS="1316"
+                          VPOS="1958"
+                          WIDTH="33"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="no"
+                          WC="0.68"
+                          CC="60">no</String>
+                  <SP ID="P241_SP00107" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00139"
+                          HPOS="1394"
+                          VPOS="1956"
+                          WIDTH="78"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="more."
+                          WC="0.528"
+                          CC="103063">more.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00027"
+                       HPOS="433"
+                       VPOS="2050"
+                       WIDTH="158"
+                       HEIGHT="40">
+               <TextLine ID="P241_TL00034"
+                         HPOS="444"
+                         VPOS="2055"
+                         WIDTH="147"
+                         HEIGHT="31">
+                  <String ID="P241_S00140"
+                          HPOS="444"
+                          VPOS="2055"
+                          WIDTH="31"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="a"
+                          WC="0.13"
+                          CC="8">a</String>
+                  <SP ID="P241_SP00108" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00141"
+                          HPOS="476"
+                          VPOS="2061"
+                          WIDTH="115"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="±="
+                          WC="0.215"
+                          CC="87">±=</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00028"
+                       HPOS="745"
+                       VPOS="2065"
+                       WIDTH="80"
+                       HEIGHT="31">
+               <TextLine ID="P241_TL00035"
+                         HPOS="745"
+                         VPOS="2071"
+                         WIDTH="80"
+                         HEIGHT="21">
+                  <String ID="P241_S00142"
+                          HPOS="745"
+                          VPOS="2081"
+                          WIDTH="37"
+                          HEIGHT="2"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="—"
+                          WC="0.1"
+                          CC="9">—</String>
+                  <SP ID="P241_SP00109" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00143"
+                          HPOS="797"
+                          VPOS="2070"
+                          WIDTH="27"
+                          HEIGHT="22"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="F-"
+                          WC="0.625"
+                          CC="70">F-</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00029"
+                       HPOS="966"
+                       VPOS="2012"
+                       WIDTH="59"
+                       HEIGHT="58">
+               <TextLine ID="P241_TL00036"
+                         HPOS="966"
+                         VPOS="2022"
+                         WIDTH="59"
+                         HEIGHT="44">
+                  <String ID="P241_S00144"
+                          HPOS="966"
+                          VPOS="2022"
+                          WIDTH="59"
+                          HEIGHT="45"
+                          STYLEREFS="StyleId-6"
+                          CONTENT="±£"
+                          WC="0.255"
+                          CC="68">±£</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00030"
+                       HPOS="939"
+                       VPOS="2043"
+                       WIDTH="549"
+                       HEIGHT="86">
+               <TextLine ID="P241_TL00037"
+                         HPOS="942"
+                         VPOS="2043"
+                         WIDTH="544"
+                         HEIGHT="17">
+                  <String ID="P241_S00145"
+                          HPOS="942"
+                          VPOS="2043"
+                          WIDTH="120"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="pz—p_i"
+                          WC="0.311666667"
+                          CC="779736">pz—p_i</String>
+                  <SP ID="P241_SP00110" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00146"
+                          HPOS="1135"
+                          VPOS="2040"
+                          WIDTH="60"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="a—"
+                          WC="0.165"
+                          CC="79">a—</String>
+                  <SP ID="P241_SP00111" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00147"
+                          HPOS="1217"
+                          VPOS="2049"
+                          WIDTH="92"
+                          HEIGHT="18"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="—Q—"
+                          WC="0.0933333337"
+                          CC="999">—Q—</String>
+                  <SP ID="P241_SP00112" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00148"
+                          HPOS="1331"
+                          VPOS="2038"
+                          WIDTH="63"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="-—t"
+                          WC="0.316666663"
+                          CC="794">-—t</String>
+                  <SP ID="P241_SP00113" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00149"
+                          HPOS="1476"
+                          VPOS="2037"
+                          WIDTH="9"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="r"
+                          WC="0.41"
+                          CC="5">r</String>
+               </TextLine>
+               <TextLine ID="P241_TL00038"
+                         HPOS="942"
+                         VPOS="2098"
+                         WIDTH="504"
+                         HEIGHT="29">
+                  <String ID="P241_S00150"
+                          HPOS="942"
+                          VPOS="2112"
+                          WIDTH="18"
+                          HEIGHT="22"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="✓"
+                          WC="0.87"
+                          CC="1">✓</String>
+                  <SP ID="P241_SP00114" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00151"
+                          HPOS="1005"
+                          VPOS="2109"
+                          WIDTH="21"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="/"
+                          WC="0.14"
+                          CC="8">/</String>
+                  <SP ID="P241_SP00115" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00152"
+                          HPOS="1082"
+                          VPOS="2107"
+                          WIDTH="22"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="v"
+                          WC="0.13"
+                          CC="8">v</String>
+                  <SP ID="P241_SP00116" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00153"
+                          HPOS="1200"
+                          VPOS="2094"
+                          WIDTH="18"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="b"
+                          WC="0.56"
+                          CC="4">b</String>
+                  <SP ID="P241_SP00117" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00154"
+                          HPOS="1265"
+                          VPOS="2097"
+                          WIDTH="81"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="i*—.*"
+                          WC="0.292"
+                          CC="77947">i*—.*</String>
+                  <SP ID="P241_SP00118" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P241_S00155"
+                          HPOS="1396"
+                          VPOS="2089"
+                          WIDTH="49"
+                          HEIGHT="45"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="-b"
+                          WC="0.285"
+                          CC="58">-b</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P241_TB00031"
+                       HPOS="918"
+                       VPOS="2149"
+                       WIDTH="83"
+                       HEIGHT="36">
+               <TextLine ID="P241_TL00039"
+                         HPOS="930"
+                         VPOS="2155"
+                         WIDTH="58"
+                         HEIGHT="25">
+                  <String ID="P241_S00156"
+                          HPOS="930"
+                          VPOS="2154"
+                          WIDTH="58"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-7"
+                          CONTENT="220"
+                          WC="0.383333325"
+                          CC="557">220</String>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

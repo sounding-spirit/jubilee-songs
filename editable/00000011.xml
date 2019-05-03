@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://raw.githubusercontent.com/sounding-spirit/ocr-correction/master/alto-style.css"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>00000011.tif</fileName>
+      </sourceImageInformation>
+      <OCRProcessing ID="Processing">
+         <ocrProcessingStep>
+            <processingStepSettings>Image Resolution:300</processingStepSettings>
+            <processingSoftware>
+               <softwareCreator>I2S</softwareCreator>
+               <softwareName>Limb</softwareName>
+               <softwareVersion>1.0</softwareVersion>
+               <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Styles>
+      <TextStyle ID="StyleId-0" FONTSIZE="6" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-1" FONTSIZE="21" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-2" FONTSIZE="5" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-3" FONTSIZE="10" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-4" FONTSIZE="9" FONTFAMILY="Times New Roman"/>
+   </Styles>
+   <Layout>
+      <Page ID="P10"
+            PHYSICAL_IMG_NR="10"
+            HEIGHT="2400"
+            WIDTH="1725"
+            ACCURACY="0.523246"
+            QUALITY_DETAIL="23 words, 132 chars, 71 with recognition greater than 50% (53.79%)">
+         <TopMargin ID="P10_TM00001"
+                    HPOS="0"
+                    VPOS="0"
+                    WIDTH="1725"
+                    HEIGHT="155"/>
+         <LeftMargin ID="P10_LM00001"
+                     HPOS="0"
+                     VPOS="155"
+                     WIDTH="287"
+                     HEIGHT="2088"/>
+         <RightMargin ID="P10_RM00001"
+                      HPOS="1304"
+                      VPOS="155"
+                      WIDTH="420"
+                      HEIGHT="2088"/>
+         <BottomMargin ID="P10_BM00001"
+                       HPOS="0"
+                       VPOS="2244"
+                       WIDTH="1725"
+                       HEIGHT="156"/>
+         <PrintSpace ID="P10_PS00001"
+                     HPOS="287"
+                     VPOS="155"
+                     WIDTH="1017"
+                     HEIGHT="2088">
+            <TextBlock ID="P10_TB00001"
+                       HPOS="1083"
+                       VPOS="151"
+                       WIDTH="210"
+                       HEIGHT="74">
+               <TextLine ID="P10_TL00001"
+                         HPOS="1089"
+                         VPOS="157"
+                         WIDTH="198"
+                         HEIGHT="62">
+                  <String ID="P10_S00001"
+                          HPOS="1089"
+                          VPOS="173"
+                          WIDTH="13"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="\"
+                          WC="0.25"
+                          CC="7">\</String>
+                  <SP ID="P10_SP00001" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P10_S00002"
+                          HPOS="1177"
+                          VPOS="188"
+                          WIDTH="18"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="3"
+                          WC="0"
+                          CC="10">3</String>
+                  <SP ID="P10_SP00002" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P10_S00003"
+                          HPOS="1214"
+                          VPOS="156"
+                          WIDTH="73"
+                          HEIGHT="63"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="€kJ"
+                          WC="0.18"
+                          CC="887">€kJ</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P10_TB00002"
+                       HPOS="289"
+                       VPOS="605"
+                       WIDTH="909"
+                       HEIGHT="294">
+               <TextLine ID="P10_TL00002"
+                         HPOS="672"
+                         VPOS="610"
+                         WIDTH="105"
+                         HEIGHT="18">
+                  <String ID="P10_S00004"
+                          HPOS="672"
+                          VPOS="610"
+                          WIDTH="34"
+                          HEIGHT="18"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="OF"
+                          WC="0.495"
+                          CC="72">OF</String>
+                  <SP ID="P10_SP00003" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P10_S00005"
+                          HPOS="723"
+                          VPOS="610"
+                          WIDTH="54"
+                          HEIGHT="18"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="TUB"
+                          WC="0.213333338"
+                          CC="797">TUB</String>
+               </TextLine>
+               <TextLine ID="P10_TL00003"
+                         HPOS="296"
+                         VPOS="817"
+                         WIDTH="896"
+                         HEIGHT="76">
+                  <String ID="P10_S00006"
+                          HPOS="296"
+                          VPOS="817"
+                          WIDTH="408"
+                          HEIGHT="75"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="JUBILEE"
+                          WC="0.8971428"
+                          CC="0020400">JUBILEE</String>
+                  <SP ID="P10_SP00004" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P10_S00007"
+                          HPOS="756"
+                          VPOS="821"
+                          WIDTH="435"
+                          HEIGHT="72"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="SINGERS;"
+                          WC="0.9075"
+                          CC="01000500">SINGERS;</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P10_TB00003"
+                       HPOS="512"
+                       VPOS="1149"
+                       WIDTH="479"
+                       HEIGHT="48">
+               <TextLine ID="P10_TL00004"
+                         HPOS="518"
+                         VPOS="1155"
+                         WIDTH="467"
+                         HEIGHT="36">
+                  <String ID="P10_S00008"
+                          HPOS="518"
+                          VPOS="1155"
+                          WIDTH="120"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="WITH"
+                          WC="0.4925"
+                          CC="0568">WITH</String>
+                  <SP ID="P10_SP00005" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P10_S00009"
+                          HPOS="669"
+                          VPOS="1158"
+                          WIDTH="140"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="2HE1R"
+                          WC="0.354"
+                          CC="88266">2HE1R</String>
+                  <SP ID="P10_SP00006" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P10_S00010"
+                          HPOS="836"
+                          VPOS="1159"
+                          WIDTH="149"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="602VGS."
+                          WC="0.462857157"
+                          CC="7285076">602VGS.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P10_TB00004"
+                       HPOS="620"
+                       VPOS="1503"
+                       WIDTH="249"
+                       HEIGHT="32">
+               <TextLine ID="P10_TL00005"
+                         HPOS="626"
+                         VPOS="1510"
+                         WIDTH="237"
+                         HEIGHT="19">
+                  <String ID="P10_S00011"
+                          HPOS="626"
+                          VPOS="1510"
+                          WIDTH="106"
+                          HEIGHT="18"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="SECOND"
+                          WC="0.745"
+                          CC="370040">SECOND</String>
+                  <SP ID="P10_SP00007" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P10_S00012"
+                          HPOS="750"
+                          VPOS="1510"
+                          WIDTH="114"
+                          HEIGHT="19"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="EDITION."
+                          WC="0.7875"
+                          CC="70002240">EDITION.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P10_TB00005"
+                       HPOS="388"
+                       VPOS="1824"
+                       WIDTH="699"
+                       HEIGHT="228">
+               <TextLine ID="P10_TL00006"
+                         HPOS="645"
+                         VPOS="1827"
+                         WIDTH="175"
+                         HEIGHT="48">
+                  <String ID="P10_S00013"
+                          HPOS="645"
+                          VPOS="1827"
+                          WIDTH="175"
+                          HEIGHT="49"
+                          STYLEREFS="StyleId-4"
+                          CONTENT="Ifonboit:"
+                          WC="0.154444441"
+                          CC="888888888">Ifonboit:</String>
+               </TextLine>
+               <TextLine ID="P10_TL00007"
+                         HPOS="401"
+                         VPOS="1909"
+                         WIDTH="673"
+                         HEIGHT="30">
+                  <String ID="P10_S00014"
+                          HPOS="401"
+                          VPOS="1910"
+                          WIDTH="207"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-4"
+                          CONTENT="IIODDER"
+                          WC="0.6257143"
+                          CC="7543014">IIODDER</String>
+                  <SP ID="P10_SP00008" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P10_S00015"
+                          HPOS="636"
+                          VPOS="1909"
+                          WIDTH="100"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-4"
+                          CONTENT="AND"
+                          WC="0.83"
+                          CC="103">AND</String>
+                  <SP ID="P10_SP00009" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P10_S00016"
+                          HPOS="767"
+                          VPOS="1905"
+                          WIDTH="307"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-4"
+                          CONTENT="STOUGHTON,"
+                          WC="0.766"
+                          CC="0001050844">STOUGHTON,</String>
+               </TextLine>
+               <TextLine ID="P10_TL00008"
+                         HPOS="544"
+                         VPOS="1977"
+                         WIDTH="384"
+                         HEIGHT="25">
+                  <String ID="P10_S00017"
+                          HPOS="544"
+                          VPOS="1979"
+                          WIDTH="41"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="27,"
+                          WC="0.63"
+                          CC="252">27,</String>
+                  <SP ID="P10_SP00010" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P10_S00018"
+                          HPOS="606"
+                          VPOS="1976"
+                          WIDTH="221"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="PATERNOSTER"
+                          WC="0.65"
+                          CC="50602500774">PATERNOSTER</String>
+                  <SP ID="P10_SP00011" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P10_S00019"
+                          HPOS="852"
+                          VPOS="1975"
+                          WIDTH="76"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="ROW."
+                          WC="0.4"
+                          CC="4765">ROW.</String>
+               </TextLine>
+               <TextLine ID="P10_TL00009"
+                         HPOS="647"
+                         VPOS="2033"
+                         WIDTH="168"
+                         HEIGHT="17">
+                  <String ID="P10_S00020"
+                          HPOS="647"
+                          VPOS="2032"
+                          WIDTH="168"
+                          HEIGHT="18"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="MDCCCLXXV."
+                          WC="0.633"
+                          CC="5673040063">MDCCCLXXV.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P10_TB00006"
+                       HPOS="597"
+                       VPOS="2209"
+                       WIDTH="270"
+                       HEIGHT="36">
+               <TextLine ID="P10_TL00010"
+                         HPOS="603"
+                         VPOS="2215"
+                         WIDTH="258"
+                         HEIGHT="24">
+                  <String ID="P10_S00021"
+                          HPOS="603"
+                          VPOS="2215"
+                          WIDTH="51"
+                          HEIGHT="23"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="tAll"
+                          WC="0.725"
+                          CC="7030">tAll</String>
+                  <SP ID="P10_SP00012" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P10_S00022"
+                          HPOS="666"
+                          VPOS="2215"
+                          WIDTH="69"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="rights"
+                          WC="0.411666662"
+                          CC="7010817">rights</String>
+                  <SP ID="P10_SP00013" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P10_S00023"
+                          HPOS="748"
+                          VPOS="2214"
+                          WIDTH="112"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="reserved.}"
+                          WC="0.424"
+                          CC="7387474707">reserved.}</String>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

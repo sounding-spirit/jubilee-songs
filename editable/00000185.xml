@@ -1,0 +1,2794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://raw.githubusercontent.com/sounding-spirit/ocr-correction/master/alto-style.css"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>00000185.tif</fileName>
+      </sourceImageInformation>
+      <OCRProcessing ID="Processing">
+         <ocrProcessingStep>
+            <processingStepSettings>Image Resolution:300</processingStepSettings>
+            <processingSoftware>
+               <softwareCreator>I2S</softwareCreator>
+               <softwareName>Limb</softwareName>
+               <softwareVersion>1.0</softwareVersion>
+               <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Styles>
+      <TextStyle ID="StyleId-0" FONTSIZE="11" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-1" FONTSIZE="7" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-2" FONTSIZE="8" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-3" FONTSIZE="4" FONTFAMILY="Arial"/>
+      <TextStyle ID="StyleId-4" FONTSIZE="4" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-5" FONTSIZE="5" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-6" FONTSIZE="10" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-7" FONTSIZE="14" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-8" FONTSIZE="12" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-9" FONTSIZE="9" FONTFAMILY="Times New Roman"/>
+   </Styles>
+   <Layout>
+      <Page ID="P184"
+            PHYSICAL_IMG_NR="184"
+            HEIGHT="2399"
+            WIDTH="1725"
+            ACCURACY="0.566977561"
+            QUALITY_DETAIL="229 words, 772 chars, 446 with recognition greater than 50% (57.77%)">
+         <TopMargin ID="P184_TM00001"
+                    HPOS="0"
+                    VPOS="0"
+                    WIDTH="1725"
+                    HEIGHT="285"/>
+         <LeftMargin ID="P184_LM00001"
+                     HPOS="0"
+                     VPOS="285"
+                     WIDTH="252"
+                     HEIGHT="1782"/>
+         <RightMargin ID="P184_RM00001"
+                      HPOS="1340"
+                      VPOS="285"
+                      WIDTH="384"
+                      HEIGHT="1782"/>
+         <BottomMargin ID="P184_BM00001"
+                       HPOS="0"
+                       VPOS="2067"
+                       WIDTH="1725"
+                       HEIGHT="332"/>
+         <PrintSpace ID="P184_PS00001"
+                     HPOS="252"
+                     VPOS="285"
+                     WIDTH="1087"
+                     HEIGHT="1782">
+            <TextBlock ID="P184_TB00001"
+                       HPOS="305"
+                       VPOS="285"
+                       WIDTH="36"
+                       HEIGHT="65">
+               <TextLine ID="P184_TL00001"
+                         HPOS="305"
+                         VPOS="297"
+                         WIDTH="38"
+                         HEIGHT="50">
+                  <String ID="P184_S00001"
+                          HPOS="306"
+                          VPOS="296"
+                          WIDTH="37"
+                          HEIGHT="51"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="-J."
+                          WC="0.566666663"
+                          CC="273">-J.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00002"
+                       HPOS="334"
+                       VPOS="317"
+                       WIDTH="170"
+                       HEIGHT="54">
+               <TextLine ID="P184_TL00002"
+                         HPOS="335"
+                         VPOS="324"
+                         WIDTH="168"
+                         HEIGHT="44">
+                  <String ID="P184_S00002"
+                          HPOS="335"
+                          VPOS="324"
+                          WIDTH="168"
+                          HEIGHT="46"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="#=-fa—fa-"
+                          WC="0.687777758"
+                          CC="842009002">#=-fa—fa-</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00003"
+                       HPOS="685"
+                       VPOS="319"
+                       WIDTH="431"
+                       HEIGHT="78">
+               <TextLine ID="P184_TL00003"
+                         HPOS="685"
+                         VPOS="320"
+                         WIDTH="431"
+                         HEIGHT="45">
+                  <String ID="P184_S00003"
+                          HPOS="685"
+                          VPOS="327"
+                          WIDTH="29"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="1"
+                          WC="0.12"
+                          CC="8">1</String>
+                  <SP ID="P184_SP00001" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00004"
+                          HPOS="754"
+                          VPOS="322"
+                          WIDTH="1"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="I"
+                          WC="0.57"
+                          CC="4">I</String>
+                  <SP ID="P184_SP00002" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00005"
+                          HPOS="789"
+                          VPOS="318"
+                          WIDTH="75"
+                          HEIGHT="50"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="[LfrL-"
+                          WC="0.223333329"
+                          CC="7107776">[LfrL-</String>
+                  <SP ID="P184_SP00003" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00006"
+                          HPOS="898"
+                          VPOS="326"
+                          WIDTH="17"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="fa"
+                          WC="0.52"
+                          CC="44">fa</String>
+                  <SP ID="P184_SP00004" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00007"
+                          HPOS="966"
+                          VPOS="336"
+                          WIDTH="18"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="N"
+                          WC="0.25"
+                          CC="7">N</String>
+                  <SP ID="P184_SP00005" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00008"
+                          HPOS="1035"
+                          VPOS="331"
+                          WIDTH="81"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="s="
+                          WC="0.225"
+                          CC="77">s=</String>
+               </TextLine>
+               <TextLine ID="P184_TL00004"
+                         HPOS="834"
+                         VPOS="363"
+                         WIDTH="282"
+                         HEIGHT="30">
+                  <String ID="P184_S00009"
+                          HPOS="834"
+                          VPOS="363"
+                          WIDTH="67"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="—g"
+                          WC="0.215"
+                          CC="96">—g</String>
+                  <SP ID="P184_SP00006" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00010"
+                          HPOS="951"
+                          VPOS="363"
+                          WIDTH="17"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="J"
+                          WC="0.28"
+                          CC="7">J</String>
+                  <SP ID="P184_SP00007" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00011"
+                          HPOS="1019"
+                          VPOS="361"
+                          WIDTH="17"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="J"
+                          WC="0.3"
+                          CC="7">J</String>
+                  <SP ID="P184_SP00008" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00012"
+                          HPOS="1101"
+                          VPOS="362"
+                          WIDTH="14"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="L"
+                          WC="0.57"
+                          CC="4">L</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00004"
+                       HPOS="1177"
+                       VPOS="346"
+                       WIDTH="54"
+                       HEIGHT="74"/>
+            <TextBlock ID="P184_TB00005"
+                       HPOS="1258"
+                       VPOS="353"
+                       WIDTH="51"
+                       HEIGHT="42">
+               <TextLine ID="P184_TL00005"
+                         HPOS="1260"
+                         VPOS="360"
+                         WIDTH="49"
+                         HEIGHT="32">
+                  <String ID="P184_S00013"
+                          HPOS="1260"
+                          VPOS="360"
+                          WIDTH="49"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="-fa—"
+                          WC="0.635"
+                          CC="5009">-fa—</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00006"
+                       HPOS="350"
+                       VPOS="423"
+                       WIDTH="926"
+                       HEIGHT="27">
+               <TextLine ID="P184_TL00006"
+                         HPOS="362"
+                         VPOS="423"
+                         WIDTH="909"
+                         HEIGHT="24">
+                  <String ID="P184_S00014"
+                          HPOS="362"
+                          VPOS="426"
+                          WIDTH="132"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Troubles"
+                          WC="0.64375"
+                          CC="02282407">Troubles</String>
+                  <SP ID="P184_SP00009" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00015"
+                          HPOS="522"
+                          VPOS="425"
+                          WIDTH="29"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="of"
+                          WC="0.485"
+                          CC="54">of</String>
+                  <SP ID="P184_SP00010" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00016"
+                          HPOS="582"
+                          VPOS="424"
+                          WIDTH="45"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.51"
+                          CC="077">the</String>
+                  <SP ID="P184_SP00011" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00017"
+                          HPOS="660"
+                          VPOS="423"
+                          WIDTH="90"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="world,"
+                          WC="0.545"
+                          CC="717072">world,</String>
+                  <SP ID="P184_SP00012" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00018"
+                          HPOS="786"
+                          VPOS="423"
+                          WIDTH="130"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Troubles"
+                          WC="0.70625"
+                          CC="06050308">Troubles</String>
+                  <SP ID="P184_SP00013" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00019"
+                          HPOS="945"
+                          VPOS="421"
+                          WIDTH="30"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="of"
+                          WC="0.43"
+                          CC="47">of</String>
+                  <SP ID="P184_SP00014" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00020"
+                          HPOS="1001"
+                          VPOS="421"
+                          WIDTH="43"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.543333352"
+                          CC="580">the</String>
+                  <SP ID="P184_SP00015" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00021"
+                          HPOS="1056"
+                          VPOS="420"
+                          WIDTH="89"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="world,"
+                          WC="0.608333349"
+                          CC="1015070">world,</String>
+                  <SP ID="P184_SP00016" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00022"
+                          HPOS="1171"
+                          VPOS="414"
+                          WIDTH="60"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Aid"
+                          WC="0.286666662"
+                          CC="6410">Aid</String>
+                  <SP ID="P184_SP00017" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00023"
+                          HPOS="1258"
+                          VPOS="420"
+                          WIDTH="13"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="I"
+                          WC="0.5"
+                          CC="5">I</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00007"
+                       HPOS="258"
+                       VPOS="483"
+                       WIDTH="1060"
+                       HEIGHT="93">
+               <TextLine ID="P184_TL00007"
+                         HPOS="275"
+                         VPOS="488"
+                         WIDTH="438"
+                         HEIGHT="54">
+                  <String ID="P184_S00024"
+                          HPOS="275"
+                          VPOS="488"
+                          WIDTH="35"
+                          HEIGHT="60"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="?-"
+                          WC="0.475"
+                          CC="63">?-</String>
+                  <SP ID="P184_SP00018" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00025"
+                          HPOS="340"
+                          VPOS="506"
+                          WIDTH="17"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="If"
+                          WC="0.155"
+                          CC="88">If</String>
+                  <SP ID="P184_SP00019" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00026"
+                          HPOS="408"
+                          VPOS="531"
+                          WIDTH="1"
+                          HEIGHT="17"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="i"
+                          WC="0.33"
+                          CC="6">i</String>
+                  <SP ID="P184_SP00020" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00027"
+                          HPOS="491"
+                          VPOS="516"
+                          WIDTH="19"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="F"
+                          WC="0"
+                          CC="10">F</String>
+                  <SP ID="P184_SP00021" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00028"
+                          HPOS="558"
+                          VPOS="512"
+                          WIDTH="72"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="F—1"
+                          WC="0.54"
+                          CC="094">F—1</String>
+                  <SP ID="P184_SP00022" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+               </TextLine>
+               <TextLine ID="P184_TL00008"
+                         HPOS="719"
+                         VPOS="509"
+                         WIDTH="81"
+                         HEIGHT="30">
+                  <String ID="P184_S00029"
+                          HPOS="719"
+                          VPOS="512"
+                          WIDTH="15"
+                          HEIGHT="18"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="V"
+                          WC="0.24"
+                          CC="7">V</String>
+                  <SP ID="P184_SP00023" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00030"
+                          HPOS="782"
+                          VPOS="508"
+                          WIDTH="18"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="fa"
+                          WC="0.92"
+                          CC="00">fa</String>
+               </TextLine>
+               <TextLine ID="P184_TL00009"
+                         HPOS="986"
+                         VPOS="481"
+                         WIDTH="84"
+                         HEIGHT="22">
+                  <String ID="P184_S00031"
+                          HPOS="986"
+                          VPOS="481"
+                          WIDTH="17"
+                          HEIGHT="22"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="S"
+                          WC="0.24"
+                          CC="7">S</String>
+                  <SP ID="P184_SP00024" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00032"
+                          HPOS="1053"
+                          VPOS="481"
+                          WIDTH="18"
+                          HEIGHT="22"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="N"
+                          WC="0.25"
+                          CC="7">N</String>
+               </TextLine>
+               <TextLine ID="P184_TL00010"
+                         HPOS="990"
+                         VPOS="506"
+                         WIDTH="272"
+                         HEIGHT="28">
+                  <String ID="P184_S00033"
+                          HPOS="1038"
+                          VPOS="522"
+                          WIDTH="15"
+                          HEIGHT="14"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="a"
+                          WC="0.26"
+                          CC="7">a</String>
+                  <SP ID="P184_SP00025" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00034"
+                          HPOS="1120"
+                          VPOS="507"
+                          WIDTH="1"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="1"
+                          WC="1"
+                          CC="0">1</String>
+                  <SP ID="P184_SP00026" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00035"
+                          HPOS="1206"
+                          VPOS="504"
+                          WIDTH="16"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="f"
+                          WC="0.08"
+                          CC="9">f</String>
+                  <SP ID="P184_SP00027" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00036"
+                          HPOS="1259"
+                          VPOS="510"
+                          WIDTH="3"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="'"
+                          WC="0.73"
+                          CC="2">'</String>
+               </TextLine>
+               <TextLine ID="P184_TL00011"
+                         HPOS="1267"
+                         VPOS="503"
+                         WIDTH="45"
+                         HEIGHT="28">
+                  <String ID="P184_S00037"
+                          HPOS="1267"
+                          VPOS="503"
+                          WIDTH="45"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="p—"
+                          WC="0.505"
+                          CC="81">p—</String>
+               </TextLine>
+               <TextLine ID="P184_TL00012"
+                         HPOS="716"
+                         VPOS="545"
+                         WIDTH="68"
+                         HEIGHT="23">
+                  <String ID="P184_S00038"
+                          HPOS="716"
+                          VPOS="544"
+                          WIDTH="68"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-4"
+                          CONTENT="—*"
+                          WC="0.175"
+                          CC="97">—*</String>
+               </TextLine>
+               <TextLine ID="P184_TL00013"
+                         HPOS="835"
+                         VPOS="524"
+                         WIDTH="150"
+                         HEIGHT="22">
+                  <String ID="P184_S00039"
+                          HPOS="835"
+                          VPOS="531"
+                          WIDTH="15"
+                          HEIGHT="17"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="e"
+                          WC="0.16"
+                          CC="8">e</String>
+                  <SP ID="P184_SP00028" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00040"
+                          HPOS="903"
+                          VPOS="525"
+                          WIDTH="16"
+                          HEIGHT="23"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="4"
+                          WC="0"
+                          CC="10">4</String>
+                  <SP ID="P184_SP00029" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00041"
+                          HPOS="970"
+                          VPOS="522"
+                          WIDTH="15"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="*"
+                          WC="0"
+                          CC="10">*</String>
+               </TextLine>
+               <TextLine ID="P184_TL00014"
+                         HPOS="1105"
+                         VPOS="540"
+                         WIDTH="158"
+                         HEIGHT="23">
+                  <String ID="P184_S00042"
+                          HPOS="1105"
+                          VPOS="546"
+                          WIDTH="16"
+                          HEIGHT="18"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="*"
+                          WC="0.29"
+                          CC="7">*</String>
+                  <SP ID="P184_SP00030" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00043"
+                          HPOS="1206"
+                          VPOS="540"
+                          WIDTH="18"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="V"
+                          WC="0"
+                          CC="10">V</String>
+                  <SP ID="P184_SP00031" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00044"
+                          HPOS="1257"
+                          VPOS="544"
+                          WIDTH="5"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="-"
+                          WC="1"
+                          CC="0">-</String>
+               </TextLine>
+               <TextLine ID="P184_TL00015"
+                         HPOS="1267"
+                         VPOS="539"
+                         WIDTH="45"
+                         HEIGHT="24">
+                  <String ID="P184_S00045"
+                          HPOS="1267"
+                          VPOS="539"
+                          WIDTH="17"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="?"
+                          WC="0.69"
+                          CC="3">?</String>
+                  <SP ID="P184_SP00032" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00046"
+                          HPOS="1300"
+                          VPOS="544"
+                          WIDTH="11"
+                          HEIGHT="19"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="-"
+                          WC="0.96"
+                          CC="0">-</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00008"
+                       HPOS="358"
+                       VPOS="590"
+                       WIDTH="948"
+                       HEIGHT="32">
+               <TextLine ID="P184_TL00016"
+                         HPOS="369"
+                         VPOS="597"
+                         WIDTH="924"
+                         HEIGHT="21">
+                  <String ID="P184_S00047"
+                          HPOS="369"
+                          VPOS="603"
+                          WIDTH="66"
+                          HEIGHT="17"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="soon"
+                          WC="0.5875"
+                          CC="2058">soon</String>
+                  <SP ID="P184_SP00033" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00048"
+                          HPOS="458"
+                          VPOS="594"
+                          WIDTH="68"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="shall"
+                          WC="0.704"
+                          CC="77000">shall</String>
+                  <SP ID="P184_SP00034" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00049"
+                          HPOS="543"
+                          VPOS="594"
+                          WIDTH="33"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="be"
+                          WC="0.61"
+                          CC="61">be</String>
+                  <SP ID="P184_SP00035" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00050"
+                          HPOS="594"
+                          VPOS="594"
+                          WIDTH="67"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="done"
+                          WC="0.485"
+                          CC="7076">done</String>
+                  <SP ID="P184_SP00036" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00051"
+                          HPOS="680"
+                          VPOS="594"
+                          WIDTH="63"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="with"
+                          WC="0.43"
+                          CC="10327">with</String>
+                  <SP ID="P184_SP00037" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00052"
+                          HPOS="756"
+                          VPOS="593"
+                          WIDTH="43"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.5566667"
+                          CC="075">the</String>
+                  <SP ID="P184_SP00038" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00053"
+                          HPOS="817"
+                          VPOS="591"
+                          WIDTH="117"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="troubles"
+                          WC="0.78"
+                          CC="20050008">troubles</String>
+                  <SP ID="P184_SP00039" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00054"
+                          HPOS="963"
+                          VPOS="591"
+                          WIDTH="29"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="of"
+                          WC="1"
+                          CC="00">of</String>
+                  <SP ID="P184_SP00040" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00055"
+                          HPOS="1017"
+                          VPOS="590"
+                          WIDTH="45"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.5466667"
+                          CC="076">the</String>
+                  <SP ID="P184_SP00041" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00056"
+                          HPOS="1074"
+                          VPOS="589"
+                          WIDTH="91"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="world,"
+                          WC="1"
+                          CC="000000">world,</String>
+                  <SP ID="P184_SP00042" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00057"
+                          HPOS="1194"
+                          VPOS="588"
+                          WIDTH="99"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Go-ing"
+                          WC="0.6933333"
+                          CC="700071">Go-ing</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00009"
+                       HPOS="267"
+                       VPOS="663"
+                       WIDTH="1057"
+                       HEIGHT="103">
+               <TextLine ID="P184_TL00017"
+                         HPOS="293"
+                         VPOS="669"
+                         WIDTH="153"
+                         HEIGHT="51">
+                  <String ID="P184_S00058"
+                          HPOS="293"
+                          VPOS="669"
+                          WIDTH="153"
+                          HEIGHT="53"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="&amp;F1="
+                          WC="0.1725"
+                          CC="10975">&amp;F1=</String>
+               </TextLine>
+               <TextLine ID="P184_TL00018"
+                         HPOS="447"
+                         VPOS="694"
+                         WIDTH="15"
+                         HEIGHT="15">
+                  <String ID="P184_S00059"
+                          HPOS="447"
+                          VPOS="694"
+                          WIDTH="15"
+                          HEIGHT="15"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="»"
+                          WC="0.23"
+                          CC="7">»</String>
+               </TextLine>
+               <TextLine ID="P184_TL00019"
+                         HPOS="484"
+                         VPOS="702"
+                         WIDTH="114"
+                         HEIGHT="23">
+                  <String ID="P184_S00060"
+                          HPOS="484"
+                          VPOS="703"
+                          WIDTH="12"
+                          HEIGHT="16"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="9"
+                          WC="0"
+                          CC="10">9</String>
+                  <SP ID="P184_SP00043" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00061"
+                          HPOS="514"
+                          VPOS="711"
+                          WIDTH="16"
+                          HEIGHT="15"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="0"
+                          WC="0.08"
+                          CC="9">0</String>
+                  <SP ID="P184_SP00044" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00062"
+                          HPOS="582"
+                          VPOS="701"
+                          WIDTH="16"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="?"
+                          WC="0.14"
+                          CC="8">?</String>
+               </TextLine>
+               <TextLine ID="P184_TL00020"
+                         HPOS="668"
+                         VPOS="692"
+                         WIDTH="102"
+                         HEIGHT="15">
+                  <String ID="P184_S00063"
+                          HPOS="668"
+                          VPOS="692"
+                          WIDTH="15"
+                          HEIGHT="17"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="0"
+                          WC="0.2"
+                          CC="8">0</String>
+                  <SP ID="P184_SP00045" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+               </TextLine>
+               <TextLine ID="P184_TL00021"
+                         HPOS="774"
+                         VPOS="698"
+                         WIDTH="11"
+                         HEIGHT="19">
+                  <String ID="P184_S00064"
+                          HPOS="774"
+                          VPOS="698"
+                          WIDTH="11"
+                          HEIGHT="19"
+                          STYLEREFS="StyleId-5"
+                          CONTENT="»"
+                          WC="1"
+                          CC="0">»</String>
+               </TextLine>
+               <TextLine ID="P184_TL00022"
+                         HPOS="988"
+                         VPOS="689"
+                         WIDTH="173"
+                         HEIGHT="31">
+                  <String ID="P184_S00065"
+                          HPOS="988"
+                          VPOS="689"
+                          WIDTH="15"
+                          HEIGHT="22"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="is"
+                          WC="0.205"
+                          CC="78">is</String>
+                  <SP ID="P184_SP00046" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00066"
+                          HPOS="1080"
+                          VPOS="690"
+                          WIDTH="2"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="1"
+                          WC="0.6"
+                          CC="4">1</String>
+                  <SP ID="P184_SP00047" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+               </TextLine>
+               <TextLine ID="P184_TL00023"
+                         HPOS="446"
+                         VPOS="735"
+                         WIDTH="33"
+                         HEIGHT="10">
+                  <String ID="P184_S00067"
+                          HPOS="446"
+                          VPOS="735"
+                          WIDTH="33"
+                          HEIGHT="10"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="-"
+                          WC="0.31"
+                          CC="6">-</String>
+               </TextLine>
+               <TextLine ID="P184_TL00024"
+                         HPOS="480"
+                         VPOS="728"
+                         WIDTH="120"
+                         HEIGHT="33">
+                  <String ID="P184_S00068"
+                          HPOS="480"
+                          VPOS="728"
+                          WIDTH="36"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="u"
+                          WC="0.13"
+                          CC="8">u</String>
+                  <SP ID="P184_SP00048" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00069"
+                          HPOS="580"
+                          VPOS="727"
+                          WIDTH="19"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="u"
+                          WC="0.1"
+                          CC="9">u</String>
+               </TextLine>
+               <TextLine ID="P184_TL00025"
+                         HPOS="888"
+                         VPOS="717"
+                         WIDTH="99"
+                         HEIGHT="27">
+                  <String ID="P184_S00070"
+                          HPOS="888"
+                          VPOS="716"
+                          WIDTH="36"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-6"
+                          CONTENT=".'"
+                          WC="0.42"
+                          CC="73">.'</String>
+                  <SP ID="P184_SP00049" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00071"
+                          HPOS="972"
+                          VPOS="719"
+                          WIDTH="16"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="d"
+                          WC="0.03"
+                          CC="9">d</String>
+               </TextLine>
+               <TextLine ID="P184_TL00026"
+                         HPOS="990"
+                         VPOS="725"
+                         WIDTH="171"
+                         HEIGHT="18">
+                  <String ID="P184_S00072"
+                          HPOS="990"
+                          VPOS="724"
+                          WIDTH="92"
+                          HEIGHT="21"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="—«i"
+                          WC="0.35"
+                          CC="946">—«i</String>
+                  <SP ID="P184_SP00050" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00010"
+                       HPOS="377"
+                       VPOS="774"
+                       WIDTH="102"
+                       HEIGHT="33">
+               <TextLine ID="P184_TL00027"
+                         HPOS="388"
+                         VPOS="780"
+                         WIDTH="89"
+                         HEIGHT="23">
+                  <String ID="P184_S00073"
+                          HPOS="388"
+                          VPOS="780"
+                          WIDTH="89"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="home."
+                          WC="0.788"
+                          CC="00630">home.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00011"
+                       HPOS="563"
+                       VPOS="772"
+                       WIDTH="256"
+                       HEIGHT="30">
+               <TextLine ID="P184_TL00028"
+                         HPOS="576"
+                         VPOS="777"
+                         WIDTH="231"
+                         HEIGHT="21">
+                  <String ID="P184_S00074"
+                          HPOS="576"
+                          VPOS="778"
+                          WIDTH="27"
+                          HEIGHT="22"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="to"
+                          WC="0.47"
+                          CC="64">to</String>
+                  <SP ID="P184_SP00051" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00075"
+                          HPOS="652"
+                          VPOS="777"
+                          WIDTH="52"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="live"
+                          WC="0.585"
+                          CC="0078">live</String>
+                  <SP ID="P184_SP00052" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00076"
+                          HPOS="743"
+                          VPOS="775"
+                          WIDTH="64"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="with"
+                          WC="0.7175"
+                          CC="0460">with</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00012"
+                       HPOS="863"
+                       VPOS="767"
+                       WIDTH="91"
+                       HEIGHT="39">
+               <TextLine ID="P184_TL00029"
+                         HPOS="875"
+                         VPOS="775"
+                         WIDTH="67"
+                         HEIGHT="27">
+                  <String ID="P184_S00077"
+                          HPOS="875"
+                          VPOS="774"
+                          WIDTH="67"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="God,"
+                          WC="0.8725"
+                          CC="3100">God,</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00013"
+                       HPOS="1031"
+                       VPOS="768"
+                       WIDTH="84"
+                       HEIGHT="32">
+               <TextLine ID="P184_TL00030"
+                         HPOS="1043"
+                         VPOS="773"
+                         WIDTH="59"
+                         HEIGHT="24">
+                  <String ID="P184_S00078"
+                          HPOS="1043"
+                          VPOS="773"
+                          WIDTH="40"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Oh"
+                          WC="0.215"
+                          CC="87">Oh</String>
+                  <SP ID="P184_SP00053" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00079"
+                          HPOS="1096"
+                          VPOS="773"
+                          WIDTH="6"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="I"
+                          WC="0.21"
+                          CC="7">I</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00014"
+                       HPOS="366"
+                       VPOS="830"
+                       WIDTH="868"
+                       HEIGHT="145">
+               <TextLine ID="P184_TL00031"
+                         HPOS="378"
+                         VPOS="837"
+                         WIDTH="842"
+                         HEIGHT="22">
+                  <String ID="P184_S00080"
+                          HPOS="378"
+                          VPOS="837"
+                          WIDTH="21"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="2."
+                          WC="0.8"
+                          CC="40">2.</String>
+                  <SP ID="P184_SP00054" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00081"
+                          HPOS="420"
+                          VPOS="837"
+                          WIDTH="47"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="My"
+                          WC="0.76"
+                          CC="04">My</String>
+                  <SP ID="P184_SP00055" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00082"
+                          HPOS="477"
+                          VPOS="834"
+                          WIDTH="137"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="brother's"
+                          WC="0.76"
+                          CC="703000505">brother's</String>
+                  <SP ID="P184_SP00056" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00083"
+                          HPOS="627"
+                          VPOS="834"
+                          WIDTH="69"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="done"
+                          WC="0.7625"
+                          CC="0045">done</String>
+                  <SP ID="P184_SP00057" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00084"
+                          HPOS="707"
+                          VPOS="834"
+                          WIDTH="66"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="with"
+                          WC="0.8575"
+                          CC="0220">with</String>
+                  <SP ID="P184_SP00058" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00085"
+                          HPOS="785"
+                          VPOS="833"
+                          WIDTH="44"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="1"
+                          CC="000">the</String>
+                  <SP ID="P184_SP00059" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00086"
+                          HPOS="841"
+                          VPOS="831"
+                          WIDTH="118"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="troubles"
+                          WC="0.685"
+                          CC="00076038">troubles</String>
+                  <SP ID="P184_SP00060" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00087"
+                          HPOS="973"
+                          VPOS="831"
+                          WIDTH="30"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="of"
+                          WC="0.795"
+                          CC="04">of</String>
+                  <SP ID="P184_SP00061" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00088"
+                          HPOS="1017"
+                          VPOS="830"
+                          WIDTH="45"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.69"
+                          CC="071">the</String>
+                  <SP ID="P184_SP00062" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00089"
+                          HPOS="1074"
+                          VPOS="829"
+                          WIDTH="87"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="world,"
+                          WC="0.6816667"
+                          CC="1005004">world,</String>
+                  <SP ID="P184_SP00063" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00090"
+                          HPOS="1177"
+                          VPOS="828"
+                          WIDTH="42"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="&lt;fcc."
+                          WC="0.374"
+                          CC="57764">&lt;fcc.</String>
+               </TextLine>
+               <TextLine ID="P184_TL00032"
+                         HPOS="469"
+                         VPOS="867"
+                         WIDTH="617"
+                         HEIGHT="24">
+                  <String ID="P184_S00091"
+                          HPOS="469"
+                          VPOS="867"
+                          WIDTH="176"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Cho.—These"
+                          WC="0.694"
+                          CC="6140900260">Cho.—These</String>
+                  <SP ID="P184_SP00064" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00092"
+                          HPOS="657"
+                          VPOS="873"
+                          WIDTH="45"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="are"
+                          WC="0.816666663"
+                          CC="230">are</String>
+                  <SP ID="P184_SP00065" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00093"
+                          HPOS="712"
+                          VPOS="873"
+                          WIDTH="45"
+                          HEIGHT="23"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="my"
+                          WC="0.5"
+                          CC="010">my</String>
+                  <SP ID="P184_SP00066" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00094"
+                          HPOS="768"
+                          VPOS="864"
+                          WIDTH="119"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Father's"
+                          WC="0.6725"
+                          CC="70270305">Father's</String>
+                  <SP ID="P184_SP00067" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00095"
+                          HPOS="899"
+                          VPOS="863"
+                          WIDTH="129"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="children,"
+                          WC="0.6077778"
+                          CC="300094672">children,</String>
+                  <SP ID="P184_SP00068" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00096"
+                          HPOS="1042"
+                          VPOS="861"
+                          WIDTH="44"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="kc."
+                          WC="0.33"
+                          CC="1063">kc.</String>
+               </TextLine>
+               <TextLine ID="P184_TL00033"
+                         HPOS="380"
+                         VPOS="915"
+                         WIDTH="816"
+                         HEIGHT="24">
+                  <String ID="P184_S00097"
+                          HPOS="380"
+                          VPOS="919"
+                          WIDTH="21"
+                          HEIGHT="23"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="3."
+                          WC="0.48"
+                          CC="63">3.</String>
+                  <SP ID="P184_SP00069" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00098"
+                          HPOS="423"
+                          VPOS="918"
+                          WIDTH="48"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="My"
+                          WC="0.95"
+                          CC="10">My</String>
+                  <SP ID="P184_SP00070" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00099"
+                          HPOS="483"
+                          VPOS="915"
+                          WIDTH="106"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="sister's"
+                          WC="0.71375"
+                          CC="72300207">sister's</String>
+                  <SP ID="P184_SP00071" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00100"
+                          HPOS="601"
+                          VPOS="915"
+                          WIDTH="69"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="done"
+                          WC="0.97"
+                          CC="0001">done</String>
+                  <SP ID="P184_SP00072" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00101"
+                          HPOS="681"
+                          VPOS="914"
+                          WIDTH="65"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="with"
+                          WC="0.7825"
+                          CC="0350">with</String>
+                  <SP ID="P184_SP00073" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00102"
+                          HPOS="759"
+                          VPOS="914"
+                          WIDTH="45"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.7033333"
+                          CC="071">the</String>
+                  <SP ID="P184_SP00074" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00103"
+                          HPOS="816"
+                          VPOS="912"
+                          WIDTH="118"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="troubles"
+                          WC="0.55125"
+                          CC="07077608">troubles</String>
+                  <SP ID="P184_SP00075" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00104"
+                          HPOS="948"
+                          VPOS="912"
+                          WIDTH="28"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="of"
+                          WC="0.695"
+                          CC="05">of</String>
+                  <SP ID="P184_SP00076" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00105"
+                          HPOS="992"
+                          VPOS="911"
+                          WIDTH="43"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.75"
+                          CC="070">the</String>
+                  <SP ID="P184_SP00077" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00106"
+                          HPOS="1047"
+                          VPOS="909"
+                          WIDTH="90"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="world,"
+                          WC="0.61833334"
+                          CC="026373">world,</String>
+                  <SP ID="P184_SP00078" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00107"
+                          HPOS="1153"
+                          VPOS="906"
+                          WIDTH="42"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="ke."
+                          WC="0.41"
+                          CC="484">ke.</String>
+               </TextLine>
+               <TextLine ID="P184_TL00034"
+                         HPOS="472"
+                         VPOS="949"
+                         WIDTH="616"
+                         HEIGHT="24">
+                  <String ID="P184_S00108"
+                          HPOS="472"
+                          VPOS="948"
+                          WIDTH="173"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Cho.—These"
+                          WC="0.534"
+                          CC="610103900061">Cho.—These</String>
+                  <SP ID="P184_SP00079" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00109"
+                          HPOS="658"
+                          VPOS="954"
+                          WIDTH="43"
+                          HEIGHT="21"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="are"
+                          WC="0.69"
+                          CC="036">are</String>
+                  <SP ID="P184_SP00080" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00110"
+                          HPOS="712"
+                          VPOS="954"
+                          WIDTH="46"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="my"
+                          WC="1"
+                          CC="00">my</String>
+                  <SP ID="P184_SP00081" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00111"
+                          HPOS="769"
+                          VPOS="945"
+                          WIDTH="118"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Father's"
+                          WC="0.5725"
+                          CC="710603007">Father's</String>
+                  <SP ID="P184_SP00082" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00112"
+                          HPOS="900"
+                          VPOS="944"
+                          WIDTH="126"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="children."
+                          WC="0.6722222"
+                          CC="000088074">children.</String>
+                  <SP ID="P184_SP00083" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00113"
+                          HPOS="1042"
+                          VPOS="942"
+                          WIDTH="46"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="&amp;c."
+                          WC="1"
+                          CC="000">&amp;c.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00015"
+                       HPOS="261"
+                       VPOS="1036"
+                       WIDTH="782"
+                       HEIGHT="55">
+               <TextLine ID="P184_TL00035"
+                         HPOS="274"
+                         VPOS="1049"
+                         WIDTH="756"
+                         HEIGHT="39">
+                  <String ID="P184_S00114"
+                          HPOS="274"
+                          VPOS="1050"
+                          WIDTH="164"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-7"
+                          CONTENT="No.48."
+                          WC="0.803333342"
+                          CC="053020">No.48.</String>
+                  <SP ID="P184_SP00084" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00115"
+                          HPOS="564"
+                          VPOS="1047"
+                          WIDTH="150"
+                          HEIGHT="45"
+                          STYLEREFS="StyleId-7"
+                          CONTENT="t&amp;etgn,"
+                          WC="0.307142854"
+                          CC="8787880">t&amp;etgn,</String>
+                  <SP ID="P184_SP00085" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00116"
+                          HPOS="746"
+                          VPOS="1042"
+                          WIDTH="99"
+                          HEIGHT="51"
+                          STYLEREFS="StyleId-7"
+                          CONTENT="©f)!"
+                          WC="0.33"
+                          CC="4885">©f)!</String>
+                  <SP ID="P184_SP00086" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00117"
+                          HPOS="880"
+                          VPOS="1044"
+                          WIDTH="150"
+                          HEIGHT="48"
+                          STYLEREFS="StyleId-7"
+                          CONTENT="tftetgn."
+                          WC="0.23"
+                          CC="77788875">tftetgn.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00016"
+                       HPOS="500"
+                       VPOS="1137"
+                       WIDTH="42"
+                       HEIGHT="62"/>
+            <TextBlock ID="P184_TB00017"
+                       HPOS="951"
+                       VPOS="1155"
+                       WIDTH="72"
+                       HEIGHT="45"/>
+            <TextBlock ID="P184_TB00018"
+                       HPOS="999"
+                       VPOS="1181"
+                       WIDTH="33"
+                       HEIGHT="45">
+               <TextLine ID="P184_TL00036"
+                         HPOS="999"
+                         VPOS="1183"
+                         WIDTH="33"
+                         HEIGHT="39">
+                  <String ID="P184_S00118"
+                          HPOS="999"
+                          VPOS="1183"
+                          WIDTH="33"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="7-"
+                          WC="0.295"
+                          CC="104">7-</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00019"
+                       HPOS="378"
+                       VPOS="1240"
+                       WIDTH="927"
+                       HEIGHT="34">
+               <TextLine ID="P184_TL00037"
+                         HPOS="389"
+                         VPOS="1248"
+                         WIDTH="903"
+                         HEIGHT="23">
+                  <String ID="P184_S00119"
+                          HPOS="389"
+                          VPOS="1251"
+                          WIDTH="95"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Eeign,"
+                          WC="0.86833334"
+                          CC="000502">Eeign,</String>
+                  <SP ID="P184_SP00087" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00120"
+                          HPOS="500"
+                          VPOS="1248"
+                          WIDTH="41"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Oh"
+                          WC="0.315"
+                          CC="67">Oh</String>
+                  <SP ID="P184_SP00088" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00121"
+                          HPOS="552"
+                          VPOS="1248"
+                          WIDTH="6"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="!"
+                          WC="0.41"
+                          CC="5">!</String>
+                  <SP ID="P184_SP00089" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00122"
+                          HPOS="575"
+                          VPOS="1248"
+                          WIDTH="83"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="reign,"
+                          WC="0.8383333"
+                          CC="005004">reign,</String>
+                  <SP ID="P184_SP00090" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00123"
+                          HPOS="694"
+                          VPOS="1246"
+                          WIDTH="21"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="0"
+                          WC="0.67"
+                          CC="3">0</String>
+                  <SP ID="P184_SP00091" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00124"
+                          HPOS="750"
+                          VPOS="1245"
+                          WIDTH="83"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="reign,"
+                          WC="0.855"
+                          CC="400003">reign,</String>
+                  <SP ID="P184_SP00092" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00125"
+                          HPOS="858"
+                          VPOS="1251"
+                          WIDTH="45"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="my"
+                          WC="0.665"
+                          CC="60">my</String>
+                  <SP ID="P184_SP00093" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00126"
+                          HPOS="952"
+                          VPOS="1242"
+                          WIDTH="51"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Sav"
+                          WC="0.366666675"
+                          CC="567">Sav</String>
+                  <SP ID="P184_SP00094" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00127"
+                          HPOS="1014"
+                          VPOS="1257"
+                          WIDTH="10"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="-"
+                          WC="0.7"
+                          CC="3">-</String>
+                  <SP ID="P184_SP00095" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00128"
+                          HPOS="1035"
+                          VPOS="1241"
+                          WIDTH="66"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="iour,"
+                          WC="0.698"
+                          CC="30640">iour,</String>
+                  <SP ID="P184_SP00096" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00129"
+                          HPOS="1122"
+                          VPOS="1239"
+                          WIDTH="93"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Eeign,"
+                          WC="0.9433333"
+                          CC="000003">Eeign,</String>
+                  <SP ID="P184_SP00097" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00130"
+                          HPOS="1236"
+                          VPOS="1238"
+                          WIDTH="40"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Oh"
+                          WC="1"
+                          CC="00">Oh</String>
+                  <SP ID="P184_SP00098" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00131"
+                          HPOS="1287"
+                          VPOS="1237"
+                          WIDTH="5"
+                          HEIGHT="43"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="!"
+                          WC="1"
+                          CC="0">!</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00020"
+                       HPOS="879"
+                       VPOS="1305"
+                       WIDTH="119"
+                       HEIGHT="54"/>
+            <TextBlock ID="P184_TB00021"
+                       HPOS="815"
+                       VPOS="1324"
+                       WIDTH="42"
+                       HEIGHT="41">
+               <TextLine ID="P184_TL00038"
+                         HPOS="815"
+                         VPOS="1326"
+                         WIDTH="42"
+                         HEIGHT="36">
+                  <String ID="P184_S00132"
+                          HPOS="815"
+                          VPOS="1326"
+                          WIDTH="42"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-8"
+                          CONTENT="£"
+                          WC="0"
+                          CC="10">£</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00022"
+                       HPOS="876"
+                       VPOS="1349"
+                       WIDTH="455"
+                       HEIGHT="59">
+               <TextLine ID="P184_TL00039"
+                         HPOS="1077"
+                         VPOS="1350"
+                         WIDTH="98"
+                         HEIGHT="15"/>
+            </TextBlock>
+            <TextBlock ID="P184_TB00023"
+                       HPOS="347"
+                       VPOS="1413"
+                       WIDTH="952"
+                       HEIGHT="30">
+               <TextLine ID="P184_TL00040"
+                         HPOS="358"
+                         VPOS="1416"
+                         WIDTH="928"
+                         HEIGHT="24">
+                  <String ID="P184_S00133"
+                          HPOS="358"
+                          VPOS="1419"
+                          WIDTH="81"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="reign,"
+                          WC="0.853333354"
+                          CC="305000">reign,</String>
+                  <SP ID="P184_SP00099" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00134"
+                          HPOS="471"
+                          VPOS="1419"
+                          WIDTH="21"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="O"
+                          WC="0.43"
+                          CC="5">O</String>
+                  <SP ID="P184_SP00100" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00135"
+                          HPOS="521"
+                          VPOS="1417"
+                          WIDTH="82"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="reign,"
+                          WC="1"
+                          CC="000000">reign,</String>
+                  <SP ID="P184_SP00101" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00136"
+                          HPOS="624"
+                          VPOS="1422"
+                          WIDTH="45"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="my"
+                          WC="0.5"
+                          CC="100">my</String>
+                  <SP ID="P184_SP00102" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00137"
+                          HPOS="693"
+                          VPOS="1413"
+                          WIDTH="80"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Lord."
+                          WC="0.572"
+                          CC="43390">Lord.</String>
+                  <SP ID="P184_SP00103" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00138"
+                          HPOS="810"
+                          VPOS="1413"
+                          WIDTH="21"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="1."
+                          WC="0.985"
+                          CC="00">1.</String>
+                  <SP ID="P184_SP00104" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00139"
+                          HPOS="853"
+                          VPOS="1411"
+                          WIDTH="87"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Takes"
+                          WC="0.624"
+                          CC="05607">Takes</String>
+                  <SP ID="P184_SP00105" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00140"
+                          HPOS="958"
+                          VPOS="1418"
+                          WIDTH="33"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="an"
+                          WC="0.43"
+                          CC="46">an</String>
+                  <SP ID="P184_SP00106" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00141"
+                          HPOS="1008"
+                          VPOS="1408"
+                          WIDTH="135"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="hum-ble"
+                          WC="0.7657143"
+                          CC="0601701">hum-ble</String>
+                  <SP ID="P184_SP00107" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00142"
+                          HPOS="1169"
+                          VPOS="1407"
+                          WIDTH="58"
+                          HEIGHT="44"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="soul"
+                          WC="0.44"
+                          CC="7086">soul</String>
+                  <SP ID="P184_SP00108" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00143"
+                          HPOS="1260"
+                          VPOS="1408"
+                          WIDTH="26"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="to"
+                          WC="0.875"
+                          CC="02">to</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00024"
+                       HPOS="486"
+                       VPOS="1481"
+                       WIDTH="846"
+                       HEIGHT="158">
+               <TextLine ID="P184_TL00041"
+                         HPOS="486"
+                         VPOS="1581"
+                         WIDTH="799"
+                         HEIGHT="19">
+                  <String ID="P184_S00144"
+                          HPOS="487"
+                          VPOS="1593"
+                          WIDTH="26"
+                          HEIGHT="17"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="us"
+                          WC="0.135"
+                          CC="98">us</String>
+                  <SP ID="P184_SP00109" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00145"
+                          HPOS="550"
+                          VPOS="1584"
+                          WIDTH="30"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="in"
+                          WC="0.49"
+                          CC="27">in</String>
+                  <SP ID="P184_SP00110" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00146"
+                          HPOS="630"
+                          VPOS="1583"
+                          WIDTH="45"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.75666666"
+                          CC="007">the</String>
+                  <SP ID="P184_SP00111" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00147"
+                          HPOS="717"
+                          VPOS="1588"
+                          WIDTH="39"
+                          HEIGHT="22"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="ser"
+                          WC="0.7"
+                          CC="602">ser</String>
+                  <SP ID="P184_SP00112" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00148"
+                          HPOS="770"
+                          VPOS="1593"
+                          WIDTH="10"
+                          HEIGHT="17"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="-"
+                          WC="0.62"
+                          CC="3">-</String>
+                  <SP ID="P184_SP00113" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00149"
+                          HPOS="790"
+                          VPOS="1579"
+                          WIDTH="59"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="vice"
+                          WC="0.36"
+                          CC="7576">vice</String>
+                  <SP ID="P184_SP00114" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00150"
+                          HPOS="876"
+                          VPOS="1579"
+                          WIDTH="30"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="of"
+                          WC="0.915"
+                          CC="10">of</String>
+                  <SP ID="P184_SP00115" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00151"
+                          HPOS="945"
+                          VPOS="1578"
+                          WIDTH="44"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.41"
+                          CC="476">the</String>
+                  <SP ID="P184_SP00116" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00152"
+                          HPOS="1023"
+                          VPOS="1576"
+                          WIDTH="79"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Lord,"
+                          WC="0.666"
+                          CC="50091">Lord,</String>
+                  <SP ID="P184_SP00117" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00153"
+                          HPOS="1139"
+                          VPOS="1573"
+                          WIDTH="85"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Takes"
+                          WC="0.784"
+                          CC="00604">Takes</String>
+                  <SP ID="P184_SP00118" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00154"
+                          HPOS="1251"
+                          VPOS="1581"
+                          WIDTH="34"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="an"
+                          WC="0.4"
+                          CC="56">an</String>
+               </TextLine>
+               <TextLine ID="P184_TL00042"
+                         HPOS="1216"
+                         VPOS="1614"
+                         WIDTH="69"
+                         HEIGHT="22">
+                  <String ID="P184_S00155"
+                          HPOS="1216"
+                          VPOS="1614"
+                          WIDTH="30"
+                          HEIGHT="22"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="D."
+                          WC="0.82"
+                          CC="30">D.</String>
+                  <SP ID="P184_SP00119" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00156"
+                          HPOS="1263"
+                          VPOS="1613"
+                          WIDTH="22"
+                          HEIGHT="23"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="C."
+                          WC="0.695"
+                          CC="50">C.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00025"
+                       HPOS="368"
+                       VPOS="1589"
+                       WIDTH="225"
+                       HEIGHT="31">
+               <TextLine ID="P184_TL00043"
+                         HPOS="380"
+                         VPOS="1589"
+                         WIDTH="201"
+                         HEIGHT="28">
+                  <String ID="P184_S00157"
+                          HPOS="380"
+                          VPOS="1589"
+                          WIDTH="58"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="join"
+                          WC="0.615"
+                          CC="6017">join</String>
+                  <SP ID="P184_SP00120" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00158"
+                          HPOS="480"
+                          VPOS="1593"
+                          WIDTH="33"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="us"
+                          WC="0.2"
+                          CC="78">us</String>
+                  <SP ID="P184_SP00121" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00159"
+                          HPOS="552"
+                          VPOS="1593"
+                          WIDTH="29"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="in"
+                          WC="0.335"
+                          CC="57">in</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00026"
+                       HPOS="548"
+                       VPOS="1693"
+                       WIDTH="533"
+                       HEIGHT="67"/>
+            <TextBlock ID="P184_TB00027"
+                       HPOS="373"
+                       VPOS="1754"
+                       WIDTH="626"
+                       HEIGHT="43">
+               <TextLine ID="P184_TL00044"
+                         HPOS="387"
+                         VPOS="1766"
+                         WIDTH="611"
+                         HEIGHT="24">
+                  <String ID="P184_S00160"
+                          HPOS="387"
+                          VPOS="1768"
+                          WIDTH="134"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="hum-ble"
+                          WC="0.5914286"
+                          CC="0760706">hum-ble</String>
+                  <SP ID="P184_SP00122" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00161"
+                          HPOS="543"
+                          VPOS="1766"
+                          WIDTH="60"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="soul"
+                          WC="0.6"
+                          CC="6270">soul</String>
+                  <SP ID="P184_SP00123" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00162"
+                          HPOS="644"
+                          VPOS="1766"
+                          WIDTH="28"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="to"
+                          WC="1"
+                          CC="00">to</String>
+                  <SP ID="P184_SP00124" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00163"
+                          HPOS="711"
+                          VPOS="1762"
+                          WIDTH="57"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="join"
+                          WC="0.6875"
+                          CC="3017">join</String>
+                  <SP ID="P184_SP00125" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00164"
+                          HPOS="807"
+                          VPOS="1769"
+                          WIDTH="32"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="us"
+                          WC="0.215"
+                          CC="78">us</String>
+                  <SP ID="P184_SP00126" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00165"
+                          HPOS="876"
+                          VPOS="1761"
+                          WIDTH="29"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="in"
+                          WC="0.41"
+                          CC="56">in</String>
+                  <SP ID="P184_SP00127" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00166"
+                          HPOS="954"
+                          VPOS="1759"
+                          WIDTH="44"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.6066667"
+                          CC="371">the</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00028"
+                       HPOS="1047"
+                       VPOS="1713"
+                       WIDTH="174"
+                       HEIGHT="78">
+               <TextLine ID="P184_TL00045"
+                         HPOS="1052"
+                         VPOS="1766"
+                         WIDTH="165"
+                         HEIGHT="21">
+                  <String ID="P184_S00167"
+                          HPOS="1052"
+                          VPOS="1767"
+                          WIDTH="29"
+                          HEIGHT="16"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="ar"
+                          WC="0.325"
+                          CC="85">ar</String>
+                  <SP ID="P184_SP00128" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00168"
+                          HPOS="1111"
+                          VPOS="1772"
+                          WIDTH="11"
+                          HEIGHT="11"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="-"
+                          WC="0.63"
+                          CC="3">-</String>
+                  <SP ID="P184_SP00129" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00169"
+                          HPOS="1164"
+                          VPOS="1764"
+                          WIDTH="52"
+                          HEIGHT="23"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="my."
+                          WC="0.7"
+                          CC="404">my.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P184_TB00029"
+                       HPOS="333"
+                       VPOS="1815"
+                       WIDTH="994"
+                       HEIGHT="251">
+               <TextLine ID="P184_TL00046"
+                         HPOS="346"
+                         VPOS="1823"
+                         WIDTH="893"
+                         HEIGHT="21">
+                  <String ID="P184_S00170"
+                          HPOS="346"
+                          VPOS="1831"
+                          WIDTH="22"
+                          HEIGHT="23"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="2."
+                          WC="0.63"
+                          CC="70">2.</String>
+                  <SP ID="P184_SP00130" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00171"
+                          HPOS="390"
+                          VPOS="1827"
+                          WIDTH="91"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Here's"
+                          WC="0.6533333"
+                          CC="602308">Here's</String>
+                  <SP ID="P184_SP00131" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00172"
+                          HPOS="492"
+                          VPOS="1833"
+                          WIDTH="16"
+                          HEIGHT="21"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="a"
+                          WC="0.33"
+                          CC="6">a</String>
+                  <SP ID="P184_SP00132" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00173"
+                          HPOS="520"
+                          VPOS="1824"
+                          WIDTH="90"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="sinner"
+                          WC="0.658333361"
+                          CC="707005">sinner</String>
+                  <SP ID="P184_SP00133" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00174"
+                          HPOS="624"
+                          VPOS="1829"
+                          WIDTH="72"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="come"
+                          WC="0.6775"
+                          CC="00102">come</String>
+                  <SP ID="P184_SP00134" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00175"
+                          HPOS="709"
+                          VPOS="1822"
+                          WIDTH="27"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="to"
+                          WC="0.5"
+                          CC="010">to</String>
+                  <SP ID="P184_SP00135" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00176"
+                          HPOS="744"
+                          VPOS="1819"
+                          WIDTH="57"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="join"
+                          WC="0.8275"
+                          CC="2040">join</String>
+                  <SP ID="P184_SP00136" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00177"
+                          HPOS="813"
+                          VPOS="1826"
+                          WIDTH="33"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="us"
+                          WC="0.275"
+                          CC="77">us</String>
+                  <SP ID="P184_SP00137" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00178"
+                          HPOS="858"
+                          VPOS="1818"
+                          WIDTH="30"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="in"
+                          WC="0.41"
+                          CC="47">in</String>
+                  <SP ID="P184_SP00138" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00179"
+                          HPOS="899"
+                          VPOS="1818"
+                          WIDTH="44"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.9766667"
+                          CC="000">the</String>
+                  <SP ID="P184_SP00139" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00180"
+                          HPOS="955"
+                          VPOS="1817"
+                          WIDTH="100"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="service"
+                          WC="0.6628571"
+                          CC="4057006">service</String>
+                  <SP ID="P184_SP00140" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00181"
+                          HPOS="1067"
+                          VPOS="1816"
+                          WIDTH="29"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="of"
+                          WC="0.735"
+                          CC="05">of</String>
+                  <SP ID="P184_SP00141" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00182"
+                          HPOS="1106"
+                          VPOS="1815"
+                          WIDTH="44"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.78"
+                          CC="600">the</String>
+                  <SP ID="P184_SP00142" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00183"
+                          HPOS="1161"
+                          VPOS="1813"
+                          WIDTH="77"
+                          HEIGHT="41"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Lord,"
+                          WC="0.812"
+                          CC="03401">Lord,</String>
+               </TextLine>
+               <TextLine ID="P184_TL00047"
+                         HPOS="387"
+                         VPOS="1855"
+                         WIDTH="646"
+                         HEIGHT="23">
+                  <String ID="P184_S00184"
+                          HPOS="387"
+                          VPOS="1859"
+                          WIDTH="93"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Here's"
+                          WC="0.74666667"
+                          CC="740300">Here's</String>
+                  <SP ID="P184_SP00143" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00185"
+                          HPOS="492"
+                          VPOS="1866"
+                          WIDTH="15"
+                          HEIGHT="19"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="a"
+                          WC="0"
+                          CC="10">a</String>
+                  <SP ID="P184_SP00144" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00186"
+                          HPOS="518"
+                          VPOS="1857"
+                          WIDTH="90"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="sinner"
+                          WC="0.575"
+                          CC="807603">sinner</String>
+                  <SP ID="P184_SP00145" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00187"
+                          HPOS="621"
+                          VPOS="1861"
+                          WIDTH="73"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="come"
+                          WC="1"
+                          CC="0000">come</String>
+                  <SP ID="P184_SP00146" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00188"
+                          HPOS="706"
+                          VPOS="1854"
+                          WIDTH="27"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="to"
+                          WC="0.695"
+                          CC="06">to</String>
+                  <SP ID="P184_SP00147" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00189"
+                          HPOS="744"
+                          VPOS="1851"
+                          WIDTH="57"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="join"
+                          WC="0.8725"
+                          CC="4000">join</String>
+                  <SP ID="P184_SP00148" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00190"
+                          HPOS="813"
+                          VPOS="1858"
+                          WIDTH="33"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="us"
+                          WC="0.29"
+                          CC="77">us</String>
+                  <SP ID="P184_SP00149" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00191"
+                          HPOS="857"
+                          VPOS="1851"
+                          WIDTH="27"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="in"
+                          WC="0.46"
+                          CC="37">in</String>
+                  <SP ID="P184_SP00150" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00192"
+                          HPOS="897"
+                          VPOS="1850"
+                          WIDTH="43"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.68"
+                          CC="503">the</String>
+                  <SP ID="P184_SP00151" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00193"
+                          HPOS="952"
+                          VPOS="1856"
+                          WIDTH="81"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="army."
+                          WC="0.384"
+                          CC="97904">army.</String>
+               </TextLine>
+               <TextLine ID="P184_TL00048"
+                         HPOS="453"
+                         VPOS="1886"
+                         WIDTH="411"
+                         HEIGHT="29">
+                  <String ID="P184_S00194"
+                          HPOS="453"
+                          VPOS="1887"
+                          WIDTH="180"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Cho.—Eeign,"
+                          WC="0.5790909"
+                          CC="61619706070">Cho.—Eeign,</String>
+                  <SP ID="P184_SP00152" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00195"
+                          HPOS="649"
+                          VPOS="1885"
+                          WIDTH="55"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Oh!"
+                          WC="1"
+                          CC="000">Oh!</String>
+                  <SP ID="P184_SP00153" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00196"
+                          HPOS="723"
+                          VPOS="1884"
+                          WIDTH="81"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="reign,"
+                          WC="0.6066667"
+                          CC="500862">reign,</String>
+                  <SP ID="P184_SP00154" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00197"
+                          HPOS="819"
+                          VPOS="1882"
+                          WIDTH="43"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="kc."
+                          WC="0.29"
+                          CC="1064">kc.</String>
+               </TextLine>
+               <TextLine ID="P184_TL00049"
+                         HPOS="348"
+                         VPOS="1935"
+                         WIDTH="966"
+                         HEIGHT="26">
+                  <String ID="P184_S00198"
+                          HPOS="348"
+                          VPOS="1944"
+                          WIDTH="21"
+                          HEIGHT="23"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="3."
+                          WC="0.735"
+                          CC="13">3.</String>
+                  <SP ID="P184_SP00155" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00199"
+                          HPOS="390"
+                          VPOS="1941"
+                          WIDTH="41"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Oh"
+                          WC="0.695"
+                          CC="60">Oh</String>
+                  <SP ID="P184_SP00156" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00200"
+                          HPOS="441"
+                          VPOS="1941"
+                          WIDTH="6"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="!"
+                          WC="0.76"
+                          CC="2">!</String>
+                  <SP ID="P184_SP00157" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00201"
+                          HPOS="463"
+                          VPOS="1940"
+                          WIDTH="65"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="ain't"
+                          WC="0.492"
+                          CC="100708">ain't</String>
+                  <SP ID="P184_SP00158" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00202"
+                          HPOS="539"
+                          VPOS="1946"
+                          WIDTH="53"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="you"
+                          WC="0.336666673"
+                          CC="937">you</String>
+                  <SP ID="P184_SP00159" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00203"
+                          HPOS="604"
+                          VPOS="1935"
+                          WIDTH="62"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="glad"
+                          WC="0.585"
+                          CC="1609">glad</String>
+                  <SP ID="P184_SP00160" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00204"
+                          HPOS="677"
+                          VPOS="1935"
+                          WIDTH="92"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="you've"
+                          WC="0.855"
+                          CC="000052">you've</String>
+                  <SP ID="P184_SP00161" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00205"
+                          HPOS="779"
+                          VPOS="1932"
+                          WIDTH="90"
+                          HEIGHT="38"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="joined"
+                          WC="0.7216667"
+                          CC="306700">joined</String>
+                  <SP ID="P184_SP00162" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00206"
+                          HPOS="880"
+                          VPOS="1938"
+                          WIDTH="33"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="us"
+                          WC="0.215"
+                          CC="78">us</String>
+                  <SP ID="P184_SP00163" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00207"
+                          HPOS="924"
+                          VPOS="1931"
+                          WIDTH="29"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="in"
+                          WC="0.63"
+                          CC="07">in</String>
+                  <SP ID="P184_SP00164" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00208"
+                          HPOS="965"
+                          VPOS="1930"
+                          WIDTH="45"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.75666666"
+                          CC="007">the</String>
+                  <SP ID="P184_SP00165" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00209"
+                          HPOS="1020"
+                          VPOS="1928"
+                          WIDTH="99"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="service"
+                          WC="0.462857157"
+                          CC="6077547">service</String>
+                  <SP ID="P184_SP00166" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00210"
+                          HPOS="1131"
+                          VPOS="1927"
+                          WIDTH="29"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="of"
+                          WC="0.985"
+                          CC="00">of</String>
+                  <SP ID="P184_SP00167" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00211"
+                          HPOS="1170"
+                          VPOS="1926"
+                          WIDTH="44"
+                          HEIGHT="44"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.8933333"
+                          CC="003">the</String>
+                  <SP ID="P184_SP00168" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00212"
+                          HPOS="1225"
+                          VPOS="1924"
+                          WIDTH="72"
+                          HEIGHT="45"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Lord"
+                          WC="0.54"
+                          CC="10170">Lord</String>
+                  <SP ID="P184_SP00169" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00213"
+                          HPOS="1307"
+                          VPOS="1931"
+                          WIDTH="6"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-2"
+                          CONTENT=";"
+                          WC="0.49"
+                          CC="5">;</String>
+               </TextLine>
+               <TextLine ID="P184_TL00050"
+                         HPOS="390"
+                         VPOS="1968"
+                         WIDTH="713"
+                         HEIGHT="27">
+                  <String ID="P184_S00214"
+                          HPOS="390"
+                          VPOS="1974"
+                          WIDTH="57"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Oh!"
+                          WC="0.5366667"
+                          CC="670">Oh!</String>
+                  <SP ID="P184_SP00170" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00215"
+                          HPOS="464"
+                          VPOS="1973"
+                          WIDTH="64"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="ain't"
+                          WC="0.848"
+                          CC="03003">ain't</String>
+                  <SP ID="P184_SP00171" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00216"
+                          HPOS="540"
+                          VPOS="1978"
+                          WIDTH="53"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="you"
+                          WC="0.576666653"
+                          CC="524">you</String>
+                  <SP ID="P184_SP00172" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00217"
+                          HPOS="606"
+                          VPOS="1969"
+                          WIDTH="60"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="glad"
+                          WC="0.555"
+                          CC="8080">glad</String>
+                  <SP ID="P184_SP00173" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00218"
+                          HPOS="679"
+                          VPOS="1968"
+                          WIDTH="90"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="you've"
+                          WC="0.68"
+                          CC="704070">you've</String>
+                  <SP ID="P184_SP00174" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00219"
+                          HPOS="780"
+                          VPOS="1965"
+                          WIDTH="92"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="joined"
+                          WC="0.706666648"
+                          CC="1000700">joined</String>
+                  <SP ID="P184_SP00175" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00220"
+                          HPOS="882"
+                          VPOS="1971"
+                          WIDTH="32"
+                          HEIGHT="31"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="us"
+                          WC="0.28"
+                          CC="76">us</String>
+                  <SP ID="P184_SP00176" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00221"
+                          HPOS="925"
+                          VPOS="1962"
+                          WIDTH="28"
+                          HEIGHT="39"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="in"
+                          WC="0.63"
+                          CC="07">in</String>
+                  <SP ID="P184_SP00177" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00222"
+                          HPOS="965"
+                          VPOS="1962"
+                          WIDTH="45"
+                          HEIGHT="40"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.9"
+                          CC="003">the</String>
+                  <SP ID="P184_SP00178" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00223"
+                          HPOS="1021"
+                          VPOS="1968"
+                          WIDTH="81"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="army."
+                          WC="0.862"
+                          CC="60000">army.</String>
+               </TextLine>
+               <TextLine ID="P184_TL00051"
+                         HPOS="456"
+                         VPOS="2001"
+                         WIDTH="411"
+                         HEIGHT="30">
+                  <String ID="P184_S00224"
+                          HPOS="456"
+                          VPOS="2002"
+                          WIDTH="181"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Cho.—Eeign,"
+                          WC="0.46"
+                          CC="66719705474">Cho.—Eeign,</String>
+                  <SP ID="P184_SP00179" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00225"
+                          HPOS="654"
+                          VPOS="2001"
+                          WIDTH="41"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Oh"
+                          WC="0.665"
+                          CC="60">Oh</String>
+                  <SP ID="P184_SP00180" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00226"
+                          HPOS="707"
+                          VPOS="2000"
+                          WIDTH="5"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="!"
+                          WC="1"
+                          CC="0">!</String>
+                  <SP ID="P184_SP00181" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00227"
+                          HPOS="729"
+                          VPOS="2000"
+                          WIDTH="81"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="reign,"
+                          WC="0.6483333"
+                          CC="507503">reign,</String>
+                  <SP ID="P184_SP00182" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P184_S00228"
+                          HPOS="825"
+                          VPOS="1997"
+                          WIDTH="42"
+                          HEIGHT="37"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Jcc."
+                          WC="0.4725"
+                          CC="7822">Jcc.</String>
+               </TextLine>
+               <TextLine ID="P184_TL00052"
+                         HPOS="799"
+                         VPOS="2040"
+                         WIDTH="57"
+                         HEIGHT="27">
+                  <String ID="P184_S00229"
+                          HPOS="799"
+                          VPOS="2040"
+                          WIDTH="57"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-9"
+                          CONTENT="169"
+                          WC="0.8"
+                          CC="113">169</String>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://raw.githubusercontent.com/sounding-spirit/ocr-correction/master/alto-style.css"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>00000015.tif</fileName>
+      </sourceImageInformation>
+      <OCRProcessing ID="Processing">
+         <ocrProcessingStep>
+            <processingStepSettings>Image Resolution:300</processingStepSettings>
+            <processingSoftware>
+               <softwareCreator>I2S</softwareCreator>
+               <softwareName>Limb</softwareName>
+               <softwareVersion>1.0</softwareVersion>
+               <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Styles>
+      <TextStyle ID="StyleId-0" FONTSIZE="13" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-1" FONTSIZE="5" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-2" FONTSIZE="8" FONTFAMILY="Times New Roman"/>
+      <TextStyle ID="StyleId-3" FONTSIZE="6" FONTFAMILY="Times New Roman"/>
+   </Styles>
+   <Layout>
+      <Page ID="P14"
+            PHYSICAL_IMG_NR="14"
+            HEIGHT="2400"
+            WIDTH="1725"
+            ACCURACY="0.7483714"
+            QUALITY_DETAIL="68 words, 389 chars, 288 with recognition greater than 50% (74.04%)">
+         <TopMargin ID="P14_TM00001"
+                    HPOS="0"
+                    VPOS="0"
+                    WIDTH="1725"
+                    HEIGHT="582"/>
+         <LeftMargin ID="P14_LM00001"
+                     HPOS="0"
+                     VPOS="582"
+                     WIDTH="394"
+                     HEIGHT="1215"/>
+         <RightMargin ID="P14_RM00001"
+                      HPOS="1410"
+                      VPOS="582"
+                      WIDTH="315"
+                      HEIGHT="1215"/>
+         <BottomMargin ID="P14_BM00001"
+                       HPOS="0"
+                       VPOS="1798"
+                       WIDTH="1725"
+                       HEIGHT="601"/>
+         <PrintSpace ID="P14_PS00001"
+                     HPOS="394"
+                     VPOS="582"
+                     WIDTH="1015"
+                     HEIGHT="1215">
+            <TextBlock ID="P14_TB00001"
+                       HPOS="728"
+                       VPOS="582"
+                       WIDTH="355"
+                       HEIGHT="53">
+               <TextLine ID="P14_TL00001"
+                         HPOS="734"
+                         VPOS="588"
+                         WIDTH="343"
+                         HEIGHT="41">
+                  <String ID="P14_S00001"
+                          HPOS="734"
+                          VPOS="587"
+                          WIDTH="343"
+                          HEIGHT="42"
+                          STYLEREFS="StyleId-0"
+                          CONTENT="CONTENTS."
+                          WC="0.8066667"
+                          CC="002004153">CONTENTS.</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P14_TB00002"
+                       HPOS="395"
+                       VPOS="759"
+                       WIDTH="780"
+                       HEIGHT="782">
+               <TextLine ID="P14_TL00002"
+                         HPOS="407"
+                         VPOS="763"
+                         WIDTH="105"
+                         HEIGHT="15">
+                  <String ID="P14_S00002"
+                          HPOS="407"
+                          VPOS="763"
+                          WIDTH="105"
+                          HEIGHT="15"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="CHAPTER"
+                          WC="0.52"
+                          CC="0467256">CHAPTER</String>
+               </TextLine>
+               <TextLine ID="P14_TL00003"
+                         HPOS="474"
+                         VPOS="796"
+                         WIDTH="574"
+                         HEIGHT="32">
+                  <String ID="P14_S00003"
+                          HPOS="474"
+                          VPOS="796"
+                          WIDTH="127"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="I.—The"
+                          WC="0.73"
+                          CC="009070">I.—The</String>
+                  <SP ID="P14_SP00001" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00004"
+                          HPOS="621"
+                          VPOS="795"
+                          WIDTH="87"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Year"
+                          WC="0.8725"
+                          CC="0004">Year</String>
+                  <SP ID="P14_SP00002" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00005"
+                          HPOS="727"
+                          VPOS="801"
+                          WIDTH="37"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="of"
+                          WC="0.69"
+                          CC="41">of</String>
+                  <SP ID="P14_SP00003" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00006"
+                          HPOS="783"
+                          VPOS="796"
+                          WIDTH="128"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Jubilee"
+                          WC="0.677142859"
+                          CC="2285012">Jubilee</String>
+                  <SP ID="P14_SP00004" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+               </TextLine>
+               <TextLine ID="P14_TL00004"
+                         HPOS="456"
+                         VPOS="868"
+                         WIDTH="593"
+                         HEIGHT="24">
+                  <String ID="P14_S00007"
+                          HPOS="456"
+                          VPOS="867"
+                          WIDTH="123"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="II.—An"
+                          WC="0.761666656"
+                          CC="000905">II.—An</String>
+                  <SP ID="P14_SP00005" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00008"
+                          HPOS="601"
+                          VPOS="868"
+                          WIDTH="76"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Idea"
+                          WC="0.83"
+                          CC="0204">Idea</String>
+                  <SP ID="P14_SP00006" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00009"
+                          HPOS="696"
+                          VPOS="873"
+                          WIDTH="99"
+                          HEIGHT="21"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="takes"
+                          WC="0.872"
+                          CC="00600">takes</String>
+                  <SP ID="P14_SP00007" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00010"
+                          HPOS="816"
+                          VPOS="867"
+                          WIDTH="102"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Shape"
+                          WC="0.946"
+                          CC="00020">Shape</String>
+                  <SP ID="P14_SP00008" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+               </TextLine>
+               <TextLine ID="P14_TL00005"
+                         HPOS="440"
+                         VPOS="942"
+                         WIDTH="574"
+                         HEIGHT="24">
+                  <String ID="P14_S00011"
+                          HPOS="440"
+                          VPOS="941"
+                          WIDTH="267"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Ill—Launched"
+                          WC="0.7925"
+                          CC="420900010420">Ill—Launched</String>
+                  <SP ID="P14_SP00009" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00012"
+                          HPOS="727"
+                          VPOS="946"
+                          WIDTH="42"
+                          HEIGHT="21"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="on"
+                          WC="0.975"
+                          CC="00">on</String>
+                  <SP ID="P14_SP00010" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00013"
+                          HPOS="792"
+                          VPOS="941"
+                          WIDTH="127"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Stormy"
+                          WC="0.701666653"
+                          CC="013056">Stormy</String>
+                  <SP ID="P14_SP00011" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00014"
+                          HPOS="941"
+                          VPOS="940"
+                          WIDTH="73"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Seas"
+                          WC="0.7675"
+                          CC="0090">Seas</String>
+               </TextLine>
+               <TextLine ID="P14_TL00006"
+                         HPOS="446"
+                         VPOS="1014"
+                         WIDTH="603"
+                         HEIGHT="24">
+                  <String ID="P14_S00015"
+                          HPOS="446"
+                          VPOS="1014"
+                          WIDTH="187"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="IV.—Light"
+                          WC="0.636666656"
+                          CC="4049000410">IV.—Light</String>
+                  <SP ID="P14_SP00012" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00016"
+                          HPOS="652"
+                          VPOS="1018"
+                          WIDTH="34"
+                          HEIGHT="21"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="in"
+                          WC="0.755"
+                          CC="40">in</String>
+                  <SP ID="P14_SP00013" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00017"
+                          HPOS="705"
+                          VPOS="1018"
+                          WIDTH="63"
+                          HEIGHT="21"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="0.71"
+                          CC="053">the</String>
+                  <SP ID="P14_SP00014" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00018"
+                          HPOS="789"
+                          VPOS="1012"
+                          WIDTH="81"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="East"
+                          WC="0.99"
+                          CC="0000">East</String>
+                  <SP ID="P14_SP00015" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+               </TextLine>
+               <TextLine ID="P14_TL00007"
+                         HPOS="459"
+                         VPOS="1086"
+                         WIDTH="591"
+                         HEIGHT="24">
+                  <String ID="P14_S00019"
+                          HPOS="459"
+                          VPOS="1085"
+                          WIDTH="204"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="V—Success"
+                          WC="0.98777777"
+                          CC="000000001">V—Success</String>
+                  <SP ID="P14_SP00016" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00020"
+                          HPOS="683"
+                          VPOS="1091"
+                          WIDTH="39"
+                          HEIGHT="20"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="at"
+                          WC="1"
+                          CC="00">at</String>
+                  <SP ID="P14_SP00017" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00021"
+                          HPOS="742"
+                          VPOS="1085"
+                          WIDTH="78"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Last"
+                          WC="1"
+                          CC="0000">Last</String>
+                  <SP ID="P14_SP00018" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+               </TextLine>
+               <TextLine ID="P14_TL00008"
+                         HPOS="444"
+                         VPOS="1156"
+                         WIDTH="606"
+                         HEIGHT="26">
+                  <String ID="P14_S00022"
+                          HPOS="444"
+                          VPOS="1156"
+                          WIDTH="156"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="VI—The"
+                          WC="0.8883333"
+                          CC="050010">VI—The</String>
+                  <SP ID="P14_SP00019" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00023"
+                          HPOS="621"
+                          VPOS="1156"
+                          WIDTH="125"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Second"
+                          WC="0.865"
+                          CC="000061">Second</String>
+                  <SP ID="P14_SP00020" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00024"
+                          HPOS="766"
+                          VPOS="1155"
+                          WIDTH="165"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Campaign"
+                          WC="0.71625"
+                          CC="07950000">Campaign</String>
+                  <SP ID="P14_SP00021" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+               </TextLine>
+               <TextLine ID="P14_TL00009"
+                         HPOS="427"
+                         VPOS="1227"
+                         WIDTH="600"
+                         HEIGHT="25">
+                  <String ID="P14_S00025"
+                          HPOS="427"
+                          VPOS="1227"
+                          WIDTH="173"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="VII.—The"
+                          WC="0.56125"
+                          CC="03349077">VII.—The</String>
+                  <SP ID="P14_SP00022" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00026"
+                          HPOS="621"
+                          VPOS="1227"
+                          WIDTH="93"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="First"
+                          WC="0.998"
+                          CC="00000">First</String>
+                  <SP ID="P14_SP00023" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00027"
+                          HPOS="732"
+                          VPOS="1227"
+                          WIDTH="88"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Visit"
+                          WC="0.748"
+                          CC="06060">Visit</String>
+                  <SP ID="P14_SP00024" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00028"
+                          HPOS="837"
+                          VPOS="1232"
+                          WIDTH="39"
+                          HEIGHT="22"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="to"
+                          WC="0.905"
+                          CC="01">to</String>
+                  <SP ID="P14_SP00025" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00029"
+                          HPOS="897"
+                          VPOS="1226"
+                          WIDTH="131"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="London"
+                          WC="0.728333354"
+                          CC="060630">London</String>
+               </TextLine>
+               <TextLine ID="P14_TL00010"
+                         HPOS="411"
+                         VPOS="1298"
+                         WIDTH="713"
+                         HEIGHT="30">
+                  <String ID="P14_S00030"
+                          HPOS="411"
+                          VPOS="1298"
+                          WIDTH="144"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="VIII.—A"
+                          WC="0.8042857"
+                          CC="0603300">VIII.—A</String>
+                  <SP ID="P14_SP00026" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00031"
+                          HPOS="575"
+                          VPOS="1299"
+                          WIDTH="83"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Busy"
+                          WC="0.665"
+                          CC="7005">Busy</String>
+                  <SP ID="P14_SP00027" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00032"
+                          HPOS="675"
+                          VPOS="1297"
+                          WIDTH="143"
+                          HEIGHT="32"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Winter,"
+                          WC="0.8685714"
+                          CC="1400200">Winter,</String>
+                  <SP ID="P14_SP00028" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00033"
+                          HPOS="837"
+                          VPOS="1302"
+                          WIDTH="65"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="and"
+                          WC="0.686666667"
+                          CC="062">and</String>
+                  <SP ID="P14_SP00029" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00034"
+                          HPOS="922"
+                          VPOS="1302"
+                          WIDTH="45"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="its"
+                          WC="0.98"
+                          CC="000">its</String>
+                  <SP ID="P14_SP00030" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00035"
+                          HPOS="988"
+                          VPOS="1296"
+                          WIDTH="136"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Results"
+                          WC="0.89"
+                          CC="1500000">Results</String>
+               </TextLine>
+               <TextLine ID="P14_TL00011"
+                         HPOS="442"
+                         VPOS="1370"
+                         WIDTH="677"
+                         HEIGHT="24">
+                  <String ID="P14_S00036"
+                          HPOS="442"
+                          VPOS="1371"
+                          WIDTH="155"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="IX.—The"
+                          WC="0.947142839"
+                          CC="0000030">IX.—The</String>
+                  <SP ID="P14_SP00031" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00037"
+                          HPOS="618"
+                          VPOS="1371"
+                          WIDTH="124"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Second"
+                          WC="0.79"
+                          CC="020406">Second</String>
+                  <SP ID="P14_SP00032" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00038"
+                          HPOS="762"
+                          VPOS="1370"
+                          WIDTH="78"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Trip"
+                          WC="1"
+                          CC="0000">Trip</String>
+                  <SP ID="P14_SP00033" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00039"
+                          HPOS="859"
+                          VPOS="1368"
+                          WIDTH="129"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Abroad"
+                          WC="0.6816667"
+                          CC="0602100">Abroad</String>
+                  <SP ID="P14_SP00034" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+               </TextLine>
+               <TextLine ID="P14_TL00012"
+                         HPOS="458"
+                         VPOS="1440"
+                         WIDTH="714"
+                         HEIGHT="25">
+                  <String ID="P14_S00040"
+                          HPOS="458"
+                          VPOS="1441"
+                          WIDTH="238"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="X.—Personal"
+                          WC="0.75636363"
+                          CC="00050032806">X.—Personal</String>
+                  <SP ID="P14_SP00035" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00041"
+                          HPOS="716"
+                          VPOS="1441"
+                          WIDTH="166"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Histories"
+                          WC="0.8666667"
+                          CC="500000600">Histories</String>
+                  <SP ID="P14_SP00036" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00042"
+                          HPOS="902"
+                          VPOS="1444"
+                          WIDTH="38"
+                          HEIGHT="22"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="of"
+                          WC="0.93"
+                          CC="10">of</String>
+                  <SP ID="P14_SP00037" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00043"
+                          HPOS="957"
+                          VPOS="1443"
+                          WIDTH="62"
+                          HEIGHT="23"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="the"
+                          WC="1"
+                          CC="000">the</String>
+                  <SP ID="P14_SP00038" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00044"
+                          HPOS="1040"
+                          VPOS="1437"
+                          WIDTH="132"
+                          HEIGHT="29"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Singers"
+                          WC="0.7271429"
+                          CC="0703250">Singers</String>
+               </TextLine>
+               <TextLine ID="P14_TL00013"
+                         HPOS="441"
+                         VPOS="1512"
+                         WIDTH="651"
+                         HEIGHT="24">
+                  <String ID="P14_S00045"
+                          HPOS="441"
+                          VPOS="1513"
+                          WIDTH="253"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="XI.—Personal"
+                          WC="0.8975"
+                          CC="001050005000">XI.—Personal</String>
+                  <SP ID="P14_SP00039" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00046"
+                          HPOS="715"
+                          VPOS="1512"
+                          WIDTH="166"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Histories"
+                          WC="0.9077778"
+                          CC="300000310">Histories</String>
+                  <SP ID="P14_SP00040" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00047"
+                          HPOS="902"
+                          VPOS="1511"
+                          WIDTH="190"
+                          HEIGHT="28"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Concluded"
+                          WC="0.8744444"
+                          CC="000003503">Concluded</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P14_TB00003"
+                       HPOS="1266"
+                       VPOS="790"
+                       WIDTH="141"
+                       HEIGHT="750">
+               <TextLine ID="P14_TL00014"
+                         HPOS="1345"
+                         VPOS="796"
+                         WIDTH="47"
+                         HEIGHT="24">
+                  <String ID="P14_S00048"
+                          HPOS="1345"
+                          VPOS="796"
+                          WIDTH="47"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-1"
+                          CONTENT="i-8"
+                          WC="0.476666659"
+                          CC="536">i-8</String>
+               </TextLine>
+               <TextLine ID="P14_TL00015"
+                         HPOS="1325"
+                         VPOS="871"
+                         WIDTH="68"
+                         HEIGHT="26">
+                  <String ID="P14_S00049"
+                          HPOS="1325"
+                          VPOS="871"
+                          WIDTH="68"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="9-14"
+                          WC="0.465"
+                          CC="7066">9-14</String>
+               </TextLine>
+               <TextLine ID="P14_TL00016"
+                         HPOS="1311"
+                         VPOS="945"
+                         WIDTH="79"
+                         HEIGHT="27">
+                  <String ID="P14_S00050"
+                          HPOS="1311"
+                          VPOS="945"
+                          WIDTH="79"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="15-22"
+                          WC="0.722"
+                          CC="50061">15-22</String>
+               </TextLine>
+               <TextLine ID="P14_TL00017"
+                         HPOS="1310"
+                         VPOS="1018"
+                         WIDTH="78"
+                         HEIGHT="25">
+                  <String ID="P14_S00051"
+                          HPOS="1310"
+                          VPOS="1018"
+                          WIDTH="78"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="25-31"
+                          WC="0.276"
+                          CC="78478">25-31</String>
+               </TextLine>
+               <TextLine ID="P14_TL00018"
+                         HPOS="1310"
+                         VPOS="1090"
+                         WIDTH="79"
+                         HEIGHT="25">
+                  <String ID="P14_S00052"
+                          HPOS="1310"
+                          VPOS="1090"
+                          WIDTH="79"
+                          HEIGHT="25"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="32-41"
+                          WC="0.658"
+                          CC="07027">32-41</String>
+               </TextLine>
+               <TextLine ID="P14_TL00019"
+                         HPOS="1309"
+                         VPOS="1161"
+                         WIDTH="84"
+                         HEIGHT="27">
+                  <String ID="P14_S00053"
+                          HPOS="1309"
+                          VPOS="1161"
+                          WIDTH="84"
+                          HEIGHT="27"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="42-50"
+                          WC="0.476"
+                          CC="610431">42-50</String>
+               </TextLine>
+               <TextLine ID="P14_TL00020"
+                         HPOS="1311"
+                         VPOS="1224"
+                         WIDTH="81"
+                         HEIGHT="33">
+                  <String ID="P14_S00054"
+                          HPOS="1311"
+                          VPOS="1224"
+                          WIDTH="81"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="51-64"
+                          WC="0.34"
+                          CC="960710">51-64</String>
+               </TextLine>
+               <TextLine ID="P14_TL00021"
+                         HPOS="1309"
+                         VPOS="1293"
+                         WIDTH="84"
+                         HEIGHT="34">
+                  <String ID="P14_S00055"
+                          HPOS="1309"
+                          VPOS="1293"
+                          WIDTH="84"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="65-78"
+                          WC="0.712"
+                          CC="40143">65-78</String>
+               </TextLine>
+               <TextLine ID="P14_TL00022"
+                         HPOS="1310"
+                         VPOS="1366"
+                         WIDTH="83"
+                         HEIGHT="33">
+                  <String ID="P14_S00056"
+                          HPOS="1310"
+                          VPOS="1366"
+                          WIDTH="83"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="78-S8"
+                          WC="0.706"
+                          CC="31207">78-S8</String>
+               </TextLine>
+               <TextLine ID="P14_TL00023"
+                         HPOS="1293"
+                         VPOS="1437"
+                         WIDTH="102"
+                         HEIGHT="33">
+                  <String ID="P14_S00057"
+                          HPOS="1293"
+                          VPOS="1437"
+                          WIDTH="102"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="89-103"
+                          WC="0.555"
+                          CC="553506">89-103</String>
+               </TextLine>
+               <TextLine ID="P14_TL00024"
+                         HPOS="1281"
+                         VPOS="1506"
+                         WIDTH="112"
+                         HEIGHT="30">
+                  <String ID="P14_S00058"
+                          HPOS="1281"
+                          VPOS="1506"
+                          WIDTH="112"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="104-118"
+                          WC="0.382857144"
+                          CC="61063465">104-118</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P14_TB00004"
+                       HPOS="398"
+                       VPOS="1690"
+                       WIDTH="714"
+                       HEIGHT="108">
+               <TextLine ID="P14_TL00025"
+                         HPOS="413"
+                         VPOS="1698"
+                         WIDTH="695"
+                         HEIGHT="33">
+                  <String ID="P14_S00059"
+                          HPOS="413"
+                          VPOS="1699"
+                          WIDTH="68"
+                          HEIGHT="26"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="The"
+                          WC="0.6333333"
+                          CC="064">The</String>
+                  <SP ID="P14_SP00041" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00060"
+                          HPOS="499"
+                          VPOS="1698"
+                          WIDTH="130"
+                          HEIGHT="34"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Jubilee"
+                          WC="0.702857137"
+                          CC="4073040">Jubilee</String>
+                  <SP ID="P14_SP00042" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00061"
+                          HPOS="651"
+                          VPOS="1697"
+                          WIDTH="99"
+                          HEIGHT="36"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Songs"
+                          WC="0.88"
+                          CC="06000">Songs</String>
+                  <SP ID="P14_SP00043" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+               </TextLine>
+               <TextLine ID="P14_TL00026"
+                         HPOS="410"
+                         VPOS="1766"
+                         WIDTH="690"
+                         HEIGHT="30">
+                  <String ID="P14_S00062"
+                          HPOS="410"
+                          VPOS="1773"
+                          WIDTH="69"
+                          HEIGHT="24"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="The"
+                          WC="0.386666656"
+                          CC="287">The</String>
+                  <SP ID="P14_SP00044" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00063"
+                          HPOS="501"
+                          VPOS="1768"
+                          WIDTH="201"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Freedmen's"
+                          WC="0.718"
+                          CC="1033762040">Freedmen's</String>
+                  <SP ID="P14_SP00045" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00064"
+                          HPOS="723"
+                          VPOS="1767"
+                          WIDTH="147"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Missions"
+                          WC="0.79625"
+                          CC="65004001">Missions</String>
+                  <SP ID="P14_SP00046" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00065"
+                          HPOS="890"
+                          VPOS="1765"
+                          WIDTH="60"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Aid"
+                          WC="0.64"
+                          CC="055">Aid</String>
+                  <SP ID="P14_SP00047" WIDTH="0" HPOS="0" VPOS="0"> </SP>
+                  <String ID="P14_S00066"
+                          HPOS="970"
+                          VPOS="1764"
+                          WIDTH="130"
+                          HEIGHT="33"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="Society"
+                          WC="0.811428547"
+                          CC="0005106">Society</String>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="P14_TB00005"
+                       HPOS="1268"
+                       VPOS="1686"
+                       WIDTH="138"
+                       HEIGHT="112">
+               <TextLine ID="P14_TL00027"
+                         HPOS="1280"
+                         VPOS="1693"
+                         WIDTH="112"
+                         HEIGHT="30">
+                  <String ID="P14_S00067"
+                          HPOS="1280"
+                          VPOS="1693"
+                          WIDTH="112"
+                          HEIGHT="30"
+                          STYLEREFS="StyleId-2"
+                          CONTENT="125-217"
+                          WC="0.514285743"
+                          CC="510025100">125-217</String>
+               </TextLine>
+               <TextLine ID="P14_TL00028"
+                         HPOS="1280"
+                         VPOS="1759"
+                         WIDTH="114"
+                         HEIGHT="35">
+                  <String ID="P14_S00068"
+                          HPOS="1280"
+                          VPOS="1759"
+                          WIDTH="114"
+                          HEIGHT="35"
+                          STYLEREFS="StyleId-3"
+                          CONTENT="128-132"
+                          WC="0.331428558"
+                          CC="6773687">128-132</String>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
